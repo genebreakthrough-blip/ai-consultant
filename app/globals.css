@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* You can add tiny shared styles here if you like */
+html, body { height: 100%; }

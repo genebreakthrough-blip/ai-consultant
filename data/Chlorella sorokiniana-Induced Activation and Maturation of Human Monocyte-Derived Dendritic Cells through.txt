@@ -1,0 +1,478 @@
+Hindawi Publishing Corporation 
+Evidence-Based Complementary and Alternative Medicine 
+Volume 2012, Article ID 735396, 12 pages 
+doi:10.1155/2012/735396 
+Research Article 
+Chlorella sorokiniana-Induced Activation and Maturation of Human Monocyte-Derived Dendritic Cells through NF-κB and PI3K/MAPK Pathways 
+Nien-Tzu Chou, Chieh-Fang Cheng, Hsin-Chieh Wu, Chin-Pen Lai, 
+Li-Tsen Lin, I-Horng Pan, and Ching-Huai Ko 
+Biomedical Technology and Device Research Laboratories, Industrial Technology Research Institute, Hsinchu 31040, Taiwan Correspondence should be addressed to I-Horng Pan, i-horngpan@itri.org.tw and Ching-Huai Ko, chko@itri.org.tw Received 26 April 2012; Revised 5 October 2012; Accepted 11 October 2012 
+Academic Editor: Alfredo Vannacci 
+Copyright © 2012 Nien-Tzu Chou et al. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+Chlorella sorokiniana (CS) is a unicellular green alga. The extracts of Chlorella have been used as treatments for relieving hyper tension and modulating immune response. The detailed mechanisms are not clear yet. In this study, we sought to study the molecular mechanisms for the polysaccharide fraction of CS-induced immune response. We pulsed dendritic cells (DCs) with CS and found that CS could maturate DCs. CS-maturated DC could activate na¨ıve T cells and stimulate T-cell proliferation and IFN-γ secretion. Furthermore, CS activated PI3K and MAPKs signaling pathways in DCs by interacting with TLR4 receptor. These CS activated signaling pathways could further activate NF-κB and induce IL-12 production in DCs. This study provides molecular mechanisms for CS-induced DCs activation and immune response. 
+
+1. Introduction 
+Chlorella is a genus of freshwater unicellular green algae. The extracts of Chlorella have been proposed as potential treatments for improving human health and wildly used as botanical foods. For example, Chlorella extracts were used as nutrition supplements in relieving hypertension and treatments for modulating human immune responses [1– 4]. It was reported that Chlorella extracts can elicit vari ous beneficial pharmacological effects against cancers [5], bacterial infections [6], and viral replication [7, 8]. From an earlier study, Chlorella extracts were shown to strongly increase the production of IFN-γ and IL-2 and activate Th1 cells to strengthen immune system and host defense [9]. Hasegawa et al. demonstrated the roles of Chlorella extracts in inducing IFN-γ and IL-2 mRNA expression and activating cell-mediated immunity [10]. 
+DCs are professional antigen-presenting cells (APCs) and have unique ability in linking innate and adaptive immunity [11, 12]. Immature DCs are able to ingest antigens. Once activated, DCs go through a series of maturation processes 
+that include migration to lymphoid tissues, downregulation of antigen uptake, upregulation of major histocompatibility complex (MHC) class II, costimulatory molecules (CD40, CD80, and CD86), and a specific maturation marker CD83 [13–15], and finally presenting antigenic peptides to T lym phocytes [16]. 
+The MAPK families (p38, ERK, and JNK) were activated in response to a variety of cellular stress or stimuli, including oxidative stress, LPS and TNF-α, in all cell types indicated [17, 18]. 
+The effects of CS on human DCs are not yet defined. In this study, we examined the molecular mechanisms of CS in the activation and maturation processes of human mono cyte-derived DC. 
+2. Materials and Methods 
+2.1. Reagents. Escherichia coli LPS (L8274, E. coli), lipote ichoic acid (LTA; L2515, from Staphylococcus aureus), and H2O2 were purchased from Sigma Chemical Co. (St. Louis,
+
+2 Evidence-Based Complementary and Alternative Medicine 
+
+MO, USA). Neutralization antibodies against toll-like recep tor (TLR)-2 and TLR-4 were purchased from eBiosciences (San Diego, CA, USA). Helenalin, SB203580, PD98059, and JNK inhibitor II were purchased from Calbiochem (Darm stadt, Germany). LY294002 was purchased from LC Labora tories (Woburn, MA, USA). These inhibitors were dissolved in dimethyl sulfoxide (DMSO) from Sigma-Aldrich (St. Louis, MO, USA), and 0.1% (v/v) DMSO was used as neg ative control whenever indicated. The duration of pretreat ment of these compounds (LY294002, helenalin, SB203580, PD98059, and JNK inhibitor II) on immature DCs before stimulation was 1 h unless indicated otherwise. 
+2.2. Preparation Polysaccharide Fraction of Chlorella sorokini ana (CS). Chlorella sorokiniana is a commercially available product (International Cryptomonadales Biotechnology, Taiwan). Fifty grams of Chlorella sorokiniana powders were refluxed with 150 mL distilled water for 1 h. The extracts (polysaccharide fraction) were filtered through no. 5 filter paper (Toyo Roshi, Toyo, Japan) and vacuum concentrated at 60◦C. The presence of LPS was detected by the chromogenic Limulus amebocyte lysate assay (Charles River Laboratories, Inc., Wilmington, MA, USA). The cytotoxicity of CS against normal cells (PBMC) was assessed by Alamar Blue assay (AbD Serotec, Oxford, UK) because of its low toxicity to nor mal cells [19, 20]. CS was not toxic to PBMC at the highest concentration tested (>100 μg/mL) (data not shown). 
+2.3. Generation of Monocyte-Derived DC. All cell subsets were isolated from peripheral blood of healthy donors. Peripheral blood mononuclear cells (PBMCs, obtained from the Taiwan Blood Services Foundation, Taiwan) were iso lated from heparinized whole blood by Ficoll/Isopaque/ 1.077 g/mL (Pharmacia, Freiburg, Germany) density gradi ent centrifugation (2800 rpm, 20 min, 22◦C). CD14+ cells were purified by positive selection using anti-CD14+ micro beads with the MiniMACS system by following the manu facturer’s instructions (Miltenyi Biotec, Auburn, CA, USA). The DC14+ cells were cultured at 1×106/mL in 24-well plates (Costar, Cambridge, MA, USA) in RPMI 1640 with 10% fetal bovine serum (FBS), 2 mM L-glutamine, 25 mM HEPES, 100 U/mL penicillin, 100 U/mL streptomycin (Invitrogen, Carlsbad, CA, USA), granulocyte macrophage-colony stim ulating factor (GM-CSF; 25 ng/mL), and IL-4 (25 ng/mL) (Peprotech, London, UK), and media were changed every 2-3 days. Human monocyte-derived DCs were harvested on day 6. 
+2.4. Cytokine Measurements. IL-12 and IFN-γ secreted from DCs or T cells were assayed with an enzyme-linked immu nosorbent assay (ELISA) kit (R&D Systems, Minneapolis, MN, USA). The absorbance of the plate was detected by a SpectraMax M5 microplate reader (Molecular Devices, Sun nyvale, CA, USA) with input wavelength at 450–540 nm. The detecting limits of these ELISAs were 31.3 pg/mL for IL-12 and 15.6 pg/mL for IFN-γ. 
+2.5. Quantitative Reverse Transcription-Polymerase Chain Reaction (QRT-PCR). For real-time RT-PCR analysis, the 
+total RNA of cells was extracted by using the RNeasy Mini Kit (Qiagen). DNA was eliminated by Deoxyribonuclease I (Invitrogen). Briefly, the total RNA (0.8 μg) of each sample was reversely transcribed with 0.5 μg of oligo dT and 200 U SuperScript III RT (Invitrogen) in a 20 μL reaction. PCR was carried out by StepOnePlus Real-Time PCR System (ABI) in a total volume of 25 μL containing 0.5 mM of each primer, 1x Power SYBR Green PCR Master Mix (Life Technologies), and 50 ng cDNA. The quantification of the unknown samples was performed by StepOne Software, version 2.0 (ABI). GAPDH was amplified as a reference standard in each experiment. The primers used are as fol lowed: IL12 p35 (F): GCCACAGGTCTGCATCCA, IL12 p35 (R): GACCTGGCGGGCTGAGTA, IL12 p40 (F): GGGGT GACGTGCGGAGCTGCT, IL12 p40 (R): TCTTGCCCTG GACCTGAACGC, GAPDH (F): GAAGGTGAAGGTCG GAGT, GAPDH (R): GAAGATGGTGATGGGATTTC. 
+2.6. Flow Cytometric Analysis. DCs were harvested, washed, and incubated with cold phosphate-buffered saline (PBS) (Invitrogen, Carlsbad, CA, USA). Cells were then incubated with dye-labeled monoclonal antibodies (mAbs) against target molecules (HLA-DR-FITC, CD83-PE, CD86-FITC, CD80-PE) (BD Biosciences PharMingen, San Diego, CA, USA) for 30 min on ice. Stained cells were then washed twice and resuspended in cold buffer and analyzed with a FACScan flow cytometry (Becton Dickinson, San Jose, CA, USA). More than 1 × 105 cells were analyzed for each sample, and the results were processed by using WinMDI 2.8 software (Scripps Research Institute, La Jolla, CA, USA). 
+2.7. FITC-Labeled Dextran Uptake. Cultured DCs were washed twice and resuspended in 1 mL RPMI 1640 sup plemented with 10% FBS, 2 mM L-glutamine, 100 U/mL penicillin, 100 U/mL streptomycin, and 25 mM HEPES. The cells were stimulated with CS (30 μg/mL) for 48 h and then incubated with FITC-dextran (Sigma Chemical, St. Louis, MO, USA) (0.5 mg/mL) at 4◦C or 37◦C for 1 h. Afterward, the cells were washed thrice with ice-cold PBS and analyzed with a FACScan flow cytometry as described above. 
+2.8. Allogeneic Mixed Leukocyte Reaction (MLR). An allo geneic MLR (allo-MLR) was performed by following a modified protocol [21]. After treated with CS, DCs were har vested and incubated with mitomycin-C (50 μg/mL, Sigma Chemical, St. Louis, MO, USA) for 1 h at 37◦C to inhibit cell proliferation. These cells were then washed three times with ice-cold PBS and plated into 96-well U-bottom culture plates (Corning, NY, USA) as stimulators for T cells. 
+CD3+ T cells for the allo MLR assay were obtained from allogeneic PBMC purified with MACS beads (Miltenyi Biotec, Auburn, CA, USA). The purity of isolated cells was >95% of CD3+ T cells as determined by flow cytometry. Puri fied CD3+ T cells (Responder cells) were added to 96-well U-bottom culture plates at 1×105 cells/well. The final volume is 200 μL/well, and the plates were incubated at 37◦C in 5% CO2. After coculturing T cells and DC for 2 days, cell-free supernatants were collected, and secreted human
+
+Evidence-Based Complementary and Alternative Medicine 3 
+
+IFN-γ was quantified by ELISA. T-cell proliferation was detected by Alamar Blue assay after being cocultured with DC for 5 days. The number of viable cells correlated with the magnitude of dye reduction and was quantified as per centage of alamarblue reduction. The percentage of alamar blue reduction (% reduction) is calculated according to the following formula: 
+% Reduction  % Viability  
+data were mean ± SEM of three independent experiments unless indicated otherwise. 
+3. Results 
+3.1. CS Induces Phenotypic Maturation and IL-12 Production of Human Monocyte-Derived DC by Activating NF-κB. LPS, a component of the Gram-negative bacterial cell membrane, was described as an inducer of DC activation and maturation 
+
+= (O2 × A1) − (O1 × A2) (R1 × N2) − (R2 × N1) × 100. 
+(1) 
+[25]. Therefore, we use LPS as a positive control in this study. To determine whether CS can modulate the development of human DCs in vitro, we compared the phenotype of 
+
+O1 and O2 are constants representing the molar extinction coefficient of oxidized alamarblue at 570 and 600 nm; R1 and R2 are molar extinction coefficients of reduced form of alamarblue at 570 and 600 nm, respectively. A1 and A2 represent absorbance of unknowns at 570 and 600 nm. N1 and N2 represent absorbance of negative controls at 570 and 600 nm, respectively. The values of % alamarblue reduction were calibrated with negative controls containing cell-free medium. 
+2.9. Neutralization Experiments. Human DCs were prein cubated with 20 μg/mL antibody against TLR-2 or TLR 4 (eBioscience, San Diego, CA, USA) for 1 h followed by LPS (1 μg/mL), LTA (1 μg/mL) (Sigma Chemical, St. Louis, MO, USA), or CS (30 μg/mL) treatments for 24 h. The conditioned media were collected and analyzed for IL-12 secretion by ELISA [22]. 
+2.10. Western Blotting. Total cellular lysates were prepared by using RIPA lysis buffer. Proteins in cell lysates (40 μg) were separated on 10% SDS-polyacrylamide minigels and elec trotransferred to a PVDF membrane by iBlot Dry Blotting System (Invitrogen, Carlsbad, CA, USA). Antibodies used in this study were as follows: total-JNK (rabbit pAb sc-571) (Santa Cruz Biotechnology, Santa Cruz, CA, USA), phospho p38 (rabbit pAb #9211), total-p38 (rabbit pAb #9212), phospho-JNK (rabbit mAb #4668), phospho-p42/44 (rabbit pAb #9101), total-p42/44 (rabbit pAb #9102), phospho AKT (rabbit mAb #2965), total-AKT (rabbit mAb #4691), α-tubulin (rabbit mAb #2125), and β-Actin (rabbit mAb #4970) (Cell Signaling Technology, Boston, MA, USA) [23, 24]. 
+2.11. NF-κB Assay. Human DCs were treated with CS (30 μg/mL) or LPS (1 μg/mL) for 15 min, 30 min, 2 h, or over night. Nuclear proteins were extracted by using the Nuclear Extract Kit (Active Motif, Carlsbad, CA, USA), and protein concentration was determined by using the Bio-Rad Protein Assay (Bio-Rad Life Science Research, Hercules, CA, USA). For each assay, 5 μg of extracted nuclear protein was used in a TransAM NF-κB p65 ELISA kit (Active Motif, Carlsbad, CA, USA) according to the manufacturer’s instruction. 
+2.12. Statistical Analysis. Data were analyzed by Student’s t test and considered statistically significant if P < 0.05. All 
+human DCs treated with or without CS for 48 h. We demonstrated that CS increased the expression of CD83, CD86, CD80, and MHC class II molecules on the cell surface of human DCs (Figures 1(a) and 1(b)). In order to test the properties of CS in stimulating IL-12 secretion in DCs, DCs were cultured in the presence of different amounts of CS. The production of IL-12 was dose dependently enhanced by CS treatment (Figure 1(c)). When treated with CS (30 μg/mL) for different durations, human DCs secreted IL-12 time dependently, and maximum secretion was observed within 18–48 h (Figure 1(d)). Therefore, the stimulatory effect of CS on IL-12 pro-duction in DCs was both dose and time dependent. To further examine whether CS could affect IL-12 expression, human DCs were treated with CS for indicated periods of time and assayed for IL-12 p35 and IL-12 p40 mRNA expression by QRT-PCR. Highest level of both IL-12 p35 and IL-12 p40 mRNA was expressed at 6 h posttreatment in human DCs (Figures 1(e) and 1(f)). 
+Immature DCs capture and process antigens via endo cytosis with high efficiency. Once entering the maturation processes, DCs lose their abilities to ingest and process anti gens and become potent immunostimulatory APCs [26]. To study whether CS affected the endocytic capacities of DCs, we examined the uptake of FITC-labeled dextran by DCs. As LPS, CS reduced the endocytic capacities of DCs during DC maturation (Figure 1(g)). 
+LPS induced DC maturation through activating NF κB signaling [27]. To determine whether CS matured DC through a similar pathway, we monitored the translocation of NF-κB into the nucleus induced by CS. DCs were cultured in the presence of CS for the indicated period of time, and nuclear extracts were collected and analyzed for NF κB binding activity using an ELISA-based assay. As shown in Figure 1(h), CS induced a rapid nuclear translocation of p65 and upregulated NF-κB binding activity with maximum activity at 2 h poststimulation. 
+3.2. CS-Treated Human DCs Enhance T-Cell Activation. Com pared to immature DCs, mature DCs are capable of inducing allogeneic T-cell proliferation more efficiently [28]. Since CS could upregulate cell-surface markers and increase IL-12 production in DCs, we would like to study whether CS induced DC maturation was sufficient in activating na¨ıve T cells. Immature DCs were treated with LPS or CS and then cocultured with allogeneic na¨ıve T cells. The results showed that CS-treated human DC enhanced T-cell activation, as
+
+4 Evidence-Based Complementary and Alternative Medicine 
+
+HLA-DR 89.72% 
+CD83 CD86 53.07% 34.39% 
+CD80 
+80.56% 
+
+M1 M1 M1 M1 
+
+Control 
+Gate (%) 
+Events 
+128 0 
+128 0 
+128 0 
+128 0 
+
+100 101 102 103 104 100 101 102 103 104 100 101 102 103 104 100 101 102 103 104 FL1-H FL1-H FL2-H FL2-H 
+99.71% 99.98% 99.94% 98.46% 
+
+LPS 
+Gate (%) 
+Events 
+M1 M1 M1 
+M1 
+128 128 
+128 
+128 
+0 
+0 
+0 0 
+
+100 101 102 103 104 100 101 102 103 104 100 101 102 103 104 100 101 102 103 104 FL1-H FL2-H FL2-H FL1-H 
+99.71% 96.96% 99.93% 99.63% M1 M1 M1 M1 
+
+CS 
+Gate (%) 
+Events 
+128 0 
+128 0 
+128 0 
+128 0 
+
+100 101 102 103 104 100 101 102 103 104 100 101 102 103 104 100 101 102 103 104 FL1-H FL1-H FL2-H FL2-H 
+Fluorescence intensity 
+(a) 
+
+Gate (%) 
+100 80 
+60 
+40 
+20 
+0 
+∗ 
+∗ ∗ ∗ 
+∗ 
+∗ 
+∗ ∗ 
+IL-12p70 (pg/mL) 
+2000 1800 1600 1400 1200 1000 800 
+600 
+400 
+200 
+0 
+∗ 
+∗ 
+N.D 
+∗ 
+∗ 
+∗ 
+
+Cont LPS 1 3 10 30 100 
+CS (μg/mL) 
+CD83 
+CD86 
+(b) 
+∗ 
+∗ 
+600 
+2000 
+Cont LPS 10 30 100 300 CS (μg/mL) 
+(c) 
+IL-12 p40 
+
+IL-12p70 (pg/mL)∗ 
+400 
+RQ 
+200 
+1500 1000 500 
+
+N.D N.D N.D 
+0 
+0 
+Cont 3 6 18 24 48 
+Time (hrs) 
+(d) 
+0 3 6 18 24 48  (hr) 
+(e) 
+
+Figure 1: Continued.
+Evidence-Based Complementary and Alternative Medicine 5 
+
+RQ 
+IL-12 p35 
+30 
+20 
+10 
+0 
+0 3 6 18 24 48  (hr) 
+(f) 
+
+Control 
+64 Events 
+LPS 
+64 Events 
+FITC-dextran 
+CS 
+64 Events 
+
+0 
+0
+100 101 102 103 104 FL1-H 
+1.6 
+1.4 
+1.2 
+0
+100 101 102 103 104 FL1-H 
+Fluorescence intensity 
+(g) 
+NF-κB p65 activity 
+∗ 
+∗ 
+∗ 
+100 101 102 103 104 FL1-H 
+∗ 
+
+O.D 450 nm 
+1 
+0.8 0.6 0.4 0.2 0 
+∗ 
+Cont LPS 0.25 0.5 2 24 CS (hrs) 
+(h) 
+
+Figure 1: The effects of CS on DC maturation. (a) Human DCs were treated with CS (30 μg/mL), LPS (1 μg/mL), or medium alone for 48 h, and surface markers were analyzed by flow cytometry (dotted line, isotype control; solid line: specific mAb). The values shown were the percentage of gated cells (Gated %). (b) DCs were treated with CS at different concentrations, and the expressions of CD83 and CD86 were analyzed by flow cytometry (black bar: CD83; gray bar: CD86). LPS was used as positive control. (c) Human DCs were cultured in the presence of 1 μg/mL LPS or various concentrations of CS for 48 h. IL-12 secretion was analyzed by ELISA after incubation. (d) The time dependent effect of CS (30 μg/mL) treatments on IL-12 secretion in DCs. IL-12 secretion was analyzed by ELISA. ∗P < 0.05 compared to control. N.D: nondetectable. ((e) and (f)) QRT-PCR analysis of IL-12 p35 and IL-12 p40. DCs were incubated in the presence of CS (30 μg/mL) for 3, 6, 18, 24, and 48 h. Representative images of three independent experiments were shown here. Lane M: marker. (g) The effect of CS on DC endocytosis. Human PBMCs were cultured for 6 days, and monocytes were induced to differentiated DCs (refer to Section 2). Immature DCs were stimulated with medium alone, LPS (1 μg/mL), or CS (30 μg/mL) for 48 h, and then incubated with FITC dextran (0.5 mg/mL) for 1 h at 4◦C (dotted line) or 37◦C (solid line). (h) Human monocyte-derived DC were incubated with CS (30 μg/mL) for the indicated period of time. NF-κB assay was described in Section 2. The binding activity of NF-κB was shown as relative OD450 levels. LPS (1 μg/mL) treatment for 2 h was used as positive control. ∗P < 0.05 compared to control.
+6 Evidence-Based Complementary and Alternative Medicine T-cell proliferation 
+
+Ratio 
+∗ 
+1.5 
+1 
+0.5 
+0 
+∗ ∗ ∗∗∗ IFN-γ (pg/mL) 
+600 500 400 300 200 100 0 
+∗ 
+∗ 
+∗ ∗ 
+∗ 
+∗ ∗ 
+
+1/40 1/20 1/10 1/5 DC /T-cell ratio 
+Control 
+LPS 
+CS 
+(a) 
+N.D N.D N.D 
+1/40 1/20 1/10 1/5 DC /T-cell ratio 
+Control 
+LPS 
+CS 
+(b) 
+
+Figure 2: Allogeneic T-cell responses induced by CS-treated DCs. Immature DCs were stimulated with CS (30 μg/mL) or LPS (1 μg/mL) for 48 h. Allogeneic T cells (1×105) were cocultured in 96-well U-bottom microplates with CS-treated DCs as described. (a) T-cell proliferation was determined by using an Alamar Blue assay 5 days post coculturing. Experimental groups were compared to corresponding control groups. (b) After 2 days of coculturing, the production of IFN-γ by T cells was analyzed by ELISA. Data were expressed as means ± SEM of triplicates from three independent experiments. ∗P < 0.05 compared to control. N.D: nondetectable. 
+
+evidenced by the secretion of IFN-γ by T cells (Figures 2(a) and 2(b)). 
+3.3. PI3K/AKT Pathway Acts Upstream of the MAPKs in CS Stimulated DC. We sought to study the effects of CS treat ments in regulating intracellular signaling pathways in DCs. Human DCs were stimulated with CS, and the levels of MAPK phosphorylations were assessed by Western blotting. β-actin and α-tubulin were used for internal control. Our results showed that CS induced kinase phosphorylation of all MAPKs tested between 5 and 15 min after treatment (Figures 3(a) and 3(b)). To further study the roles of these signaling pathways in CS-induced DC maturation, we treated DC with chemical inhibitors against MAPKs. The doses of these inhibitors were determined based on cytotoxicity assay (see Supplemental Figure 1 available online at doi:10.1155/2012/ 735396). The maximum nontoxic concentration was used in our experiments. Pretreating cells with LY294002, a spe cific inhibitor of PI3K [29], resulted in blocking both CS induced MAPKs phosphorylations and CS-induced AKT phosphorylation in DCs (Figure 3(c)). These data clearly illustrated that PI3K acted upstream of MAPKs in the CS induced signaling cascades. In order to study the regulation of CS-induced NF-κB activation, DCs were preincubated with LY294002. Our results showed that LY294002 abrogated CS-induced NF-κB expression (Figure 3(d)). Next, we exa mined whether NF-κB and MAPKs signaling was involved in the regulation of CS-stimulated DC activation and IL-12 secretion. Immature human DCs were pretreated with hele nalin (a specific blocker of NF-κB), SB203580 (a specific 
+blocker of p38 MAPK), PD98059 (an inhibitor of the ERK pathway), JNK inhibitor II (an inhibitor of the JNK path way), or LY294002 (an inhibitor of the PI3K pathway) for 1 h and subsequently stimulated with CS for 48 h. The pro duction of IL-12 was quantified by ELISA. IL-12 secretion induced by CS was significantly abrogated by inhibitors against NF-κB, PI3K, and MAPKs (Figure 3(e)). To further examine the involvement of NF-κB and MAPKs in DC maturation, we blocked NF-κB, PI3K, and MAPKs by helenalin and other MAPKs-specific inhibitors. All these inhibitors except PD98059, a specific inhibitor of ERK, signi ficantly inhibited CS-induced upregulation of CD83 and CD86 in DCs (Figure 3(f)). These results showed that NF-κB, PI3K, p38, and JNK played critical roles in DC maturation and IL-12 secretion. ERK was important for IL-12 secretion in DCs. However, the role of ERK in DC maturation was redundant and could be compensated by other signaling molecules. 
+3.4. CS-Induced TLR4 Signaling via the PI3K/AKT-MAPKs Pathway. Toll-like receptors (TLRs) are important pattern recognition receptors on cell surface of immune cells. LPS, Gram-negative bacterial cell membrane components, inter act with TLR4. Gram-positive bacterial cell wall components such as lipoteichoic acid (LTA) are known ligands for TLR2 [30–32]. To determine whether these receptors were involved in CS-induced DC activation, neutralizing antibodies against TLR2 and TLR4 were added to DC 24 h prior to LPS, LTA, or CS treatments. As shown in Figure 4(a), anti-TLR4 neutralizing antibody significantly inhibited both CS- and
+
+Evidence-Based Complementary and Alternative Medicine 7 
+CS LPS 
+5 15 30 60 15 30 60 
+Cont (min) 
+Phospho-p44 MAPK (44 kDa) 
+Phospho-p42 MAPK (42 kDa) 
+p44 MAPK (44 kDa) 
+p42 MAPK (42 kDa) 
+Phospho-p38 MAPK (43 kDa) 
+
+CS LPS 
+15 30 60 60 15 30 
+Cont (min) (a) 
+CS  
+
+Phospho-AKT (60 kDa) Total-AKT (60 kDa) β-actin (42 kDa) (b) 
+p38 MAPK (43 kDa) 
+Phospho-p54 JNK (54 kDa) Phospho-p46 JNK (46 kDa) 
+β-actin (42 kDa) 
+α-tubulin (52 kDa) 
+Cont  
+0 5 25 50 100 LY294002 (μM) ...1 hr 
+Phospho-AKT 
+(60 kDa) 
+AKT (60 kDa) 
+Phospho-p44 MAPK (44 kDa) 
+Phospho-p42 MAPK (42 kDa) 
+p44 MAPK (44 kDa) 
+p42 MAPK (42 kDa) 
+NF-κB p65 activation 
+
+
+Phospho-p38 MAPK (43 kDa) 
+p38 MAPK (43 kDa) 
+Phospho-p54 JNK (54 kDa) Phospho-p46 JNK (46 kDa) 
+p54 JNK (54 kDa) 
+p46 JNK (46 kDa) 
+β-actin (42 kDa) 
+O.D 450 nm 
+1.2 1 
+0.8 0.6 0.4 0.2 0 
+∗ 
+∗ 
+∗ 
+
+LY294002 (μM) 0 0 5 25 50 100 
+CS +++++ 
+— 
+(c) 
+(d) 
+Figure 3: Continued.
+8 Evidence-Based Complementary and Alternative Medicine 
+
+IL-12p70 (pg/mL) 
+600 
+400 
+200 
+∗ ∗ 
+∗ 
+∗ ∗ 
+Gate (%) 
+∗ 
+80 60 40 20 
+∗ 
+∗ 
+∗ 
+∗ 
+∗ 
+∗ 
+∗ 
+∗ 
+∗ 
+
+0 
+N.D MOCK 
+0.1% DMSO 
+CS 
+Helenalin  
+SB203580 
+(e) 
+PD98059  
+CS 
+JNK inhibitor II 
+LY294002 
+0 
+Cont 
+CD83 CD86 
+0.1% DMSO 
+CS 
+Helenalin  (f) 
+SB203580 
+CS 
+PD98059  
+JNK inhibitor II 
+LY294002 
+Figure 3: CS induces IL-12 secretion through PI3K/AKT and MAPKs pathways in DCs. ((a) and (b)) Time course of pAKT, p44/42 ERK, p38 MAPK, and p46/54 JNK phosphorylation in CS-stimulated DCs. Human DCs were treated with CS (30 μg/mL), and cell lysates were collected at different time points. The level of MAPK phosphorylations was analyzed by Western blotting (N = 3). (c) Effect of PI3K inhibitor LY294002 on MAPKs in CS-stimulated DCs. Human DCs were pretreated with various concentration of LY294002 (5, 25, 50, and 100 μM) for 1 h prior to CS (30 μg/mL) for 15 min. Cell lysates were collected, and MAPK phosphorylations were analyzed (N = 3). (d) The PI3K inhibitor LY294002 repressed CS-induced NF-κB p65 binding to DNA. Human DCs were pretreated with various concentration of LY294002 (5, 25, 50, and 100 μM) for 1 h prior to 2 h stimulation by CS (30 μg/mL). ∗P < 0.05 compared to CS alone. ((e) and (f)) Inhibitors against PI3K, NF-κB, and MAPKs blocked CS-induced IL-12 secretion (e) and CD83, CD86 upregulation (f) (black bar: CD83; gray bar: CD86) in DC. Immature DCs were preincubated for 1 h with one of the following compounds: LY294002 (25 μM), Helenalin (2.5 μM), SB203580 (20 μM), PD98059 (50 μM), or JNK inhibitor II (20 μM) and followed by CS (30 μg/mL) stimulation for an additional 48 h. ∗P < 0.05 compared to CS alone. N.D: nondetectable. 
+NF-κB activity 
+
+IL-12p70 (pg/mL) 
+N.D 
+800 600 400 200 0 
+∗ ∗ ∗ 
+O.D 450 nm 
+1.6 1.4 1.2 1 
+0.8 0.6 0.4 0.2 0 
+∗ 
+∗ ∗ 
+
+Cont noAb IgG2a Anti-TLR2 Anti-TLR4 
+LPS 
+LPS LTA 
+CS 
+(a) 
+Cont noAb IgG2a Anti-TLR2 Anti-TLR4 
+LPS 
+LTA 
+CS 
+(b) 
+
+Figure 4: CS induces IL-12 expression through a TLR4-dependent ROS-regulated signaling pathway. (a) Anti-TLR-4 neutralizing antibody blocks CS-induced IL-12 secretion in DCs. DCs were preincubated with 20 μg/mL anti-TLR-2, anti-TLR-4, or control IgG for 1 h prior to LPS (1 μg/mL), LTA (1 μg/mL), or CS (30 μg/mL) treatments for 24 h. Conditioned media were collected for IL-12 detection. (b) NF-κB binding activity was examined in DC treated with CS (30 μg/mL) for 2 h with or without the pretreatments of neutralizing antibody against TLRs or control antibody for 1 h. The effects of neutralizing antibodies treatments were compared to corresponding control IgG treatments. ∗P < 0.05 compared to control antibodies. N.D: nondetectable.
+Evidence-Based Complementary and Alternative Medicine 9 
+
+LPS-induced IL-12 secretion, while anti-TLR2 neutralizing antibody significantly inhibited LTA-induced IL-12 secre tion. In addition, anti-TLR4 neutralizing antibody also signi ficantly reduced NF-κB activation in CS-stimulated DCs (Figure 4(b)). 
+4. Discussion 
+Algae are simple organisms, and their extracts can regulate immune responses in mammals [33, 34]. Among these algae, several species of Chlorella were reported to induce immune responses in human or mice [35–37]. In this study, we studied the effect of Chlorella sorokiniana polysaccharides extracts on human immune responses. It was reported that polysaccharides extracted from several origins can induce DC maturation and immune responses [38]. As other poly saccharide extracts, Chlorella polysaccharide fraction extracts can also maturate DC and activate immune response by inducing IL-12 secretion in DCs. 
+IL-12 is important for activating natural killer cells (NKs) and inducing the differentiation of T helper cells toward Th1 cells. Th1 response can skew the immune system toward cellular immune response, which maximize the killing effi cacy of macrophage, increase CD8+ T-cell proliferation, and activate natural killer cells [39]. In addition, Th1 response is important in fighting against virus infection and cancer [40]. 
+Since NF-κB binding site was found in the promoter region of both IL-12 p40 and p35, NF-κB may involve in CS-induced IL-12 expression. Indeed, we observed that CS not only induced the expression of IL-12 in DC but also the activation of NF-κB. Furthermore, blocking NF-κB signaling in DCs reduced CS-induced IL-12 secretion. Therefore, NF κB signaling is required for CS-induced IL-12 expression in DCs. 
+Signal transductions via the MAPKs play important roles in cellular responses including cell proliferation, differentia tion, and survival [41]. We detected the activation of AKT and MAPK signaling pathways induced by CS in DC and verified the importance of AKT and MAPK signaling path ways induced by CS in DC activation. All signaling pathways tested were required for CS-induced IL-12 secretion in DC. However, ERK signaling pathway is not required for CS induced DC maturation. The role of ERK signaling pathway in DC maturation is reported controversially. Lin et al. reported that ERK signaling pathway is required for IL-12 secretion in DC maturated by polysaccharide purified from Ganoderma lucidum [4]. However, ERK pathway was shown to differentiate DC towards tolerogenic DC [42]. One possi ble explanation is that the intensity and duration of signaling activation may be different based on stimuli, and different activation patterns of signaling pathways may result in various consequences. Further studies are required to clarify the importance of the intensity and duration of ERK phos phorylation in DC activation. 
+TLRs are cell surface receptors that recognize structurally conserved molecules derived from microbes. The reported ligands of these TLRs range from bacterial cell surface LPS, 
+lipoproteins, flagellin, viral DNA and dsRNA to host fib rinogen and heat shock proteins. Our results suggested that CS interacts with TLR4 and maturates DC through NF-κB signaling pathway. Interestingly, TLR4 activates genes requi red for initiating adaptive immune responses when artifi cially ligated by antibodies, and NF-κB signaling pathway was reported involved in this process [43]. Consistent with previous publications, we demonstrated the importance of TLR4 signaling in activating immune response. Further more, we identified CS extracts as novel ligands for TLR4. In order to rule out the contamination of endotoxin LPS in CS, we detected LPS level in CS samples. We found that there was no detectable level of endotoxin (<0.30 endotoxin units/mL) in CS samples (data not shown). Therefore, our results suggested that CS maturates DC by binding to TLR4 receptor. 
+5. Conclusion 
+In summary, our study provides potential molecular mech anisms for CS-induced DC maturation and T-cell activa tion. These mechanisms are illustrated in a schematic figure (Figure 5). In addition, our study also provided theoretical basis for studying the effects of CS on immune responses in animal models and clinically. 
+Abbreviations 
+CS: The polysaccharide fraction 
+of Chlorella sorokiniana 
+MTT: (3-(4,5-dimethylthiazol-2-yl)-5-(3- carboxyMethoxy-phenyl)-2-(4- 
+sulfophenyl)-2H-tetrazolium 
+MAPK: Mitogen-activated kinase cascade ERK: Extracellular regulated kinase 
+JNK: Jun N-terminal kinase 
+PBMC: Peripheral blood mononuclear cell DCs: Dendritic cells 
+HMDC: Human monocyte-derived DC 
+APCs: Antigen-presenting cells 
+LPS: Lipopolysaccharides 
+LTA: Lipoteichoic acid 
+MHC class II: Major histocompatibility complex class II 
+PI3K: Phosphoinositide-3-OH kinase IFN-γ: Interferon-γ 
+TLR-4: Toll-like receptor 4 
+TLR-2: Toll-like receptor 2 
+IL-12: Interleukin-12 
+GM-CSF: Granulocyte macrophage-colony stimulating factor 
+IL-4: Interleukin-4 
+NF-κB: Nuclear factor κ B 
+NAC: N-acetyl-cysteine 
+ELISA: Enzyme-linked immunosorbent assay GAPDH: Glyceraldehyde 3-phosphate 
+dehydrogenase 
+Allo-MLR: Allogeneic mixed leukocyte reaction.
+
+10 Evidence-Based Complementary and Alternative Medicine 
+CS extracts 
+Cell membrane IL-12 
+TLR-4 
+ROS NAC 
+
+LY294002 
+SB203580 
+PI3 kinase 
+
+PD98059 
+MEK1 ERK1/2 
+JNK1/2 
+P38 MAPK 
+JNK inhibitor II 
+
+Nucleus 
+NF- Helenalin κB 
+IL-12 expression 
+
+Figure 5: Model of CS-mediated signaling pathways in regulating IL-12 p70 expression in DC. 
+
+Authors’ Contributions 
+C. Ko and I. Pan equally contributed with corresponding authors. 
+Acknowledgment 
+The authors would like to thank the Ministry of Economic Affairs for the financial support of this research under Con tract no. MOEA 100-EC-17-A-02-04-0317. 
+References 
+[1] R. E. Merchant and C. A. Andre, “A review of recent clinical trials of the nutritional supplement Chlorella pyrenoidosa in the treatment of fibromyalgia, hypertension, and ulcerative colitis,” Alternative Therapies in Health and Medicine, vol. 7, no. 3, pp. 79–91, 2001. 
+[2] F. Yang, Y. Shi, J. Sheng, and Q. Hu, “In vivo immunomod ulatory activity of polysaccharides derived from Chlorella pyrenoidosa,” European Food Research and Technology, vol. 224, no. 2, pp. 225–228, 2006. 
+[3] H. J. An, H. K. Rim, H. J. Jeong, S. H. Hong, J. Y. Um, and H. M. Kim, “Hot water extracts of Chlorella vulgaris improve immune function in protein-deficient weanling mice and immune cells,” Immunopharmacology and Immunotoxicology, vol. 32, no. 4, pp. 585–592, 2010. 
+[4] Y. L. Lin, Y. C. Liang, S. S. Lee, and B. L. Chiang, “Polysaccha ride purified from Ganoderma lucidum induced activation and maturation of human monocyte-derived dendritic cells by the NF-κB and p38 mitogen-activated protein kinase pathways,” Journal of Leukocyte Biology, vol. 78, no. 2, pp. 533–543, 2005. 
+[5] K. Tanaka, A. Yamada, K. Noda et al., “A novel glycoprotein obtained from Chlorella vulgaris strain CK22 shows antimetas tatic immunopotentiation,” Cancer Immunology Immunothe rapy, vol. 45, no. 6, pp. 313–320, 1998. 
+[6] M. L. S. Queiroz, A. P. O. Rodrigues, C. Bincoletto, C. A. V. Figueiredo, and S. Malacrida, “Protective e ˆ ffects of Chlorella vulgaris in lead-exposed mice infected with Listeria monocy togenes,” International Immunopharmacology, vol. 3, no. 6, pp. 889–900, 2003. 
+[7] K. Ibusuki and Y. Minamishima, “Effect of Chlorella vul garis extracts on murine cytomegalovirus infections,” Natural Immunity and Cell Growth Regulation, vol. 9, no. 2, pp. 121– 128, 1990. 
+[8] S. Santoyo, M. Plaza, L. Jaime, E. Ibanez, G. Reglero, and F. ˜ J. Senorans, “Pressurized liquid extraction as an alternative ˜ process to obtain antiviral agents from the edible microalga Chlorella vulgaris,” Journal of Agricultural and Food Chemistry, vol. 58, no. 15, pp. 8522–8527, 2010. 
+[9] H. J. An, H. K. Rim, J. H. Lee et al., “Effect of Chlorella vulgaris on immune-enhancement and cytokine production in vivo and in vitro,” Food Science and Biotechnology, vol. 17, no. 5, pp. 953–958, 2008.
+
+Evidence-Based Complementary and Alternative Medicine 11 
+
+[10] T. Hasegawa, Y. Kimura, K. Hiromatsu et al., “Effect of hot water extract of Chlorella vulgaris on cytokine expression pat terns in mice with murine acquired immunodeficiency syn drome after infection with Listeria monocytogenes,” Immuno pharmacology, vol. 35, no. 3, pp. 273–282, 1997. 
+[11] J. Banchereau and R. M. Steinman, “Dendritic cells and the control of immunity,” Nature, vol. 392, no. 6673, pp. 245–252, 1998. 
+[12] J. Banchereau, F. Briere, C. Caux et al., “Immunobiology of dendritic cells,” Annual Review of Immunology, vol. 18, pp. 767–811, 2000. 
+[13] I. Mellman and R. M. Steinman, “Dendritic cells: specialized and regulated antigen processing machines,” Cell, vol. 106, no. 3, pp. 255–258, 2001. 
+[14] F. Sallusto, M. Cella, C. Danieli, and A. Lanzavecchia, “Den dritic cells use macropinocytosis and the mannose receptor to concentrate macromolecules in the major histocompatibility complex class II compartment: downregulation by cytokines and bacterial products,” Journal of Experimental Medicine, vol. 182, no. 2, pp. 389–400, 1995. 
+[15] L. J. Zhou and T. F. Tedder, “CD14+ blood monocytes can differentiate into functionally mature CD83+ dendritic cells,” Proceedings of the National Academy of Sciences of the United States of America, vol. 93, no. 6, pp. 2588–2592, 1996. 
+[16] A. Lanzavecchia and F. Sallusto, “Regulation of T cell immu nity by dendritic cells,” Cell, vol. 106, no. 3, pp. 263–266, 2001. [17] P. Bunyard, M. Handley, G. Pollara et al., “Ribotoxic stress activates p38 and JNK kinases and modulates the antigen-pre senting activity of dendritic cells,” Molecular Immunology, vol. 39, no. 13, pp. 815–827, 2003. 
+[18] K. M. Ardeshna, A. R. Pizzey, S. Devereux, and A. Khwaja, “The PI3 kinase, p38 SAP kinase, and NF-κb signal trans duction pathways are involved in the survival and maturation of lipopolysaccharide-stimulated human monocyte-derived dendritic cells,” Blood, vol. 96, no. 3, pp. 1039–1046, 2000. 
+[19] S. A. Ahmed, R. M. Gogal, and J. E. Walsh, “A new rapid and simple non-radioactive assay to monitor and determine the proliferation of lymphocytes: an alternative to [3H]thymidine incorporation assay,” Journal of Immunological Methods, vol. 170, no. 2, pp. 211–224, 1994. 
+[20] Y. Zhi-Jun, N. Sriranganathan, T. Vaught, S. K. Arastu, and S. A. Ahmed, “A dye-based lymphocyte proliferation assay that permits multiple immunological analyses: mRNA, cytogenetic, apoptosis, and immunophenotyping studies,” Journal of Immunological Methods, vol. 210, no. 1, pp. 25–39, 1997. 
+[21] K. Kato, M. J. Cantwell, S. Sharma, and T. J. Kipps, “Gene transfer of CD40-ligand induces autologous immune recog nition of chronic lymphocytic leukemia B cells,” The Journal of Clinical Investigation, vol. 101, no. 5, pp. 1133–1141, 1998. 
+[22] S. M. Zughaier, “Neisseria meningitidis capsular polysaccha rides induce inflammatory responses via TLR2 and TLR4- MD-2,” Journal of Leukocyte Biology, vol. 89, no. 3, pp. 469– 480, 2011. 
+[23] C. H. Ko, S. C. Shen, H. Y. Lin et al., “Flavanones structure related inhibition on TPA-induced tumor promotion through suppression of extracellular signal-regulated protein kinases: involvement of prostaglandin E2 in anti-promotive process,” Journal of Cellular Physiology, vol. 193, no. 1, pp. 93–102, 2002. 
+[24] C. H. Ko, S. C. Shen, T. J. F. Lee, and Y. C. Chen, “Myricetin inhibits matrix metalloproteinase 2 protein expression and enzyme activity in colorectal carcinoma cells,” Molecular Can cer Therapeutics, vol. 4, no. 2, pp. 281–290, 2005. 
+[25] T. De Smedt, B. Pajak, E. Muraille et al., “Regulation of dendritic cell numbers and maturation by lipopolysaccharide in vivo,” Journal of Experimental Medicine, vol. 184, no. 4, pp. 1413–1424, 1996. 
+[26] J. Banchereau and R. M. Steinman, “Dendritic cells and the control of immunity,” Nature, vol. 392, no. 6673, pp. 245–252, 1998. 
+[27] M. Rescigno, M. Martino, C. L. Sutherland, M. R. Gold, and P. Ricciardi-Castagnoli, “Dendritic cell survival and maturation are regulated by different signaling pathways,” Journal of Expe rimental Medicine, vol. 188, no. 11, pp. 2175–2180, 1998. 
+[28] M. Cella, F. Sallusto, and A. Lanzavecchia, “Origin, maturation and antigen presenting function of dendritic cells,” Current Opinion in Immunology, vol. 9, no. 1, pp. 10–16, 1997. 
+[29] C. J. Vlahos, W. F. Matter, K. Y. Hui, and R. F. Brown, “A spe cific inhibitor of phosphatidylinositol 3-kinase, 2-(4-morpho linyl)-8-phenyl-4H-1-benzopyran-4-one (LY294002),” The Journal of Biological Chemistry, vol. 269, no. 7, pp. 5241–5248, 1994. 
+[30] S. Akira and K. Takeda, “Toll-like receptor signalling,” Nature Reviews Immunology, vol. 4, no. 7, pp. 499–511, 2004. [31] A. Visintin, E. Latz, B. G. Monks, T. Espevik, and D. T. Golenbock, “Lysines 128 and 132 enable lipopolysaccharide binding to MD-2, leading to toll-like receptor-4 aggregation and signal transduction,” The Journal of Biological Chemistry, vol. 278, no. 48, pp. 48313–48320, 2003. 
+[32] S. Sato, F. Nomura, T. Kawai et al., “Synergy and cross-tole rance between Toll-like receptor (TLR) 2- and TLR4-mediated signaling pathways,” The Journal of Immunology, vol. 165, no. 12, pp. 7096–7101, 2000. 
+[33] S. A. Halperin, B. Smith, C. Nolan, J. Shay, and J. Kralovec, “Safety and immunoenhancing effect of a Chlorella-derived dietary supplement in healthy adults undergoing influenza vaccination: randomized, double-blind, placebo-controlled trial,” Canadian Medical Association Journal, vol. 169, no. 2, pp. 111–117, 2003. 
+[34] P. Balachandran, N. D. Pugh, G. Ma, and D. S. Pasco, “Toll-like receptor 2-dependent activation of monocytes by Spirulina polysaccharide and its immune enhancing action in mice,” International Immunopharmacology, vol. 6, no. 12, pp. 1808– 1814, 2006. 
+[35] S. Guzman, A. Gato, M. Lamela, M. Freire-Garabal, and ´ J. M. Calleja, “Anti-inflammatory and immunomodulatory activities of polysaccharide from Chlorella stigmatophora and Phaeodactylum tricornutum,” Phytotherapy Research, vol. 17, no. 6, pp. 665–670, 2003. 
+[36] T. Hasegawa, Y. Kimura, K. Hiromatsu et al., “Effect of hot water extract of Chlorella vulgaris on cytokine expression pat terns in mice with murine acquired immunodeficiency syn drome after infection with Listeria monocytogenes,” Immuno pharmacology, vol. 35, no. 3, pp. 273–282, 1997. 
+[37] H.-K. Rim, H.-J. An, J.-H. Lee, M.-J. Seo et al., “Effect of Chlorella vulgaris on immune-enhancement and cytokine pro duction in vivo and in vitro,” Food Science and Biotechnology, vol. 17, no. 5, pp. 953–958, 2008. 
+[38] W. K. Chan, H. K. L. Law, Z. B. Lin, Y. L. Lau, and G. C. F. Chan, “Response of human dendritic cells to different immu nomodulatory polysaccharides derived from mushroom and barley,” International Immunology, vol. 19, no. 7, pp. 891–899, 2007. 
+[39] K. Takeda, H. Tsutsui, T. Yoshimoto et al., “Defective NK cell activity and Th1 response in IL-18-deficient mice,” Immunity, vol. 8, no. 3, pp. 383–390, 1998.
+
+12 Evidence-Based Complementary and Alternative Medicine 
+[40] M. R. Shurin, L. Lu, P. Kalinski, A. M. Stewart-Akers, and 
+M. T. Lotze, “Th1/Th2 balance in cancer, transplantation and 
+pregnancy,” Springer Seminars in Immunopathology, vol. 21, 
+no. 3, pp. 339–359, 1999. 
+[41] A. Brunet, S. R. Datta, and M. E. Greenberg, “Transcription 
+dependent and -independent control of neuronal survival by 
+the PI3K-Akt signaling pathway,” Current Opinion in Neuro 
+biology, vol. 11, no. 3, pp. 297–305, 2001. 
+[42] P. M. Boggiatto, F. Jie, M. Ghosh et al., “Altered dendritic cell 
+phenotype in response to Leishmania amazonensis amastigote 
+infection is mediated by MAP kinase, ERK,” The American 
+Journal of Pathology, vol. 174, no. 5, pp. 1818–1826, 2009. 
+[43] R. Medzhitov, P. Preston-Hurlburt, and C. A. Janeway, “A 
+human homologue of the Drosophila toll protein signals acti 
+vation of adaptive immunity,” Nature, vol. 388, no. 6640, pp. 
+394–397, 1997.

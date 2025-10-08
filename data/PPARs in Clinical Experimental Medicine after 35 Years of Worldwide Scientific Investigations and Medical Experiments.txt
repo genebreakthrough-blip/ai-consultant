@@ -1,0 +1,1313 @@
+biomolecules 
+Review 
+PPARs in Clinical Experimental Medicine after 35 Years of Worldwide Scientific Investigations and Medical Experiments 
+Anna Skoczy ´nska 1,†, Monika Ołdakowska 2, Agnieszka Dobosz 3,*, Rajmund Adamiec 4,5,†, Sofya Gritskevich 2,‡, Anna Jonkisz 2, Arleta Lebioda 2, Joanna Adamiec-Mroczek 6, Małgorzata Małodobra-Mazur 2 and Tadeusz Dobosz 2,† 
+1 Department of Internal and Occupational Medicine and Hypertension, Wroclaw Medical University, 
+Borowska 213, 50-556 Wroclaw, Poland; anna.skoczynska@umw.edu.pl 
+2 Department of Forensic Medicine, Division of Molecular Techniques, Wroclaw Medical University, 
+M. Sklodowskiej-Curie 52, 50-369 Wroclaw, Poland; monika.oldakowska@umw.edu.pl (M.O.); 
+anna.jonkisz@umw.edu.pl (A.J.); arleta.lebioda@umw.edu.pl (A.L.); 
+malgorzata.malodobra-mazur@umw.edu.pl (M.M.-M.); tadeusz.dobosz@umw.edu.pl (T.D.) 
+3 Department of Basic Medical Sciences and Immunology, Division of Basic Medical Sciences, 
+Wroclaw Medical University, Borowska 211, 50-556 Wrocław, Poland 
+4 Department of Diabetology and Internal Medicine, Wroclaw Medical University, Borowska 213, 
+50-556 Wroclaw, Poland; rajmund.adamiec@umw.edu.pl 
+5 Department of Internal Medicine, Faculty of Medical and Technical Sciences, Karkonosze University of 
+Applied Sciences, Lwówiecka 18, 58-506 Jelenia Góra, Poland 
+6 Department of Ophthalmology, Wroclaw Medical University, Borowska 213, 50-556 Wroclaw, Poland; 
+joanna.adamiec-mroczek@umw.edu.pl 
+* Correspondence: agnieszka.dobosz@umw.edu.pl; Tel.: +48-71-784-04-82 
+† Retired Author. 
+‡ Biology Student at Wroclaw University, Political Refugee from Belarus, Volunteer in Department of Forensic 
+Medicine, Wroclaw Medical University. 
+
+Citation: Skoczy ´nska, A.; 
+Ołdakowska, M.; Dobosz, A.; Adamiec, R.; Gritskevich, S.; Jonkisz, A.; Lebioda, A.; Adamiec-Mroczek, J.; Małodobra-Mazur, M.; Dobosz, T. PPARs in Clinical Experimental Medicine after 35 Years of Worldwide Scientific Investigations and Medical Experiments. Biomolecules 2024, 14, 786. https://doi.org/10.3390/ biom14070786 
+Academic Editors: Hervé Guillou and Manuel Vázquez-Carrera 
+Received: 22 May 2024 
+Revised: 27 June 2024 
+Accepted: 28 June 2024 
+Published: 1 July 2024 
+Copyright: © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 
+4.0/). 
+Abstract: This year marks the 35th anniversary of Professor Walter Wahli’s discovery of the PPARs (Peroxisome Proliferator-Activated Receptors) family of nuclear hormone receptors. To mark the occasion, the editors of the scientific periodical Biomolecules decided to publish a special issue in his honor. This paper summarizes what is known about PPARs and shows how trends have changed and how research on PPARs has evolved. The article also highlights the importance of PPARs and what role they play in various diseases and ailments. The paper is in a mixed form; essentially it is a review article, but it has been enriched with the results of our experiments. The selection of works was subjective, as there are more than 200,000 publications in the PubMed database alone. First, all papers done on an animal model were discarded at the outset. What remained was still far too large to describe directly. Therefore, only papers that were outstanding, groundbreaking, or simply interesting were described and briefly commented on. 
+Keywords: PPARs; peroxisome proliferator-activated receptor; clinical application; experimental therapy 
+1. Introduction 
+It is widely believed that the Peroxisome Proliferator-Activated Receptor (PPAR) was described around 1974 by Prof. Walter Wahli. Unfortunately, among his 350 or so published papers, the fundamental, foundational, and pioneering work could not be found (and as there are at least two other contenders for priority [1,2]), we asked Prof. Walter Wahli for a statement on this matter. In response, Prof. W. Wahli identified one of his papers as the first (starting) paper on this topic, indirectly confirming his priority and providing its biographical data [3]. The paper cited is from March 1992 and concerns not a human but the amphibian Xenopus laevis, which, incidentally, explains our difficulty in finding it, since PubMed lists, at the time of writing these words, over 300,000 abstracts and full-text papers dealing with PPARs. 
+
+Biomolecules 2024, 14, 786. https://doi.org/10.3390/biom14070786 https://www.mdpi.com/journal/biomolecules
+
+     .  
+To finish this review on time, despite the challenging work of all authors, almost all  
+work done on animal models (including Xenopus) was discarded at the outset, as it was  assumed that they are usually a preliminary step before work on human material, as  animal models are generally very different from humans [4]. Notably, the ‘PPARs fad’ is  
+Biomolecules 2024, 14, 786 2 of 34 slowly passing relative to the publication peak of 2011–2013, when there were 5–6 new  publications daily. In the last few years, it has been 4-3 papers per day, following a de 
+creasing trend. New papers are located on the right, descending branch of the Gauss  To finish this review on time, despite the challenging work of all authors, almost all 
+curve. Assuming its complete symmetry, the last single documents in this field are ex 
+work done on animal models (including Xenopus) was discarded at the outset, as it was 
+pected around 2040. Tahri-Joutey et al. [5] report (following [6]) that PPAR-alpha, the first  assumed that they are usually a preliminary step before work on human material, as animal 
+of the known receptors, arose at the time of the evolutionary breakthrough of fish and  
+models are generally very different from humans [4]. Notably, the ‘PPARs fad’ is slowly 
+mammals, about 200 million years ago, and evolved three times faster than the other re 
+passing relative to the publication peak of 2011–2013, when there were 5–6 new publications 
+ceptors beta/delta and gamma. In 2006, a concise but comprehensive and complete de 
+daily. In the last few years, it has been 4-3 papers per day, following a decreasing trend. scription of the mechanism of action of PPARs appeared in print with co-authorship by  
+New papers are located on the right, descending branch of the Gauss curve. Assuming its 
+Lathion [7]. The paper explained the mechanism of action using PPAR-alpha as an ex 
+complete symmetry, the last single documents in this field are expected around 2040. Tahri ample; however, the activation of all PPAR is very similar. The authors describe the fol 
+Joutey et al. [5] report (following [6]) that PPAR-alpha, the first of the known receptors, lowing sequence of events: first, a PPAR heterodimer is formed with the retinoid X re 
+arose at the time of the evolutionary breakthrough of fish and mammals, about 200 million 
+ceptor (RXR), and then the newly formed complex binds a ligand that defines the end  
+years ago, and evolved three times faster than the other receptors beta/delta and gamma. effector. The ligand in question (a substance from a long list of natural or artificial com 
+In 2006, a concise but comprehensive and complete description of the mechanism of action 
+pounds) can be an agonist (increasing activity) or an antagonist (decreasing activity). The  
+of PPARs appeared in print with co-authorship by Lathion [7]. The paper explained the 
+described complex (PPAR plus RXR plus ligand) binds to a specific DNA sequence in the  
+mechanism of action using PPAR-alpha as an example; however, the activation of all 
+gene promoter (PPRE) and triggers transcription (Figure 1).  
+PPAR is very similar. The authors describe the following sequence of events: first, a PPAR 
+Figure 2 shows basic information about PPAR isoforms. However, it should be noted  
+heterodimer is formed with the retinoid X receptor (RXR), and then the newly formed 
+that the number of PPAR types is not fully established. For the first few years, it was  
+complex binds a ligand that defines the end effector. The ligand in question (a substance 
+thought that there were four [3]. Then, their number was reduced to three, but later mo 
+from a long list of natural or artificial compounds) can be an agonist (increasing activity) or 
+lecular studies show that there are four (named in 1992: alpha, beta, gamma, and delta)  
+an antagonist (decreasing activity). The described complex (PPAR plus RXR plus ligand) 
+[8].  
+binds to a specific DNA sequence in the gene promoter (PPRE) and triggers transcription 
+(Figure 1). 
+Figure 1. Pattern of PPARα activity. RXR—retinoid X receptor, PPRE—gene promoter. 
+Figure 1. Pattern of PPARα activity. RXR—retinoid X receptor, PPRE—gene promoter.  
+Figure 2 shows basic information about PPAR isoforms. However, it should be noted 
+that the number of PPAR types is not fully established. For the first few years, it was thought 
+that there were four [3]. Then, their number was reduced to three, but later molecular 
+studies show that there are four (named in 1992: alpha, beta, gamma, and delta) [8]. 
+1.1. Peroxisome Proliferator-Activated Receptor Alpha (PPARα) 
+PPARα is a ligand-activated transcriptional factor that belongs to the nuclear receptor 
+superfamily. It is also known as N1C1 (nuclear receptor subfamily 1, group C, member 1). PPARα is strongly expressed in tissues with elevated fatty acid catabolism, such as the liver, 
+heart, skeletal muscles, brown adipose tissue, and intestine. It regulates the transcription 
+of multiple genes involved in the intracellular metabolism of lipids and is a major regu 
+lator of fatty acid and triglyceride homeostasis [9–11]. PPAR-alpha performs the direct 
+transcriptional control of genes implicated in mitochondrial and peroxisomal β-oxidation 
+and microsomal ω-oxidation also. Modulating the activities of all three fatty acid oxidation
+
+Biomolecules 2024, 14, 786 3 of 34 
+systems plays a crucial role in energy expenditure. It also regulates the expression of 
+Biomolecules 2024, 14, x FOR PEER REVIEW 3 of 23  proteins involved in the transport and β-oxidation of free fatty acids (FFAs) and lipoprotein 
+metabolism genes [12]. 
+Figure 2. The characteristic of the three isoforms of PPARs: PPARα, PPARβ/δ, and PPARγ (expres 
+Figure 2. The characteristic of the three isoforms of PPARs: PPARα, PPARβ/δ, and PPARγ (expres 
+sion, function, and the list of main ligands activating the particular peroxisome proliferator). 
+sion, function, and the list of main ligands activating the particular peroxisome proliferator).  
+The human PPAR-alpha receptor gene (PPARA) is located on chromosome 22 at 
+1.1. Peroxisome Proliferator-Activated Receptor Alpha (PPARα)  
+the position 22q12-q13.1. PPAR-alpha receptor shares a common characteristic with the 
+PPARα is a ligand-activated transcriptional factor that belongs to the nuclear re 
+other members of the PPAR family (PPAR-beta/delta and PPAR-gamma) and has five 
+ceptor superfamily. It is also known as N1C1 (nuclear receptor subfamily 1, group C,  
+domains [13]. Among these are the ligand-binding domain, dimerization domain (a 
+member 1). PPARα is strongly expressed in tissues with elevated fatty acid catabolism,  
+dimer forms during the reaction with the PPAR-responsive element), and DNA-binding 
+such as the liver, heart, skeletal muscles, brown adipose tissue, and intestine. It regulates  
+domain, which binds to the promoter of different genes via the zinc finger. There are 
+the transcription of multiple genes involved in the intracellular metabolism of lipids and  
+two stages in PPAR-alpha transcriptional activation. In the first stage, PPAR-alpha is 
+is a major regulator of fatty acid and triglyceride homeostasis [9–11]. PPAR-alpha per 
+activated by the natural ligand or agonist, and the second stage is started by the formation 
+forms the direct transcriptional control of genes implicated in mitochondrial and perox 
+of heterodimer PPAR-alpha with a retinoid X receptor (RXR). Then the PPAR-alpha-RXR 
+isomal β-oxidation and microsomal ω-oxidation also. Modulating the activities of all  
+complex recognizes many genes, binding to PPRE via the zinc finger of the DNA-binding 
+three fatty acid oxidation systems plays a crucial role in energy expenditure. It also reg 
+domain. The PPRE is a sequence of nucleotides: AGGTCA, AGGTCA. This sequence is 
+ulates the expression of proteins involved in the transport and β-oxidation of free fatty  
+always the same on every gene to which the PPAR-alpha-RXR complex binds [14]. For 
+acids (FFAs) and lipoprotein metabolism genes [12].  
+example, there may be up to 80 different genes regulated by PPAR-alpha in hepatocytes. 
+The human PPAR-alpha receptor gene (PPARA) is located on chromosome 22 at the  
+This action includes the stimulation of the apolipoprotein AI genes, the apolipoprotein AII 
+position 22q12-q13.1. PPAR-alpha receptor shares a common characteristic with the other  
+genes, and the lipoprotein lipase (LPL) gene, and the inhibition of apolipoprotein CIII [14]. 
+members of the PPAR family (PPAR-beta/delta and PPAR-gamma) and has five domains  
+1.2. Peroxisome Proliferator-Activated Receptor Beta/Delta (PPARβ/δ) 
+[13]. Among these are the ligand-binding domain, dimerization domain (a dimer forms  
+during the reaction with the PPAR-responsive element), and DNA-binding domain,  
+This receptor type, perhaps because it has numerous links to tumorigenesis, is quite 
+which binds to the promoter of different genes via the zinc finger. There are two stages in  
+popular; there are about 1200 abstracts and full papers on this topic in the PubMed database. 
+PPAR-alpha transcriptional activation. In the first stage, PPAR-alpha is activated by the  
+In the late 1980s, it was widely believed that there were two separate receptors, PPAR 
+natural ligand or agonist, and the second stage is started by the formation of heterodimer  
+beta and PPAR-delta. However, closer examination showed that they were the same, so 
+PPAR-alpha with a retinoid X receptor (RXR). Then the PPAR-alpha-RXR complex rec 
+some researchers felt it was necessary to eliminate one of them. Unfortunately, a big mess 
+in naming ensued, and from Google data, it can be calculated that as many as 83% of 
+ognizes many genes, binding to PPRE via the zinc finger of the DNA-binding domain.  
+researchers use the name “beta”, 13% use the name “delta”, and 4% refuse to declare their 
+The PPRE is a sequence of nucleotides: AGGTCA, AGGTCA. This sequence is always the  
+choice and use both names, e.g., “beta/delta”. 
+same on every gene to which the PPAR-alpha-RXR complex binds [14]. For example,  
+there may be up to 80 different genes regulated by PPAR-alpha in hepatocytes. This ac 
+1.3. Peroxisome Proliferator-Activated Receptor Gamma (PPARγ) 
+tion includes the stimulation of the apolipoprotein AI genes, the apolipoprotein AII  
+Cardiovascular diseases such as diabetes, hypertension, obesity, and dyslipidemia 
+genes, and the lipoprotein lipase (LPL) gene, and the inhibition of apolipoprotein CIII  
+are the most common causes of death and severe disability. Their treatment consists pri 
+[14].  
+marily of modifying environmental factors to normalize metabolic changes, but genetic 
+information is also essential in developing these diseases. The primary gene whose mu-
+1.2. Peroxisome Proliferator-Activated Receptor Beta/Delta (PPARβ/δ)  
+This receptor type, perhaps because it has numerous links to tumorigenesis, is quite  
+popular; there are about 1200 abstracts and full papers on this topic in the PubMed da 
+tabase. In the late 1980s, it was widely believed that there were two separate receptors,  
+Biomolecules 2024, 14, 786 4 of 34 
+tation can cause multistep disorders leading to the development of metabolic syndrome 
+and atherosclerosis is the peroxisome proliferator-activated receptor gene γ (PPARG). This 
+gene is located on chromosome 3p25. Its expression can start from different promoters, 
+depending on the site of origin, which results in the possibility of 3 isoforms of this receptor 
+protein: PPARγ-1 (adipose tissue, muscle, heart, liver), PPARγ-2 (mainly adipose tissue), and PPARγ-3 (adipose tissue and colon). The expression of the PPARγ gene depends 
+on, among other things, insulin and food availability, especially free fatty acids. PPARγ 
+modulates insulin sensitivity and immune system activity by controlling the transcription 
+of many proteins essential for carbohydrate and lipid metabolism. PPAR-gamma agonists 
+in type 2 diabetes resulted in lower serum levels of pro-inflammatory markers, such as 
+CRP, white blood cells, soluble CD40, MMP-9, amyloid A, and TNFα [15]. 
+1.4. Pan-PPAR (Alpha, Beta/Delta, Gamma) 
+The phenomenon of the combined treatment of several seemingly separate (if only 
+partially) phenomena bears the prefix “pan-” in the case of the receptors described; it 
+is about pan-ligands (usually agonists) and pan-PPARs. This phenomenon has been 
+discovered and described as many as three times, yet it is little known and rarely used. The 
+term “pan-PPAR” was noted for the first time in a paper by Cullingford et al. from 2002 [16]. It appeared for the second time in the literature reviewed in a 2007 paper by Rudolph 
+et al. [17]. The authors treated all three PPAR isoforms (alpha, beta/delta, and gamma) 
+together, indirect evidence of which is the new term “pan agonist”. Notwithstanding the 
+above, three years later, Huang et al. [18] stated for the third time that separate testing of 
+individual alpha, beta/delta, and gamma activities is incorrect, as the sum of the activities 
+of all three isoforms should be considered. As an argument, they cited that using one of 
+the experimental ligands initially significantly reduces, by decreasing the PPARα activity, 
+the rate of cancer cell proliferation. Still, the subsequent increase in activity within the 
+pan-PPAR phenomenon, specifically PPAR-gamma activity, spoils the whole effect (Table 1). 
+Table 1. Pan-PPAR effect of PPARs: when one type of receptor is activated, the rest is inhibited. ↑—means receptor activation, while ↓ means receptor inhibition. 
+Possibilities PPARα PPARβ/δ PPARγ 
+1 ↑ activity ↓ activity ↓ activity 
+2 ↓ activity ↓ activity ↑ activity 
+3 ↓ activity ↑ activity ↓ activity 
+2. Aim of the Work 
+Of particular note is that about 300,000 papers have been published on PPARs. This is 
+undoubtedly an important topic that should be studied in depth. The published works go 
+in different directions in learning about PPARs and sometimes the research results duplicate 
+each other, thus supporting the validity and correctness of the results obtained by other 
+research teams. This article was written to systematize and collect the existing knowledge 
+about PPARs. It used the following databases: PubMed, EBSCO, Scopus, OMIM, and 
+Google Scholar. By demonstrating the current state of knowledge, it is hoped that this work 
+will contribute to better research planning, reduce unnecessary repetition, accelerate the 
+growth of knowledge, and produce more interesting results. 
+3. Results 
+3.1. Introduction 
+The avalanche of papers dealing with PPARs moved very slowly. Quoting from 
+Vamecq et al. [19], possibly the first pioneering paper on PPARs appeared in the sec ond part of 1965, and from the beginning of 1966 until the end of 1991, on average, a 
+new paper appeared every few months. For example, in 1988, two papers by Reddy 
+et al. [20,21] appeared, writing about PPARs in liver cancer. Another author wrote about
+
+3.1. Introduction  
+The avalanche of papers dealing with PPARs moved very slowly. Quoting from  
+Vamecq et al. [19], possibly the first pioneering paper on PPARs appeared in the second  part of 1965, and from the beginning of 1966 until the end of 1991, on average, a new  Biomolecules 2024, 14, 786 5 of 34 
+paper appeared every few months. For example, in 1988, two papers by Reddy et al.  [20,21] appeared, writing about PPARs in liver cancer. Another author wrote about a  “steroid...hormone receptor” the same year [2]. In contrast, Prof. W. Wahli gave us the  a “steroid...hormone receptor” the same year [2]. In contrast, Prof. W. Wahli gave us the 
+date 1992 as the beginning of research on PPARs [8]. Independently, we found the work  date 1992 as the beginning of research on PPARs [8]. Independently, we found the work of 
+of Wahli and Martinez in 1991, in which the authors wrote about PPAR and its positive  Wahli and Martinez in 1991, in which the authors wrote about PPAR and its positive and 
+and negative regulations [22].  
+negative regulations [22]. 
+Since 1992, new works have appeared steadily, following an increasing trend. At the  
+Since 1992, new works have appeared steadily, following an increasing trend. At the 
+peak of 2011–2012, up to 5 to 6 new works appeared daily. This rate is now lower. In 2023,  peak of 2011–2012, up to 5 to 6 new works appeared daily. This rate is now lower. In 2023, 
+they came in at about 3 per day (Figure 3). In light of the above, it is astonishing that, for  they came in at about 3 per day (Figure 3). In light of the above, it is astonishing that, for 
+example, typing “PPARs and 1960” into a search engine yielded as many as 9 hits instead  example, typing “PPARs and 1960” into a search engine yielded as many as 9 hits instead 
+of the expected zero, though none related to the year entered.  
+of the expected zero, though none related to the year entered. 
+1900 
+1800 
+1700 
+
+Number of papers 
+1600 1500 1400 1300 1200 1100 1000 900 
+800 700 600 500 400 300 200 100 
+0 
+extrapolated values 
+1992 1996 2000 2004 2008 2012 2016 2020 2024 2028 2032 2036 Year 
+
+Figure 3. Number of papers published in 1992–2024 (till May 20th) regarding PPARs clinical applica Figure 3. Number of papers published in 1992–2024 (till May 20th) regarding PPARs clinical ap 
+tions in humans. The number of publications for subsequent years was extrapolated (dashed area). plications in humans. The number of publications for subsequent years was extrapolated (dashed  area).  
+3.2. Electronic Search Strategy 
+Data for publication were collected from the Ovid MEDLINE, Embase.com, National 3.2. Electronic Search Strategy  
+Library of Medicine PubMed, and Web of Science databases. Predefined eligibility criteria Data for publication were collected from the Ovid MEDLINE, Embase.com, Na 
+excluded studies involving animal models. Peer-reviewed journal articles published from tional Library of Medicine PubMed, and Web of Science databases. Predefined eligibility  
+1961 to 20 May 2024 were searched, limited to each year. A detailed search strategy was criteria excluded studies involving animal models. Peer-reviewed journal articles pub 
+developed by best practices, as shown in Table 2. 
+lished from 1961 to 20 May 2024 were searched, limited to each year. A detailed search  strategy was developed by best practices, as shown in Table 2.  
+Table 2. Data to be extracted from databases. 
+Category Description 
+Table 2. Data to be extracted from databases.  
+Authors 
+Category Description  
+
+Study ID 
+Study ID  
+Year 
+Authors  
+Journal 
+Year  
+
+Model Human Journal  
+PPAR isotypes: 
+- PPARα 
+
+Intervention 
+- PPARβ/δ - PPARγ - pan-PPAR 
+
+Other The term “PPAR” reported in the title or abstract—yes/no Criteria for inclusion and/or exclusion of data provided—yes/no 
+Search term type Free-text 
+Phrases were searched for in the title, abstract, and keywords provided by the author using Boolean Logic (‘OR’ and “AND”). Records retrieved in the Embase.com search were limited to only those absent from MEDLINE. The search filter was also adapted to retrieve studies involving human models. No restrictions were placed on language.
+Biomolecules 2024, 14, 786 6 of 34 
+Discoveries about PPARs were searched using the terms: “pharmacological PPAR 
+targeting”, “PPAR discoveries”, “medical PPAR investigations”, “peroxisome proliferator activated receptor”, “PPAR AND Human”, PPARs AND disease”. 
+Free-text searches for all PPARs (α, β/δ, and γ) and pan-PPAR activity were linked to 
+the terms agonist, modulator, stimulator, and activator using a proximity search so that 
+both terms (e.g., “PPAR” and “agonist”) had to occur within five words of each other. 
+Reference lists of included original studies and relevant review articles obtained from 
+the systematic search were manually reviewed to look for papers scientifically important or 
+interesting to the authors. When a paper was deemed potentially relevant after reviewing 
+the title and abstract, the full text of the study was downloaded. The literature search 
+successfully identified relevant studies, some of which (285 papers) were included in this 
+full-text review. The selection of cited papers was strictly subjective. 
+3.3. Calendar with Commentary 
+In 1989, 10 new papers arrived. Of these, we were particularly interested in the 
+publication of Liu et al. [23], in which the authors demonstrate that replacing brown 
+marrow with yellow marrow takes place under the control of PPARγ. 
+The years 1990–1991 did not bring much work regarding the study of PPARs in 
+humans. Animal models (mice, horses) were mainly studied. Anyway, it is worth noticing 
+the paper of Issemann & Green [2], where authors activated PPARs with growth factors, 
+and Alvares et al. [24], who identified the heat shock protein HSP70 as a new possible 
+member of the PPARs superfamily. 
+The year 1992: in this year, only 10 papers were published, among which, in our 
+opinion, the work of Maksymowich et al. [25] should be singled out. They detected in 
+all members of the steroid receptor superfamily (which form heterodimers with PPARs) 
+a common conserved motif (the DNA sequence), which gives us hope for the future 
+generation of pan-agonist or pan-antagonist PPARs. Then Gottlichet et al. found that 
+chimeric ligands also work [26]. 
+The year 1993 was one in which 29 new papers appeared in the PubMed database, 
+among which it is worth mentioning the following: The paper by Keller and Wahli [27], 
+whose authors see the links between endocrinology and dietetics on the grounds of PPARs. The works of Keller et al. [28] and Issemann et al. [29] in which the role of 9-cis retinoic 
+acid in the activation and regulation of PPARs was demonstrated, and it was established 
+that the mechanism leads through the binding of the said ligand to RXR. The work of 
+Bardot et al. [30], whose authors studied PPAR-RXR heterodimers and acyl CoA oxidase 
+and cytochrome P450 IVA6. The work of Boie et al. [31], whose authors tested the activity of 
+enantiomers of known ligands. The work of Motojima [32], in which the author describes 
+the various functions of PPARs and their activation mechanism. In the paper by Sher 
+et al. [33], the authors describe the results of molecular studies, including cloning. Also 
+interesting is the work of Bass [34], in which the author considers whether the functions 
+performed by PPARs are more general or more specialized, and Gibson [35], in which 
+he considers the future of PPARs. However, we were most impressed by the paper by 
+Chen et al. [36], in which the authors claim to have evidence that there are not three 
+PPARs but as many as five. If their argument is widely accepted, we are in for another 
+nomenclature revolution, in which case the problems arising from the withdrawal of 
+one receptor (beta/delta) will turn out to be a trifle indeed. 
+In 1994, 33 new papers were published, of which we highlighted the work of Kainu 
+et al. [37], who demonstrated the brain receptor PPARα. In 2009, Aleshin et al. [38] 
+confirmed this in rat brains. In addition, they revealed the presence of other isoforms in the 
+brain, as did the work of Lemberger et al. [39], which showed that stress hormones could 
+be ligands of PPARs. 
+In 1995, 49 new papers appeared, of which the following caught our attention: The 
+work of Wahli et al. [40], in which the authors extensively discuss the panorama of lipid 
+metabolism and its relationship with PPARs. The work of Gustafsson [41] in which it was
+Biomolecules 2024, 14, 786 7 of 34 
+pointed out that the toxicity of ligands may be a result of their binding to the receptor. The work of Bocos et al. [42] was repeated the following year by Lemberger et al. [43] 
+(co-authored with W. Wahli), in which the authors found that fatty acids alone can activate 
+PPARs. The paper by Yu et al. [44] described a new activator, HETEs, and its unusual 
+properties. The paper by Keller et al. [45] (co-authored by W. Wahli), whose authors detail 
+the role of RXRs in PPARs activation. The work of Juge-Aubry (co-author Wahli) [46], 
+which considers the effect of thyroid hormone receptors, and the work of Baes et al. [47], who studied not an agonist but a PPAR-alpha antagonist. 
+The year 1996 brought 66 interesting publications, of which we would like to mention 
+the following: The papers by Formann et al. [48] and Wilson et al. [49] in which the authors 
+describe ligands and activators of PPARs, and the paper by Gibson, in which the author 
+tries to anticipate the future of PPARs. In the Aubert et al. [50] paper, the authors describe 
+the first activator from a new family (thiazolidinediones). The paper by Patel et al. [51] is 
+one in which the authors show that thiazolidinediones brilliantly activate PPARγ but, on 
+the other hand, promote atherosclerosis. Then there is the paper in which Brun et al. [52] 
+analyze the differences between the response to the same stimulus of different isoforms of 
+the receptors studied. 
+In 1997, 100 new papers arrived, and here are the most important among them: The 
+paper by Guan et al. [53] reporting the presence of PPAR receptors in the human ureter, potentially bringing PPARs into the orbit of urology. In addition to these is the work of 
+Bernlohr et al. [54], describing extracellular proteins and lipid transporters; the work of 
+Clarke and Jump [55] with a description of an independent novel mechanism of PPAR 
+activation by polyunsaturated fatty acids (at this point, one can make a loose hypothesis 
+that this could be one of the reasons for the beneficial effects of PPARs on human health); 
+and the work of Rove [56] on retinoid X receptors. 
+The year 1998 enriched our knowledge about PPARs with the results of 156 works, the 
+most important of which, in our opinion, worked on the role of PPARs in the functioning 
+of blood vessel walls [57] and skeletal muscles [58] as well as the impact of PPARs on 
+lipid metabolism at the receptor and gene expression levels [59–63]. This has expanded 
+our knowledge about the role of PPARs in metabolic syndrome and the development of 
+atherosclerosis in humans. The inhibition of cell growth and induction of apoptosis by 
+PPAR agonists was first demonstrated in human breast cancer cells [64]. In the same year, 
+Sorensen et al. leaned into the problem of precisely controlling the activity of circumstantial 
+PPARs, which takes on great importance in light of the planned preclinical studies [65], and 
+Goodman found three independent connections between retinoids and schizophrenia [66]. The year 1999 brought us 233 new publications to read, many of which concerned 
+the effects of PPARγ agonists on the growth and differentiation of human cancer cells in 
+cancer tissues (ureter, bladder, prostate, liposarcoma) or cell lines such as colon cancer cells, 
+T-cell lymphoma, or breast cancer cell lines [67–71]. The human T-cell leukemia retrovirus 
+tax protein is a repressor of nuclear receptor signaling [72]. A possible role of reduced 
+PPARγ activation by 15-HETE in the development or progression of prostate cancer has 
+been suspected [73]. 
+In 2000, there were 339 new interesting papers to review and evaluate. Lazennec G. 
+and Wahli W. et al. observed a protein kinase A-dependent enhancement of the activity of 
+all PPARα, β, and γ isotypes on two distinct promoters. Moreover, PKA inhibitors repress 
+the PPAR ligands’ effect, suggesting that these ligands act partly by recruiting the PKA 
+pathway. These findings highlight the involvement of the PKA pathway in PPAR action and 
+indicate that it is essential for regulating gene activation by PPAR ligands [74]. Kawahito 
+and co-authors demonstrated that the synovial lining layer, fibroblasts, and endothelial 
+cells show expression of PPARγ in patients with rheumatoid arthritis (RA) and suggested 
+that PPARγ may be an essential immunoinflammatory mediator and its ligands, especially 
+15d-PGJ2, may be helpful in the treatment of RA [75]. Much attention has been paid to the 
+role of PPARs in oncogenesis, including PPARδ in human endometrial adenocarcinoma 
+and colorectal cancer [76–78] and PPARγ in gastric or prostate cancer [79,80].
+Biomolecules 2024, 14, 786 8 of 34 
+In exciting publications, Combs et al. showed that PPARγ agonists inhibit the β 
+amyloid-stimulated expression of the cytokine genes interleukin-6 and tumor necrosis 
+factor α, which brings us closer to the mechanisms of Alzheimer’s disease [81]. In contrast, 
+Zhou et al. drew attention to the over-representation of PPARγ sequence variants in 
+sporadic cases of glioblastoma multiforme [82]. 
+The year 2001 meant 437 new papers for us. Among them, Debrik et al. [83] found 
+that PPAR-gamma has a pleiotropic function in the cell, while Chinetti et al. [84] detected 
+functions performed by PPARs in blood vessel walls, which have serious health implica tions. Delerive et al. described PPARs in the context of modulation of the inflammatory 
+response, which may have potential therapeutic applications in chronic inflammatory 
+diseases [85]. The authors reported that PPARs activators participate in anti-inflammatory 
+activation in various cell types by inhibiting the expression of pro-inflammatory genes 
+such as cytokines, metalloproteases, and acute phase proteins. In addition, PPARs play 
+an important role in negatively regulating the transcription of inflammatory response 
+genes by antagonizing AP-1, nuclear factor-kappaB (NF-kappaB), a signal transducer and 
+activator of transcription, and the nuclear factor signaling pathways of activated T cells. Duez et al. emphasize that PPARs play an essential role in modulating the development 
+of atherosclerosis through actions at both the metabolic and vascular levels. PPAR-alpha 
+and PPAR-gamma seem to be of the most significant importance in developing this disease, 
+with high levels of their expression. Moreover, PPAR-alpha and PPAR-gamma are involved 
+in immunoregulation, vasculitis, and thrombosis associated with atherosclerosis [86]. Also, 
+Elangbam et al. presented that PPAR-alpha and PPAR-gamma receptors have a beneficial 
+effect on inflammatory diseases, including atherosclerosis, by regulating the production of 
+cytokines, the expression of adhesion molecules on endothelial cells, fibrinolysis, and the 
+modulation of monocyte-derived macrophages [87]. 
+2002: After reading 596 new papers, it can be concluded that, for example, in the review 
+by Stumvoll and Haring, we can learn that the occurrence of the PPAR-gamma2—Pro12Ala 
+polymorphism has a significant impact on the risk of common type 2 diabetes (T2D). The 
+authors emphasized that a thorough understanding of the mechanism of this disease may 
+allow for the prevention or improvement of T2D treatment [88]. Roberts et al. demonstrated 
+that p38 MAP kinase activation is mediated by PPARα transcription and detectable changes 
+in survival and proliferation. Moreover, they presented the problem of how MAP kinases 
+interact with nuclear receptors such as PPARα. This process causes coordinate suppression 
+of apoptosis and cell cycle progression [89]. On the other hand, Berger and Moller presented 
+condensed knowledge about the relationship of PPARs to chronic diseases [90]. According 
+to them, the strong therapeutic effects of PPARα and PPARγ agonists benefit systemic 
+lipid levels, glucose homeostasis, and atherosclerosis. It was emphasized that PPARα 
+activation can effectively alleviate dyslipidemia and that PPARγ agonists reduce insulin 
+resistance. However, in the case of PPARδ, the authors suggest that it may also be an 
+important therapeutic target for selected patients’ disorders, including cancer, infertility, 
+and dyslipidemia. Fauconet et al. conducted studies in two different human bladder cancer 
+cell lines, RT4 (derived from a stage I tumor) and T24 (derived from a stage III tumor). VEGF 
+(mRNA and protein) is deferentially increased by the three PPAR isotypes. Additionally, 
+the authors reported that only the MEK inhibitor PD98059 downregulated PPAR ligand induced VEGF expression [91]. Moreover, Haydon et al. [92] showed that PPARγ agonists 
+are excellent therapy for human osteosarcoma, the biggest metastasis problem in many 
+late carcinomas, while Koumanis et al. [93] looked at correlations between overweight 
+groups and mortality in association with PPAR G2 Pro12Ala genotypes. In contrast, Berger 
+& Wagner [94] described both the health-promoting and pathogenic properties of PPARs. 
+In the following year, 2003, out of a group of 711, we considered the following to be 
+particularly important. One is an article in which Francis et al. conducted clinical trials in 
+which it was shown that only PPARα agonists improved the prognosis of atherosclerotic 
+heart disease [95]. Another noteworthy work concerns PPAR-gamma ligands and their 
+role as modulators in future cancer treatment strategies. Margeli et al. demonstrated the
+Biomolecules 2024, 14, 786 9 of 34 
+importance of PPAR-gamma in cell proliferation and cancer, establishing their anticancer 
+properties against a wide range of cancer cells [96]. The following paper outlines the 
+problem of using PPAR-gamma agonists thiazolidinediones (TZDs) to treat type 2 diabetes. Despite the use of TZDs and their ability to reduce and slow down the progression of 
+insulin resistance, including lowering plasma glucose levels and significantly reducing 
+triglycerides and free fatty acids in plasma, patients experienced increased body fat. How ever, it is suggested that fat redistribution takes place in a favorable direction, from visceral 
+to subcutaneous stores [97]. 
+In 2004, 959 fresh scientific reports were published. One of them is an article by Jiang 
+et al. that pointed out that PPARγ may play an important role as one of the regulators 
+of prostate cancer (PCa) cell differentiation and proliferation. Therefore, PPARγ agonists 
+may find use as adjuncts to watchful waiting in selected subpopulations of patients with 
+localized PCa [98]. 
+In 2005, the number of new works exceeded 1000 when 1297 new papers were pub 
+lished. A big part of them seemed to be useful because they focused on the problem of the 
+targets. For example, Bedu et al. [99] (co-author W. Wahli) described PPARs β/δ as a thera peutic target, and Tenenbaum et al. [100] used a ligand (H-LDL) to achieve a pan-PPAR 
+effect in therapy. Buzzetti et al. examined the association of the PPAR-gamma2 Pro12Ala 
+polymorphism with measurements of insulin sensitivity in a population of obese Italian 
+children (mean age 10.38 +/− 2.8 years). The authors showed that the X12Ala variant 
+(Pro12Ala or Ala12Ala) is significantly associated with greater insulin sensitivity in child hood obesity, which may, therefore, be protected against cardiovascular disease, obesity, 
+and diabetes due to the phenotypic effect of the Ala 12 allele on insulin resistance [101]. 
+The year 2005 also brought several studies of PPARs-specific ligands. A fascinating 
+review paper by Tyagi et al. [102] describes the importance of homocysteine in endocar dial function, structure, and remodeling in conjunction with nitric oxide metabolism in 
+diabetic patients with impaired myocyte diastolic relaxation. According to the authors, 
+homocysteine antagonizes PPARγ receptors, increasing oxidative stress and decreasing 
+endothelial nitric oxide levels. Then nitrotyrosine content and matrix metalloproteinase 
+activity in the diabetic heart increase, resulting in myocyte-endothelium disconnection. Harris et al. found that PPAR-gamma activation reduces head and neck cancer proliferation 
+through the mechanism of action of 4-hydroxyphenylretinamide (4-HPR, fenretidine) [103]. In turn, Lowe et al. investigated oxazole-substituted indanylacetic acids in the character of 
+PPAR-gamma and alpha activator ligand [104]. At the same time, LoVerme et al. showed 
+that palmitoylethanolamide (PEA) is an activator of PPAR-alpha [105]. 
+In 2006, the increase in the literature was even more significant, with 1343 new papers, 
+of which Michalik et al. [106] (co-author W. Wahli) was selected. They wrote a valuable, 
+well-done review in which the authors describe the selective effect of PPAR in vivo, which 
+results from the interaction at a given time point between the expression levels of each of the 
+three PPAR and RXR isotypes, the affinity for a specific PPRE promoter, and the availability 
+of ligands and cofactors. Aung et al. investigated the role of peroxisome proliferator 
+activated receptors (PPARs) alpha and beta in differentiating HT-29 colon cancer cells and 
+MCF-7 breast cancer cells [107]. The authors concluded that PPAR expression depends on 
+the differentiation method and time. These studies have shown that changes in PPAR-alpha 
+levels are not required to differentiate colon cancer cell lines, but changes in PPAR-beta are 
+more closely related to differentiation. Trivedi et al. presented a different role of PPARs, 
+showing that PPARs regulate sebum production. Moreover, this study’s authors believe 
+that selectively modulating PPARs activity may constitute a new therapeutic strategy in 
+treating acne [108]. Burdick et al.’s review consolidates information on the role of PPAR beta in epithelial tissues. It presents critical discrepancies and how to direct research to 
+fully understand how this receptor modulates epithelial homeostasis [109]. 
+In 2007, there were 1577 new publications, some of which have vigorously stirred 
+our imagination, among them a paper by Michalik and Wahli [110] on the differences of 
+PPARs in healthy and diseased (acne, psoriasis, warts, and benign tumors) skin. Akhme-
+Biomolecules 2024, 14, 786 10 of 34 
+tov et al. [111] claim to have found a link between the athletic performance of athletes 
+and several PPAR polymorphisms. It is also worth mentioning the paper of Piqueras 
+et al. [112]; they induced endothelial cell proliferation and angiogenesis using the activation 
+of PPARβ/δ by various experimental ligands. In Grarup et al. [113], the authors report that 
+in a sample of approximately 7500 white, elderly individuals, 12 polymorphic variants of 
+the PPARβ/δ gene correlated with insulin resistance but not with diabetes type. Conversely, 
+Hollingshead et al. conducted studies on human cancer cell lines (HT29, HCT116, LS-174T, 
+HepG2, and HuH7) cultured in the presence or absence of serum and compared in vitro 
+analysis with in vivo analysis. Based on the results obtained (the PPAR-beta/delta ligand 
+did not increase cell growth or Akt phosphorylation, nor did it increase the expression of 
+VEGF or COX2 in any cell line), the authors of this study concluded that PPAR-beta/delta 
+ligands do not enhance tumor formation [114]. 
+The year 2008 brought 1633 news items, and research about the relationship between 
+PPARs and lung cancer is hidden among them. In one such study, Pedchenko et al. demon strated that PPAR-beta/delta is highly expressed in most lung cancers. Furthermore, 
+PPAR activation induces a proliferative response and survival in non-small cell lung can cer [115]. Borland et al. demonstrated that PPAR-beta/delta ligand activation inhibits 
+keratinocyte proliferation through a PPAR-beta/delta-independent mechanism. Instead, 
+retinoic acid’s inhibition of keratinocyte cell proliferation is mediated through a source of 
+PPAR-beta/delta, contradicting the theory that retinoic acid would enhance cell prolifera tion through activation of PPAR-beta/delta [116]. One interesting study was conducted by 
+Ahmed et al., who examined the expression of PPAR-beta in terminal ovaries and different 
+histological grades of ovarian tumors. The authors of this study found that, unlike other 
+cancers such as colon cancer, endometrial cancer, and head cancer, overexpression of PPAR beta does not occur in ovarian tumors [117]. In the same year, Billin wrote a review paper in 
+which he summarized the general knowledge available at that time about PPAR-beta/delta 
+agonists and properties in the treatment of dyslipidemia and type 2 diabetes, as well as 
+emerging clinical data on various PPAR-beta/delta agonists. Autor stated that at that time, 
+their use in the treatment of dyslipidemia or type 2 diabetes could not be justified [118]. On the other hand, Gallardo-Soler et al. demonstrated that PPAR-γ/δ-mediated uptake 
+of modified lipoproteins by monocytes, linking lipid metabolism and immunity, is an 
+essential early event in the development of atherosclerosis [119]. In all cells involved in 
+the atherosclerotic process, PPARs can modulate immune pathways through at least three 
+different mechanisms: by directly binding to PPREs of anti-inflammatory cytokine genes, 
+by transrepression of transcription factors such as NF-κB and AP-1; or by corepression [120]. Interestingly, in vitro studies demonstrated similar changes in AngII-treated macrophages: 
+PPARδ activation increased total and free Bcl-6 levels and inhibited AngII activation of 
+MAP kinases, p38, and ERK1/2. These studies uncover crucial proinflammatory mecha nisms of AngII and highlight actions of PPARδ activation to inhibit AngII signaling, which 
+is atheroprotective [121]. 
+In 2009, out of 1666 new papers, we decided to give the following list of outstand 
+ing, groundbreaking work: Cavalieri et al. [122] tried to look at the role of PPARs (alpha) 
+from the point of view of nutrigenomics, which brought the discussion closer to epigenet ics. A theoretical review paper by Porcuna et al. [123] was finally published in 2021, in 
+which the authors point out the great potential of epigenetic tools. In contrast, our first 
+practical work in this field dates back to 2022. These studies demonstrated that the effi ciency of PPARγ was increased in adipocytes obtained from insulin and isolated dogwood 
+extracts. These results confirm the involvement of PPARγ in the regulation of cellular 
+metabolism [124]. An interesting study was carried out by Danesi et al., in which green tea 
+extract was added to the cardiomyocyte medium from the first seeding, as a result of which 
+this extract selectively activated the PPAR-beta/delta isoform. Thus, the authors of this 
+study observed that with the increase accompanied by the activation of PPAR-beta/delta, 
+there was a decrease in the production of nitric oxide (NO) synthase and an increase in 
+total antioxidant activity. Therefore, it has been suggested that the activation of PPAR-
+Biomolecules 2024, 14, 786 11 of 34 
+beta/delta may play a key role in reducing NO production [125]. It is worth looking at 
+two publications of the same year on the role of PPAR-beta in oxidative stress-induced 
+apoptosis in human umbilical vein endothelial cells (HUVEC). In Jiang’s publication, it was 
+shown that H2O2 decreased the expression and activation of PPAR-beta, which played an 
+essential role in H2O2-induced apoptosis in HUVEC [126]. A few months later, the same 
+authors reported that repeated low-level H2O2 stress protected HUVECs from subsequent 
+oxidative stress-induced apoptosis by increasing PPARβ expression and activity [127]. In 
+turn, Bishop-Bailey and Bystrom summarized the current knowledge about the critical 
+role PPAR-beta/delta plays in regulating inflammatory processes and immunity [128]. Ramanan et al. conducted research on patients after whole-brain irradiation (WBI). The 
+authors demonstrated that PPARα ligands inhibited or slowed down radiation-induced 
+pro-inflammatory responses in microglia in vitro. Moreover, they prevented the harmful 
+effects of WBI on hippocampal neurogenesis in vivo, and the PPARγ ligand Pio alleviated 
+WBI-induced cognitive impairment [129]. 
+In 2010, the scope of knowledge expanded with the results of 1741 new works, in 
+cluding the work of Genovese et al. [130], who tested propenoic acid derivatives as PPAR beta/delta agonist ligands. Grimaldi described the regulatory functions of peroxisome 
+proliferator-activated receptor beta in terms of metabolism, inflammation, and cellular 
+stress [131]. In his review, the author emphasized that activation of PPARβ using its strong 
+and specific agonists prevented and reversed abnormalities associated with the metabolic 
+syndrome. Therefore, both genomic and non-genomic modes of action can modulate 
+responses to metabolic, inflammatory, and oxidative stress in several tissues. An inter esting study was conducted by McKinnon et al., and it was performed on patients with 
+endometriosis. The study showed that the expression of PPARγ in peritoneal endometri otic lesions was correlated with pelvic pain, dysmenorrhea, and dyspareunia experienced 
+by patients [132]. This year also brought an exciting paper by Mistry and Cresci, who 
+studied PPARs alpha, beta, and gamma to individualize heart failure therapy [133]. It is 
+also important to mention the work of Bassaganya-Riera et al., who studied the effect of 
+PPAR-gamma on respiratory infections with viruses, which offers potential hope for rescue 
+in case of failed viral vector therapies [134]. 
+In 2011, 1672 papers were published, mainly on the role of PPARs in lipid metabolism, 
+inflammation, cell proliferation, and apoptosis. Clinically significant papers were precious. The role of T-cell PPARγ in lymphopenia-associated autoimmunity was determined for 
+the first time. Housley et al. examined the role of PPARγ in CD4+ T cells and found that 
+PPARγ expression in CD4+ CD25− T cells (Teff) is required to develop autoimmunity 
+under lymphopenia. However, an unexpected function for PPARγ in Teff, in contrast to the 
+documented immunosuppressive role of PPARγ, was found in increased Teff proliferation 
+and survival [135]. A clinically valuable study of rheumatoid arthritis patients treated 
+with pioglitazone showed a significant reduction in serum oxidative and inflammatory 
+parameters and a significant improvement in DAS28 compared to the placebo group [136]. In turn, Sertznig and Reichrath presented an exciting summary of the effects of PPAR 
+agonists in dermatology. This review summarizes the current knowledge of PPAR functions 
+in various skin disorders, particularly inflammation and epidermal hyperproliferation (i.e., 
+psoriasis, atopic dermatitis, acne, scleroderma, skin malignancies) [137]. 
+In 2012, 1845 relatively fresh results arrived; the selected works are described below. 
+First, Laschke and Menger [138] had developed a strategy for the use of PPARs in antian giogenic therapy of endometriosis, while Nickkho-Amiry et al. addressed the modulation 
+of PPARs, which reduces the growth of endometrial cancer cells [139]. Moreover, Knapp 
+et al. [140] showed higher expression of PPARα and PPARβ and lower expression of PPARγ 
+in patients with endometrial cancer than in patients with healthy endometrium. Addition ally, Montero et al. [141] demonstrated that activation of PPARα and PPARγ modulates 
+the expression of the human equilibrium nucleoside transporter hENT1, which plays a 
+vital role in chemotherapy. Then Abbas et al. [142] found that a PPARγ agonist can both 
+reduce and increase the risk of cardiovascular events, while Chen et al. [143] studied PPARγ
+Biomolecules 2024, 14, 786 12 of 34 
+receptors in neurodegenerative diseases, finding them to have a significant effect through 
+NF-kappa beta. Additionally, Greene et al. [144] proved that the level of PPARδ increased 
+during intense strength training and was negatively correlated with the concentration of 
+total cholesterol and LDL, especially in the untrained state. In contrast, the level of PPARα 
+increased intensively after exercise training. 
+Wadosky and Willis [145] showed in their paper that post-translational regulation of 
+PPARs undergoes ubiquitination and sumoylation, and Peyrou et al. have dealt with PPARs 
+in liver disease and found that they are essential in metabolic dysregulation [146]. Costa 
+and Ciccodicola, on the other hand, investigated whether PPARγ is essential to diabetic 
+retinopathy, finding, however, a beneficial role [147]. Then Balakumar and Mahadevan [148] 
+argued in their paper that PPARs may be involved in the action of statins by showing anti 
+inflammatory, antioxidant, and antifibrotic effects. Wahli and Michalik [149], on the other 
+hand, consider PPARs to be the main regulator of whole body metabolism. Furthermore, 
+Reichenbach et al. [150] showed that the PPARα agonist Wy14643 inhibits cathepsin B 
+protein expression in endothelial cells. Then, Taiileux et al. [151] claimed that PPARs 
+have potential clinical applications in non-alcoholic fatty liver disease, as evidenced by 
+their participation in modulating triglyceride accumulation. Vidella and Petinelli also 
+mentioned the role of PPARs in NAFLD [152]. In this work, the authors showed that the 
+reduction of PPARα levels is associated with the depletion of the n-3 polyunsaturated 
+fatty acid chain, which may play a role in increasing the DNA binding capacity of the 
+pro-inflammatory factors NFκB and AP-1, thus constituting one of the main mechanisms of 
+progression of steatosis to steatohepatitis. PPARs also play a role in neurological diseases, as demonstrated by Bedendusi et al. [153]. The authors of this study proved that the 
+progression of amyotrophic lateral sclerosis (ALS) leads to the activation of PPARγ in motor 
+neurons, which contributes to the increase in the activity of lipid detoxifying enzymes, 
+such as lipoprotein lipase and glutathione S-transferase α-2. PPARs may participate in the 
+regulation of viral expression, as evidenced by the publication of Hu et al. [154] regarding 
+the HBV virus. This experiment showed that PPARα regulates HBV gene expression 
+through interactions with regulatory elements of the HBV promoter. Interestingly, Zuo 
+et al. demonstrated that the induction of heat injury in fibroblasts activates the action of 
+PPARβ, which has a protective effect on the structure and proliferation of these cells [155]. The same was true in 2013, with 1845 new papers, including the selected ones, such as 
+the paper by Le Foll et al. [156], which analyzed the potential use of peroxisome proliferator 
+activated receptor (PPAR) agonists as promising new drugs in the treatment of psychoactive 
+substance dependence based on preclinical studies. Aleshin and Reiser [157] described the 
+roles of all PPAR isoforms. They addressed the regulation of oxygen signaling in the brain 
+through pan-PPARs. The paper of Contreras et al. describes PPAR-alpha in the context of 
+the key to metabolic and environmental adaptations of disease substrates [158], and the 
+paper of Akyurek et al. describes PPAR-gamma in overweight children. These researchers 
+found that PPAR-gamma levels in obese children were low [159]. 
+In 2014 we can find 1688 research papers focused on PPAR, some showing the im 
+portance of PPARs in anticancer treatment. One such study was conducted by Yao et al. on human breast cancer cell lines (MDA-MB-231—estrogen receptor-negative and MCF7— estrogen receptor positive), where they showed that ligand activation and/or overexpres 
+sion of PPARβ/δ inhibits the relative carcinogenicity of breast cancer and provides further 
+support for the development of PPARβ/δ ligands to specifically inhibit breast carcino 
+genesis [160]. In addition, research into the treatment of HCV virus has been carried out. 
+Researchers have shown that using fluoxetine, an HCV titer-lowering drug, also increases 
+the activity of the peroxisome proliferator-activated receptor (PPAR) response element in 
+HCV infection [161]. 
+In 2015—1742 papers were published. One was Montagner et al.‘s paper, which 
+reviews peroxisome proliferator-activated receptor PPARβ/δ function in skin wound 
+healing and cancer. The work highlights the significant role of PPARβ/δ in inhibiting 
+keratinocyte apoptosis at the wound edges through activation of the PI3K/PKBα/Akt1
+Biomolecules 2024, 14, 786 13 of 34 
+pathway and its role during re-epithelialization in regulating keratinocyte adhesion and 
+migration. The observations and analyses suggest the need to evaluate modulators of 
+PPARβ/δ that attenuate or enhance its activity, depending on the therapeutic target [162]. 
+In 2016, 1643 works were published. An exciting publication concerns the use of 
+nanoparticles to enhance the anti-inflammatory potential of one of the PPARγ agonists— 15-deoxy-∆12,14-prostaglandin J2 (15d-PGJ2). Using solid lipid nanoparticles (SLN) and 
+15d-PGJ2 at low concentrations, 15d-PGJ2-SLN was developed and investigated for its 
+immunomodulatory potential. In three inflammation models, 15d-PGJ2-SLN reduced 
+neutrophil migration, increased IL-10 levels, and reduced IL-1β and IL-17 in peritoneal 
+fluid. Therefore, using SLN may improve the therapeutic properties of the 15d-PGJ2 [163]. Also, in 2016, Xue et al. constructed the peptide-functionalized nanoparticle platform to 
+deliver PPARγ activator rosiglitazone to adipose tissue vasculature [164]. This system 
+promotes the transformation of white adipose tissue into brown-like adipose tissue and 
+angiogenesis, which facilitates the homing of targeted NPs to adipose angiogenic vessels, 
+thereby amplifying their delivery. In a diet-induced obese mouse model, compared with 
+the control group, these angiogenesis-targeted NPs inhibited body weight gain and modu 
+lated several serological markers, including lipids and insulin. These findings suggest that 
+angiogenesis-targeting moieties with angiogenic stimulator-loaded NPs could be incorpo 
+rated into the clinical treatment of obesity and other metabolic diseases. A different type of 
+carrier, i.e., diamond nanoparticles (DN) was used by Strojna et al. concerning the delivery 
+of curcumin to cells [165]. The major problem with curcumin is its poor bioavailability, 
+which can be improved by adding carriers. DN are large surfaces that are non-toxic, have 
+antiangiogenic properties, and create bio-complexes through a fast and straightforward 
+process of self-organization. The authors investigated the cytotoxicity of complexes of 
+curcumin with DN against liver cancer cells and normal fibroblasts. Preliminary results 
+confirmed the applicability of DN as an efficient carrier of curcumin, which improves its 
+performance against cancer cells in vitro. 
+In 2017, 1606 papers were published. This year, Fidoamoere et al. [166] elucidated 
+the role of PPAR-alpha in metabolic alterations of the oxygen-deficient microenviron 
+ment in newly formed tumors. The same problem was revisited 6 years later by Rolver 
+et al. [167], who looked at the issue of creating, with the help of PPAR-alpha, an acidic 
+microenvironment that favors young tumors. In the same year, Kado et al. [168] proposed 
+to reduce ovarian cancer progression using the exact mechanism. Wright et al. researched 
+human oral cancer cell lines CA-9-22 and NA, which were treated with the PPAR activators 
+eicosatetraenoic acid (ETYA), 15-deoxy-δ-12,14-prostaglandin J2 (PG-J2), thiazolidinedione, 
+and ciglitazone, and then tested on their ability to functionally activate PPARγ luciferase 
+reporter gene constructs. The authors found a significant reduction in cell proliferation 
+and clonogenic potential and concluded that with treatment, there was a decrease in cell 
+proliferation and clonogenic potential [169]. A fascinating paper by Ivanova et al. describes 
+the activation of PPARs in fatty acid and energy metabolism, stating that PPAR-gamma 
+activation is related to atherosclerosis, cardiovascular disorders, and prognosis of cardio 
+vascular surgery [170]. Gross et al. reported that PPAR ligands reduce comorbid disease 
+by affecting WAT combustion storage capacity and fat combustion in BAT and/or periph eral possessions, thereby reducing ectopic fat load. Moreover, a well-prepared clinical 
+study showed that the use of PPARγ has a beneficial effect in patients with non-alcoholic 
+steatomyelitis [171]. 
+The year 2018 brought us 1608 research papers. For example, Borland et al. showed 
+that PPARs have a significant impact on carcinogenicity in squamous cell carcinoma [172]. The authors presented their results on the A431 human squamous cell carcinoma cell line, which showed that stable expression and activation of PPARβ/δ or PPARγ led to reduced 
+carcinogenicity. Furthermore, Leiguez et al. found that in macrophages, the compound 
+MT-III, snake venom phospholipase A2, activated PPARγ and PPARβ/δ and increased 
+protein levels of both transcription factors and CD36 [173]. According to studies conducted 
+by Sun et al. on the human hepatocellular carcinoma cell line HepG2, it is suggested
+Biomolecules 2024, 14, 786 14 of 34 
+that using 2,4-dichlorophenoxyacetic acid interferes with glucose metabolism in the liver 
+by activating PPARβ [174]. Therefore, it leads to hepatocyte glycogen accumulation by 
+increasing glucose uptake and improving gluconeogenesis (via FoxO1 and CREB). 
+2019 was particularly abundant in new (1509) and especially in critical reports, of 
+which we have selected a few for presentation. One of the exciting and valuable publica tions is a review in which the authors present the issues related to chemotherapy-induced 
+neuropathy and the effects of PPARγ activation in treating chemotherapy-induced neuro pathic pain [175]. Vallée, et al. demonstrated that non-steroidal anti-inflammatory drugs 
+acting as PPARγ agonists help regulate the WNT/β-catenin pathway and thus control 
+tumor growth through cell cycle arrest, cell differentiation, and apoptosis and may reduce 
+inflammation, oxidative stress, proliferation, invasion, and cell migration [176]. 
+The year 2020 brought 1460 new papers. We found many publications dated that year 
+on the links between PPARs and various types of cancer. One of them is an interesting 
+work of Toraih et al. [177], who addressed the relationship between genotype and clinical 
+prognosis of thyroid cancer patients, finding in a material analysis of 174 samples that the 
+simultaneous presence of micro RNA 27a (miRNA 27a) and PPAR-alpha and RXR-alpha 
+dimer are associated with adverse clinical prognosis. Hirao-Suzuki et al. demonstrated in 
+the MDA-MB-23 human breast cancer cell model that COX-2 expression is positively mod ulated by PPARβ/δ-mediated signaling [178]. Moreover, Elie-Caille et al., using RTqPCR 
+and Western blot analyses, showed that the peroxisome proliferator-activated receptor β/δ 
+(PPARβ/δ) agonist GW501516 significantly reduced the expression of N-cadherin in the 
+transitional cell carcinoma of the urinary epithelium of the bladder [179]. Moosavi et al. reported that in studies of Cao2 colorectal adenocarcinoma cells, extracellular vehicles EVs 
+derived from gut microbiota such as F. prausnitzii increase the permeability of the intestinal 
+barrier, among others, through the PPARα, PPARγ and PPAR β/δ genes [180]. Addition ally, Liu et al. demonstrated that genetic variants in PPAR pathway genes, particularly 
+MED1, PRKCA, and PRKCB, may contribute to susceptibility to pancreatic cancer [181]. Wouters et al. demonstrated that inflammation-induced PPARγ expression promotes 
+myelin-induced foam cell formation in macrophages in multiple sclerosis [182]. PPARs are 
+also associated with liver disease. Xia et al. showed that bergenine may be a promising 
+drug candidate for treating liver fibrosis because it activated PPARγ, inhibited TGF-β, 
+and reduced liver fibrosis by inhibiting hepatocyte necrosis and extracellular matrix for 
+mation [183]. In studies conducted in hepatocytes treated with non-esterified fatty acids, 
+Shen et al. showed that choline and methionine regulate the transcriptional activity of 
+PPARα and liver X receptor α (LXR-α) through phosphorylation of AMPK-α and regulate 
+SREBP-1c independently of AMPK-α to promote lipid oxidation and transport [184]. Yu 
+et al. showed that PPARβ/δ activating ligands increase the in vitro expression of decidual ization biomarkers of endometrial stromal cells (ESCs), and PPARβ/δ antagonists impair 
+decidualization markers [185]. In addition, Zhang et al. showed that the expression of 
+PPARβ/δ was significantly increased in cholesteatoma, and the ligand-activated PPARβ/δ 
+promoted the proliferation of cholesteatoma keratinocytes as a result of the positive reg ulation of the PDK1/PTEN/AKT/GSK3β/cyclin D1 pathway [186]. In the same year, 
+Wójtowicz et al. [187] proposed using the PPARs in treating neurodegenerative disorders. More Manickam et al. [188] studied the effect of microbiota on skeletal muscle status, da 
+Cruz et al. [189] attempted to control inflammatory processes through PPARβ/δ and ma nipulation of it with diet, and Wagner and Wagner [190] studied PPARβ/δ as a hallmark of 
+cancer. In this news-rich year, additional mention should be made of Phua et al. [191] work 
+(co-author W. Wahli), in which a PPARβ/δ agonist reduces inflammation in skeletal muscle. Additionally, Zhang et al. researched new biomarkers of myocardial damage. In this 
+work, they demonstrated that small molecules transform myocardial energy metabolism 
+by regulating and translating PPARα [192]. Interestingly, Andrade-Souza et al. researched 
+the effects of exercise on nuclear transcription factors. Studies have shown that PPARα 
+and PPARβ/δ gene transcriptions were increased when exercise was performed twice a 
+day compared to once a day [193]. Furthermore, Faulkner et al. showed that in the human
+Biomolecules 2024, 14, 786 15 of 34 
+endothelial cell line HUVEC, the tubulogenic effects of compound GW0742 were dependent 
+on PPARβ/δ and demonstrated a regulatory role for PPARβ/δ in regulating endothelial 
+cell behavior and promoting tissue maintenance and repair [194]. In addition, Chai et al. showed that microRNA-9-5p inhibits extracellular matrix deposition and proliferation and 
+induces apoptosis by targeting PPARβ in human hypertrophic scar fibroblasts [195]. It also 
+turns out that PPARs have a potential role in treating diabetic retinopathy, as discovered 
+by Capozzi et al. [196]. In this study, the authors showed that the PPARβ/δ inhibitor— GSK0660 inhibits the palmitic acid-stimulated production of inflammatory mediators by 
+Müller cells. However, Contreras-Lopez et al. demonstrated a different property of PPARs. In their studies, the authors showed that PPARβ/δ participates in the regulation of the 
+immunoregulatory potential of mesenchymal stem cells, therefore dictating their metabolic 
+reprogramming and paving the way to enhance the immunoregulatory properties of MSCs 
+and counteract their versatility [197]. Also of note from this year is the work of Petr et al., 
+who studied the effect of genetic variants of PPARs on the performance of athletes [198]. In 
+addition, Tutunchi et al. [199] reviewed the effects of oleoylethanolamide, a PPARα ligand, 
+as a weight control agent. 
+There were 1404 newcomers in 2021, among which the following papers should be 
+mentioned: Grabacka et al. [200] found that PPAR-alpha plays a key role in the processes 
+of the innate immune response, and Willems et al. [201] highlighted the possibility of 
+modifying PPAR-alpha (and also beta/delta) activity with photohormones. Kharbanda 
+et al. [202] synthesized forty-eight molecules derived from the arylpropionic acid scaffold 
+and evaluated them for their effects on diabetes based on the excellent docking point 
+demonstrated by all structures made to the PPAR-γ receptor site. The authors concluded 
+that arylpropionic acid derivatives may provide a new perspective toward developing 
+antidiabetic agents with fewer side effects. 
+Several interesting review papers were also published in 2021. Christofides et al. [203] 
+described the role of PPARs in immune responses, Rayner et al. [204] described PPAR 
+gamma-mediated neuronal regeneration, and Stark et al., in turn, described the role of 
+PPAR-gamma in allergic diseases [205]. This year also saw the work of Hasegawa et al. who looked at liver diseases and described several potential new drugs using PPARs [206]. 2022 was one of the peak years for publications on PPARs, with about 1555 of them 
+recorded in the NCBI database. In our opinion, the most noteworthy are the papers 
+regarding the relationships between non-coding RNA and PPARs. Previously, few works 
+on this topic were published, but in 2022, according to NCBI, there were 146 of them. Therefore, review works are precious, especially those that concern common diseases 
+whose pathogenesis is very complex and whose therapeutic goals are challenging to 
+achieve. Such diseases include NAFLD, the most prevalent form of chronic liver disease 
+in the world and a significant risk factor for developing hepatocellular carcinoma, and 
+NASH. Non-coding, such as microRNA (miRNA) and long non-coding RNA (lncRNA), 
+has been proven to play a significant role in the pathogenesis of these disorders. PPARs 
+were found to be one of the major regulators in the progression of NAFLD. Mukherjee 
+et al. presented reliable knowledge about regulating PPARs through ncRNAs and their role 
+in NAFLD [207]. In the review on the clinical relevance of circulating non-coding RNAs 
+in metabolic diseases (such as obesity, diabetes, cardiovascular diseases, and metabolic 
+syndrome), Dandare cites that miRNA-138 suppresses adipogenic differentiation and is 
+implicated in obesity by interaction with a potent inhibitor of adipogenic differentiation 
+that interferes with Src homology region 2-containing protein (SHP2), an endogenous 
+enhancer of adipogenic PPARγ [208]. A fascinating paper concerns miRNA networks, 
+which form networks of systems and gene expression circuits through molecular signaling 
+and cellular interactions and contribute to various health disorders [209]. It appears 
+necessary to establish genomic signatures to determine multifactorial correlations and 
+reveal variability observed in therapeutic effects, e.g., in patients with cardiovascular 
+disease. Clinically validated miRNA biomarkers and relevant SNPs identified in clinical 
+practice can serve this purpose. They should increase the ability to stratify patients, help
+Biomolecules 2024, 14, 786 16 of 34 
+select innovative therapeutic regimens, and identify innovative drugs and delivery systems. This paper examines miRNA–gene networks and SNP-derived genomic signatures to 
+highlight specific gene signaling circuits as sources of molecular knowledge relevant to 
+cardiovascular diseases. 
+The year 2023 resulted in 1310 new publications. We think the following should be 
+mentioned: Kaltdorf et al. [210] proposed a new approach to evaluating experiments using 
+PPARs and a new informatics tool called Boolean networks. Tanaka et al. reported [211] 
+on PPARα and its ligand Ror 1, Ibrahim et al. [212] on the activation of SIRT 1 by taurine, 
+and Yang et al. [213] on the effect of ligand PFAS (polyfluorolkyl) on the PPARα/ACOX 1 
+heteroduplex. Zhou et al. [214] described the impact of the FNDC5/PARGα heterodimer 
+on macrophage pyroptosis. Nevertheless, in our ranking, the champions of 2023 were 
+Pascoa et al. [215], presenting their prototype tool for identifying new ligands detected in 
+cyanobacteria. 
+In 2024 (data from January to May 20, includes 385 papers), Kim et al. [216] elucidated 
+the mechanism of PPAR-alpha’s effect on the intestinal stem cell pool in the process of 
+calcification of blood vessels, while Liu et al. [217] tackled pectolinargenine, a Chinese 
+folk medicine drug, demonstrating its multiple beneficial effects in many disease entities, 
+including ligands and with the Nrf 2 gene. Exciting research was conducted by Cheng 
+et al. [218], in which they led the study of the role of epigenetic regulation, including DNA 
+methyltransferase 3a (DNMT3a)-mediated methylation and PPARγ-activated receptor 
+inhibition, in the development of intervertebral disc degeneration (IVDD). The authors 
+of this study showed that DNMT3a, by modifying the hypermethylation of the PPARγ 
+promoter, activates the NF-κB pathway and thus contributes to apoptosis and degradation 
+of the extracellular matrix. 
+In reviewing the literature, a trend in research has been noted: Chinese researchers are 
+often concerned with green tea and drugs used in folk traditional Chinese medicine [219–226]. Indians, on the other hand, are keen on traditional medicines used in Ayurveda (mainly 
+curcumin) [227–229]. Europeans, on the other hand, often try to demonstrate the beneficial 
+effects of cannabis [230–235]. 
+Examining this phenomenon in light of the statements about the lack of conflict of 
+interest might be worthwhile. 
+4. Discussion 
+In a situation with so much interest in PPARs and such a huge scattering of detailed 
+research topics, it is tough to summarize the results to date, let alone predict the future. Nevertheless, some things can be expected with reasonable probability. First, in pure 
+science, it is possible to foresee a slow filling of the small gaps in knowledge that still exist. Second, in the field of pharmacology, there will be an acceleration of work on the search 
+for new and better ligands, with little harm to human health. It is also most likely that 
+pan-type approaches will become more common. In conclusion, the field is slowly moving 
+from research to implementation, which bodes well for patients. 
+PPARα is a crucial regulator of lipid metabolism. It was discovered as the first member 
+of the peroxisome proliferator family [236]. PPARα is mainly expressed in the liver and 
+tissues with increased mitochondrial oxidation and fatty acid catabolism, such as brown 
+adipocytes, cardiac muscle, skeletal muscle, and kidney [237]. PPARα activation leads 
+to the upregulation of enzymes involved in fatty acid uptake, transport to mitochondria, 
+and subsequent oxidation. This stimulates the breakdown of fatty acids, especially during 
+fasting or prolonged exercise when glucose availability is limited and energy is needed. In 
+addition, PPARα activation enhances the removal of circulating triglycerides in the blood 
+by increasing the expression of lipoprotein lipase and other lipolytic enzymes, thereby 
+lowering plasma lipid levels. 
+PPARγ is expressed in adipose tissue, the colon, the immune system, and the retina. 
+Alternative splicing results in seven different mRNA transcript variants named PPARγ1 to 
+PPARγ7 [238]. PPARγ influences the development, body localization, and adipose tissue
+Biomolecules 2024, 14, 786 17 of 34 
+metabolism [239]. In addition, it is a significant insulin sensitizer and regulates metabolism 
+and cellular sensitivity to glucose and insulin. Moreover, PPARγ plays a vital role in cell 
+differentiation and the regulation of apoptosis. Another function of PPARγ is to inhibit 
+inflammatory processes, have an anti-atherosclerotic effect, and generally improve cardiac 
+performance. PPARγ also plays an important role in human procreation (in women, it 
+stimulates ovulation, while in men, it regulates sperm biology). When activated by specific 
+ligands, PPARγ binds to the RXR receptor to form a heterodimer, and together, they regulate 
+the expression of multiple genes [15,239]. The same can be observed in PPARα. Ligands for 
+PPARγ can be both natural compounds (docosahexaenoic acid and eicosapentaenoic acid 
+or other polyunsaturated fatty acids and some monounsaturated fatty acids such as oleic 
+acid) and synthetic compounds (thiazolidinediones such as troglitazone, rosiglitazone, and 
+pioglitazone) [240]. Non-steroidal anti-inflammatory drugs are also included in the PPARγ 
+agonist group. 
+Numerous studies published to date point to the critical role of DNA methylation in 
+regulating the expression and normal function of PPARγ in health and homeostasis by 
+regulating many important vital processes [241–243]. PPARγ is also believed to play a 
+massive role in the pathogenesis of many diseases in which dysregulation of DNA methy lation leading to impaired expression disrupts the normal function of the transcription 
+factor. Such disorders include insulin resistance and type 2 diabetes, and the epigenetic 
+component plays a significant role in their development. Epigenetics are those changes in 
+gene function inherited by mitotic or meiotic cells, which are not associated with changes 
+in DNA sequence [244]. Such changes can increase or decrease the expression of a target 
+gene [245]. DNA methylation profiles are greatly influenced by environmental factors. They 
+also affect histone modification, leading to dysregulation of the expression of many genes, including the insulin signaling gene and lipid metabolism genes. In addition to metabolic 
+disorders, epigenetics has been linked to cancer and neurodegenerative diseases [244]. 
+PPARγ and PPARα homologs are subject to epigenetic regulation, mainly DNA methy 
+lation [123]. The PPARα promoter is hypermethylated, mainly in patients with non alcoholic fatty liver disease (NAFLD) and patients with type 2 diabetes [246,247]. PPARα 
+undergoes hydroxymethylation, which affects PPARα expression, predisposing a person to 
+NAFLD [248]. Patients with metabolic syndrome have been found to have significant hyper lipidemia dependent on a different DNA methylation of PPARα [249]. Castellano-Castillo 
+et al. demonstrated hypermethylation of multiple genes that correlated with metabolic 
+dysregulation, including genes essential for regulating adipogenesis, lipid metabolism, and 
+inflammation. This suggests that DNA methylation of the nuclear receptors PPARγ and 
+PPARα is correlated with metabolic deregulation, the pathogenesis of metabolic syndrome, and the induction of inflammation [250]. 
+Considering diabetes treatment, it is known that the use of an adjuvant PPAR agonist 
+influences the control of glycemia, the reduction of HbA1c levels, and the improvement 
+of insulin resistance compared to metformin monotherapy. Moreover, beneficial changes 
+were observed in patients using PPAR agonists, such as a reduction in blood pressure 
+and a decrease in the concentration of inflammatory markers and dyslipidemia. It was 
+mentioned above that in the treatment of diabetes, PPARy agonists can be used, mainly 
+thiazolidinediones (TZD), whose task is to prevent the effects of diabetes by increasing 
+patients’ sensitivity to insulin, leading to a reduction in the concentration of both glucose 
+and insulin in the plasma. The most commonly used TZDs are rosiglitazone, pioglitazone, and lobeglitazone sulfate in combination with metformin and other drugs used to treat 
+diabetes [251]. Despite the positive effects of rosiglizatone, such as lowering fasting plasma 
+glucose (FPG) and postprandial serum glucose, lowering HbA1c, and lowering insulin and 
+C-peptide levels, this drug has clinically significant side effects such as edema, anemia, and weight gain [252]. Additionally, an increased risk of cardiovascular disease (CVD) has 
+been observed in patients with unstable heart failure (HF) [253]. In turn, pioglitazone has 
+antidiabetic effects, improves HbA1c, and has a positive effect on serum lipids; however, 
+increasing the duration of pioglitazone use resulted in an increased risk of bladder can-
+Biomolecules 2024, 14, 786 18 of 34 
+cer [254]. Nevertheless, unlike other TZDs, it has been shown that lobeglitazone can be a 
+therapeutic substance that combines the features of both effectiveness and safety [255]. No 
+side or carcinogenic effects were observed in patients taking it, but its antidiabetic effects 
+have been proven [256]. 
+The effect of PPAR agonists in treating diabetes may depend on individual factors 
+such as single nucleotide polymorphism. One of the most frequently studied and analyzed 
+polymorphisms is Pro12Ala, in which there is a nucleotide change from CCA-to-GCA in 
+the codon12 of exon B of the PPARG gene [257]. Multiple studies have shown that the 
+occurrence of this polymorphism was associated with a lower risk of type 2 diabetes as 
+well as improved insulin sensitivity in humans, suggesting that this amino acid change 
+enhances the action of insulin [258,259]. Additionally, it was shown that the occurrence 
+of the Pro12Ala polymorphism was associated with a decrease in triglyceride content in 
+white adipose tissue, skeletal muscles, and the liver, which was the result of increased 
+leptin expression and a decrease in the lipogenesis process, which led to increased insulin 
+sensitivity [257]. The reduction in immune function may result from several mechanisms. As mentioned earlier, pioglitazone is used to reduce insulin sensitivity in diabetes. Nu merous studies also show that patients with the Pro12Ala polymorphism showed a better 
+therapeutic response than participants with the Pro12Pro genotype [257]. Additionally, 
+many studies show that the Pro12Ala polymorphism significantly impacts changes in 
+HbA1C, FPG, and TG levels in T2D patients treated with TZD4 [260]. 
+Particular attention should be paid to the importance of pharmacogenetics, which will 
+make individual treatment based on the patient’s genetic profile possible in the future. 
+PPARs, playing an essential role in regulating the inflammatory response, have a 
+significant impact on the course of diseases such as rheumatoid arthritis [75,136,261–263] 
+and inflammatory bowel diseases [264–268]. In the synovium of rheumatoid arthritis (RA) 
+patients, the abnormal migration, proliferation, and activation of fibroblast-like synovio cytes (FLSs) is observed in the joints. In vitro studies demonstrated that the expression of 
+PPAR-γ in the synoviocytes of RA patients and adjuvant arthritis (AA) in experimental 
+animals was significantly lower than that of normal FLSs [263,267]. Synthetic non-fibrate 
+PPARγ ligands (thiazolidinedione family) and fibrates (bezafibrate and fenofibrate), as well 
+as natural PPAR agonists (unsaturated and nitrated fatty acids, eicosanoids), had various 
+effects on the severity and course of RA. In the synoviocytes of RA patients, the induction 
+of inflammatory cytokine mRNA expressions such as TNF-α and IL-1β was significantly 
+inhibited by the 15d-PGJ2, natural PPARγ agonist [261,269]. Using solid lipid nanoparticles 
+may enhance this anti-inflammatory effect of 15d-PGJ2 and rosiglitazone [163]. A recent 
+study has shown that PPARγ alleviates the inflammatory response in TNF-α-induced FLSs 
+by binding to p53 in RA patients [270]. Another study indicated that PPARγ may induce 
+the activation of Wnt/β-catenin signaling during FLSs activation [176,263]; perhaps in this 
+way, PPARγ ligands induce synovial cell apoptosis. 
+Study results support the use of PPARγ agonists in the treatment of RA. Their beneficial 
+effects, especially in combination with methotrexate, are documented. The mechanisms of 
+this action include the inhibition of ROS and inflammatory cytokines generation, as well as 
+the attenuation of the migration and proliferation of FLSs. 
+PPARγ is highly expressed in the colon (in epithelial cells and lamina propria mononu 
+clear cells such as macrophages as well as T and B cells), being a key regulatory factor 
+of bacteria-induced mucosal inflammation. A bacteria-induced excess of TLR4 under the 
+influence of lipopolysaccharide (LPS) triggers the NFκB and mitogen-activated kinases 
+(MAPKs) pathways, leading to increased production of inflammatory mediators. In pa tients diagnosed with inflammatory bowel disease (IBD); ulcerative colitis (UC), or Crohn’s 
+disease (CD), as well as in experimentally induced colitis, the depressed PPARγ expres 
+sion in colon epithelial cells has been shown. Simultaneously, the PPARγ gene has been 
+described as a susceptibility gene for IBD [265]. One of the oldest anti-inflammatory agents 
+used for the treatment of IBD is 5-ASA, the functional synthetic ligand for PPARγ in the 
+colon. PPARγ is the critical receptor mediating the 5-ASA activity by trans-repressing
+Biomolecules 2024, 14, 786 19 of 34 
+several essential target genes such as NFκB, signal transducers, and activators of transcrip tion [264]. Synthetic (thiazolidinediones, glitazars, non-steroidal anti-inflammatory drugs, 
+aspirin) and natural (conjugated linoleic acid, barley leaf (BL), inosine) PPARγ ligands 
+were used in various models of IBD, with different effectiveness [264–268]. Rosiglitazone 
+was also used in patients suffering from UC, and the endoscopic and clinical results were 
+promising [271,272]. As UC is closely associated with gut microbiota dysbiosis, Li et al., using 16S rRNA gene-based microbiota analysis, found that dietary supplementation of BL 
+ameliorated dextran sulfate sodium (DSS)-induced gut microbiota dysbiosis and protects 
+against DSS-induced colitis. The mechanism of this protective BL action resulted from im proved intestinal mucosal barrier functions via the activation of PPARγ signaling. Similarly 
+to the effect of exogenous treatment with inosine, BL protects against DSS-induced colitis 
+by improving adenosine 2A receptor/PPARγ-dependent mucosal barrier functions [268]. The conjugated linoleic acid (CLA) induced PPARγ and δ and repressed tumor necrosis 
+factor α (TNF-α) expression and NFκB activation while inducing the immunoregulatory 
+cytokine transforming growth factor β 1 (TGF-β1). Clinically, CLA also ameliorated DSS and CD4+-induced colitis through a PPAR γ-dependent mechanism [273]. Additionally, 
+PPARγ receptors are directly involved in the mechanism of action of mesalazine, which is 
+primarily used and effective in UC. 
+The impact of PPARγ on the course of IBD seems to pertain not solely to UC but 
+also CD. Numerous animal studies have concluded that PPARγ agonists may have higher 
+efficacy in maintaining rather than inducing IBD remission and that the therapeutic effect 
+of PPARγ is mainly dependent on its abundance in target tissues. 
+It is also essential to emphasize the role of PPAR-alpha gene polymorphisms on 
+cardiovascular risk. 
+The risk of coronary heart disease (CHD) has been suggested to be associated with 
+polymorphisms of peroxisome proliferator-activated receptors. The results were con troversial. In the case-control study, T allele carriers of C161T polymorphism were not 
+significantly associated with CHD, while T allele carriers showed a higher risk of acute 
+coronary syndrome (ACS). The meta-analysis indicated that compared with CC homozy gous, T allele carriers had lower CHD but higher ACS risk. Other polymorphisms were 
+also significantly associated with CHD risk under the dominant model: PPAR-alpha intron 
+7G/C polymorphism and L162V polymorphism [274]. The association of PPAR-alpha 
+L162V polymorphism with cardiovascular risk may result from genetically conditioned 
+changes in lipid metabolism. The serum total cholesterol and LDL-cholesterol levels were 
+higher in PPAR-alpha V162 allele carriers in non-diabetic CHD. The increasing effect of the 
+PPAR-alpha V162 allele on serum cholesterol levels was weakened with the presence of the 
+PPAR-gamma 161T allele in the non-diabetic CHD patients. The ApoE4-PPAR-alpha V162 
+allelic combination of the ApoE/PPARA genes was found to be more frequent in diabetic 
+CHD patients, independent of serum lipids. It was suggested that the PPAR-alpha L162V 
+polymorphism may have diverse effects on serum lipids, and CHD risk depends on the 
+presence of diabetes [275]. 
+In our study, compared to healthy men, the frequency of the V allele of the L162V 
+polymorphism was four times higher in men with confirmed coronary atherosclerosis. We concluded that L162V polymorphism in the gene for PPAR-alpha seems to be associ ated with atherosclerosis through a mechanism including regulation of the interleukin-6 
+level [276]. On the other hand, in patients with type 2 diabetes, there was a trend towards a 
+lower prevalence of atherosclerosis and lower CHD prevalence in carriers versus noncarri ers of the V allele. These data suggest that the PPAR-alpha polymorphism L162V might 
+protect against the development of atherosclerosis or CHD in patients with DM-2 [277]. 
+Recently, an increasing number of studies indicate that various PPAR gene polymor 
+phisms influence the effects of PPAR agonists on lipids and cardiovascular risk. More over, much evidence shows that lipid metabolism is influenced by gene-gene and gene environment interactions involving PPAR-alpha genes [278].
+
+Biomolecules 2024, 14, 786 20 of 34 
+The data presented above indicate that PPAR-alpha agonists, by reducing metabolic 
+disorders associated with atherogenic dyslipidemia, reduce the so-called residual risk of 
+cardiovascular events. Currently, scientific societies recommend the use of PPAR-alpha ag 
+onists in people with hypertriglyceridemia after the LDL cholesterol level has been reduced 
+to the target values. An attempt to reduce the non-HDL cholesterol to the target values 
+can be considered (a) combination therapy using omega-3 fatty acids (PUFA, at 2–4 g/day) 
+and statin in patients with triglyceride concentrations above 2.3 mmol/L (200 mg/dL) 
+despite statin treatment; (b) combination therapy using choline fenofibrate and statin can 
+be considered as a part of primary prevention in patients with triglyceride concentrations 
+above 2.3 mmol/L (200 mg/dL) whose LDL cholesterol levels have been reduced to the 
+Biomolecules 2024, 14, x FOR PEER REVIEW 21 of 23  
+target values, especially where the HDL cholesterol levels are low; (c) combination ther 
+apy using choline fenofibrate and statin should be considered in high-risk patients with 
+triglyceride concentrations above 2.3 mol/L (200 mg/dL) whose LDL cholesterol levels 
+Biomolecules 2024, 14, x FOR PEER REVIEW 21 of 23  have been reduced to the target values, especially where the HDL cholesterol levels are 
+low [279,280]. The anti-arthrogenic mechanism of fibrates is shown in Figure 4. 
+Figure 4. Anti-arthrogenic mechanism of fibrates.  
+Figure 4. Anti-arthrogenic mechanism of fibrates. 
+PPAR agonists already have and may have many more medical applications now  
+Figure 4. Anti-arthrogenic mechanism of fibrates.  
+and in the future (Figure 5). 
+PPAR agonists already have and may have many more medical applications now and 
+in the future (Figure 5). 
+PPAR agonists already have and may have many more medical applications now  
+and in the future (Figure 5). 
+Figure 5. PPARs pharmacological effect. 
+Figure 5. PPARs pharmacological effect. 
+This problem was widely discussed by Cheng et al. in their fascinating review ex 
+This problem was widely discussed by Cheng et al. in their fascinating review ex 
+ploring PPAR modulators in medical research, showing their application and utility. The
+Figure 5. PPARs pharmacological effect. 
+ploring PPAR modulators in medical research, showing their application and utility. The  
+authors collected and described existing knowledge about different classes of PPAR ag 
+This problem was widely discussed by Cheng et al. in their fascinating review ex 
+onists, which are under various phases of clinical investigations or have already been  
+ploring PPAR modulators in medical research, showing their application and utility. The  
+approved for medical use [281]. Anyway, it is also worth mentioning the paper by  
+authors collected and described existing knowledge about different classes of PPAR ag 
+Colapitro et al. [282], which describes new therapeutic fibrates and PPAR agonists such  
+onists which are under various hases of clinical investiations or have alread been  
+
+Biomolecules 2024, 14, 786 21 of 34 
+authors collected and described existing knowledge about different classes of PPAR ag 
+onists, which are under various phases of clinical investigations or have already been 
+approved for medical use [281]. Anyway, it is also worth mentioning the paper by Co 
+lapitro et al. [282], which describes new therapeutic fibrates and PPAR agonists such as 
+bezafibrate and fenofibrate. In addition, the paper describes other PPAR ligands, such 
+as Seladerpar, Elafibranor, and Saroglitazar, tested in patients with PBC (Primary Biliary 
+Cholangitis). Bezafibrate has the most promising effect on liver disease, improving symp 
+toms in patients with PBC. However, despite its broad spectrum of activity, it should be 
+Biomolecules 2024, 14, x FOR PEER REVIEW 22 of 23  used with caution in patients with chronic kidney disease and those with cirrhosis, in 
+whom it increases bilirubin levels and impairs liver function. However, in patients who 
+do not yet have cirrhosis it could be used successfully. Seladelpar is a PPAR-δ agonist. It 
+ti-inflammatory properties. Elafibranor, a dual PPARα/δ agonist, is a promising drug due  
+has choleretic properties, resulting from altered bile acid synthesis, and anti-inflammatory 
+to the lack of adverse effects of PPAR-γ ligands on the heart. Saroglitazar, on the other  
+properties. Elafibranor, a dual PPARα/δ agonist, is a promising drug due to the lack of 
+hand, is mainly a PPAR-α activator and exerts agonist effects on PPAR-γ; that is, it has  adverse effects of PPAR-γ ligands on the heart. Saroglitazar, on the other hand, is mainly a 
+dual PPAR agonist activity. It is used to treat NASH, diabetic dyslipidemia, and diabetes  
+PPAR-α activator and exerts agonist effects on PPAR-γ; that is, it has dual PPAR agonist 
+uncontrolled by statins. Its effects are also being studied in PBC. These drugs show im 
+activity. It is used to treat NASH, diabetic dyslipidemia, and diabetes uncontrolled by 
+provement in ALP but have only been tested in the short term and on a small group of  
+statins. Its effects are also being studied in PBC. These drugs show improvement in ALP 
+patients. Further studies are needed to determine the dose and test the drug’s safety.  
+but have only been tested in the short term and on a small group of patients. Further 
+Ideally, these patients should be selected for individual double or triple combination  
+studies are needed to determine the dose and test the drug’s safety. Ideally, these patients 
+therapy. 
+should be selected for individual double or triple combination therapy. 
+Unfortunately, side effects are the main problem in designing and developing new  
+Unfortunately, side effects are the main problem in designing and developing new 
+synthetic PPAR ligands. Therefore, future PPAR research should focus on minimizing the  
+synthetic PPAR ligands. Therefore, future PPAR research should focus on minimizing the 
+side effects of PPAR agonists and the potential of PPAR antagonists. Using such com 
+side effects of PPAR agonists and the potential of PPAR antagonists. Using such compounds 
+pounds will open a new chapter in using PPAR ligands in medicine. 
+will open a new chapter in using PPAR ligands in medicine. 
+Generally, ligands of PPARs can be agonists (full, partial, or inverse) or natural an 
+Generally, ligands of PPARs can be agonists (full, partial, or inverse) or natural antago 
+tagonists. There are 84 types of PPAR synthetic ligands used as drugs to treat various  
+nists. There are 84 types of PPAR synthetic ligands used as drugs to treat various diseases. 
+diseases. For example, PPARα agonists (fibrates), PPARγ agonists (thiazolidinediones  
+For example, PPARα agonists (fibrates), PPARγ agonists (thiazolidinediones -TZDs) and 
+-TZDs) and combined PPARα/γ agonists (glitazars) are therapeutic agents for CVD pre 
+combined PPARα/γ agonists (glitazars) are therapeutic agents for CVD prevention, T2DM 
+vention, T2DM and dyslipidemia. Unfortunately, PPAR ligands are reported to have  
+and dyslipidemia. Unfortunately, PPAR ligands are reported to have multiple organ toxicity 
+multiple organ toxicity (Figure 6) [283].  
+(Figure 6) [283]. 
+Figure 6. Systemic toxicities of PPARs. 
+Figure 6. Systemic toxicities of PPARs.  
+TZDs can cause hepatotoxicity, heart failure, or fluid retention. Glitazone’s side effects 
+TZDs can cause hepatotoxicity, heart failure, or fluid retention. Glitazone’s side ef 
+include body weight gain, peripheral edema, and congestive heart failure [283]. Fenofi 
+fects include body weight gain, peripheral edema, and congestive heart failure [283].  
+brate therapy causes pulmonary embolism, pancreatitis, an evaluated plasma creatinine
+Fenofibrate therapy causes pulmonary embolism, pancreatitis, an evaluated plasma cre 
+atinine level (reversible after therapy ends), and an increased rate of noncardiovascular  
+mortality. However, fibrate risk should be treated individually [284].  
+5. Concluding Remarks  
+For 35 years, knowledge about PPARs has significantly expanded. Over the years,  
+Biomolecules 2024, 14, 786 22 of 34 
+level (reversible after therapy ends), and an increased rate of noncardiovascular mortality. However, fibrate risk should be treated individually [284]. 
+5. Concluding Remarks 
+For 35 years, knowledge about PPARs has significantly expanded. Over the years, 
+thousands of studies have been performed. PPARs are an exciting group of transcription 
+factors due to their connection with various chronic diseases, such as cancer, diabetes, 
+obesity, arteriosclerosis, and neurodegenerative diseases. PPAR agonists are used to treat 
+these diseases. For example, PPARα agonists treat hyperlipidemia or modulation of inflam matory response, while PPARγ agonists have potent hypoglycemic potential in patients 
+with insulin resistance and cancer [285]. However, time and many studies are still needed 
+to confirm the safety and effectiveness of the long-term use of PPAR agonists. In addition, 
+particular attention should be paid to individual variations, such as polymorphisms that 
+influence the function of PPARs. However, more research is still needed to fully understand 
+the functions of PPARs. 
+Author Contributions: Conceptualization, T.D., A.D., M.O., A.S. and R.A.; resources, T.D., M.M.-M., A.S. and R.A.; data curation, A.D., S.G., A.S., A.J. and A.L.; writing—original draft preparation, T.D., A.D., A.S. and M.O.; writing—review and editing, A.D., A.S., T.D. and M.O.; visualization, M.O., A.D., J.A.-M., M.M.-M. and A.S. All authors have read and agreed to the published version of 
+the manuscript. 
+Funding: This research received no external funding. 
+Institutional Review Board Statement: Not applicable. 
+Informed Consent Statement: Not applicable. 
+Data Availability Statement: Data are contained within the article. 
+Conflicts of Interest: The authors declare no conflicts of interest. 
+References 
+1. Vamecq, J.; Latruffe, N. Medical significance of peroxisome proliferator-activated receptors. Lancet 1999, 354, 141–148. [CrossRef] 2. Issemann, I.; Green, S. Activation of a member of the steroid hormone receptor superfamily by peroxisome proliferators. Nature 1990, 347, 645–650. [CrossRef] 
+3. Dreyer, C.; Krey, G.; Keller, H.; Givel, F.; Helftenbein, G.; Wahli, W. Control of the peroxisomal β-oxidation pathway by a novel family of nuclear hormone receptors. Cell 1992, 68, 879–887. [CrossRef] 
+4. Reilly, M.M.; Rossor, A.M. Humans: The Ultimate Animal Models. J. Neurol. Neurosurg. Psychiatry 2020, 91, 1132–1136. [CrossRef] 5. Tahri-Joutey, M.; Andreoletti, P.; Surapureddi, S.; Nasser, B.; Cherkaoui-Malki, M.; Latruffe, N. Mechanisms Mediating the Regulation of Peroxisomal Fatty Acid Beta-Oxidation by PPARα. Int. J. Mol. Sci. 2021, 22, 8969. [CrossRef] [PubMed] 6. Zhou, T.; Yan, X.; Wang, G.; Liu, H.; Gan, X.; Zhang, T.; Wang, J.; Li, L. Evolutionary Pattern and Regulation Analysis to Support Why Diversity Functions Existed within PPAR Gene Family Members. Biomed. Res. Int. 2015, 2015, 613910. [CrossRef] [PubMed] 7. Lathion, C.; Michalik, L.; Wahli, W. Physiological Ligands of PPARs in Inflammation and Lipid Homeostasis. Future Lipidol. 2006, 1, 191–201. [CrossRef] 
+8. Willson, T.M.; Brown, P.J.; Sternbach, D.D.; Henke, B.R. The PPARs: From orphan receptors to drug discovery. J. Med. Chem. 2000, 43, 527–550. [CrossRef] 
+9. Chinetti-Gbaguidi, G.; Fruchart, J.C.; Staels, B. Role of the PPAR family of nuclear receptors in the regulation of metabolic and cardiovascular homeostasis: New approaches to therapy. Curr. Opin. Pharmacol. 2005, 5, 177–183. [CrossRef] [PubMed] 10. Seok, H.; Cha, B.S. Refocusing Peroxisome Proliferator Activated Receptor-α: A New Insight for Therapeutic Roles in Diabetes. Diabetes Metab. J. 2013, 37, 326–332. [CrossRef] 
+11. Waterham, H.R.; Ferdinandusse, S.; Wanders, R.J. Human disorders of peroxisome metabolism and biogenesis. Biochim. Biophys. Acta. 2016, 1863, 922–933. [CrossRef] [PubMed] 
+12. Staels, B.; Fruchart, J.C. Therapeutic Roles of Peroxisome Proliferator–Activated Receptor Agonists. Diabetes 2005, 54, 2460–2470. [CrossRef] 
+13. Pyper, S.R.; Viswakarma, N.; Jia, Y.; Zhu, Y.J.; Fondell, J.D.; Reddy, J.K. PRIC295, a Nuclear Receptor Coactivator, Identified from PPARα-Interacting Cofactor Complex. PPAR Res. 2010, 2010, 173907. [CrossRef] [PubMed] 
+14. Lefebvre, P.; Chinetti, G.; Fruchart, J.-C.; Staels, B. Sorting out the roles of PPARα in energy metabolism and vascular homeostasis. J. Clin. Investig. 2006, 116, 571–580. [CrossRef] [PubMed]
+Biomolecules 2024, 14, 786 23 of 34 
+15. Gacka, M.; Adamiec, R. Mutacje genu receptora aktywowanego przez proliferatory peroksysomów γ (PPARγ)—Implikacje kliniczne. Post˛epy Hig. I Med. Do´swiadczalnej 2004, 58, 483–489. 
+16. Cullingford, T.E.; Dolphin, C.T.; Sato, H. The peroxisome proliferator-activated receptor alpha-selective activator ciprofibrate upregulates expression of genes encoding fatty acid oxidation and ketogenesis enzymes in rat brain. Neuropharmacology 2002, 42, 724–730. [CrossRef] [PubMed] 
+17. Rudolph, J.; Chen, L.; Majumdar, D.; Bullock, W.H.; Burns, M.; Claus, T.; Dela Cruz, F.E.; Daly, M.; Ehrgott, F.J.; Johnson, J.S.; et al. Indanylacetic acid derivatives carrying 4-thiazolyl-phenoxy tail groups, a new class of potent PPAR alpha/gamma/delta pan agonists: Synthesis, structure-activity relationship, and in vivo efficacy. J. Med. Chem. 2007, 50, 984–1000. [CrossRef] [PubMed] 
+18. Huang-Jin, H.; Kuei-Jen, L.; Hsin, W.Y.; Hsin-Yi, C.; Fuu-Jen, T.; Calvin, Y.-C.C. A novel strategy for designing the selective PPAR agonist by the “sum of activity” model. J. Biomol. Struct. Dyn. 2010, 28, 187–200. [CrossRef] [PubMed] 19. Vamecq, J.; Cherkaoui-Malki, M.; Andreoletti, P.; Latruffe, N. The human peroxisome in health and disease: The story of an oddity becoming a vital organelle. Biochimie 2014, 98, 4–15. [CrossRef] 
+20. Reddy, J.K.; Lalvvai, N.D.; Farber, E. Carcinogenesis by peroxisome proliferators: Evaluation of the risk of hypolipidemic drugs and industrial plasticizers to humans. Crit. Rev. Toxicol. 1988, 18, 1–58. [CrossRef] 
+21. Reddy, J.K.; Rao, M.S. Peroxisome proliferators and cancer: Mechanisms and implications. Adv. Exp. Med. Biol. 1988, 283, 131–148. 22. Martinez, E.; Givel, F.; Wahli, W.; Keller, H. The peroxisome proliferator-activated receptor (PPAR) is a transcriptional regulator of the peroxisomal beta-oxidation pathway. J. Cell Sci. 1991, 100, 711–717. 
+23. Liu, J.; Ormö, M.; Nyström, A.C.; Claesson, J.; Giordanetto, F. Transient expression, purification and characterisation of human full-length PPARγ2 in HEK293 cells. Protein Expr. Purif. 2013, 89, 189–195. [CrossRef] [PubMed] 
+24. Alvares, K.; Carrillo, A.; Yuan, P.M.; Kawano, H.; Morimoto, R.I.; Reddy, J.K. Identification of cytosolic peroxisome proliferator binding protein as a member of the heat shock protein HSP70 family. Proc. Natl. Acad. Sci. USA 1990, 87, 5293–5297. [CrossRef] [PubMed] 
+25. Maksymowych, A.B.; Hsu, T.C.; Litwack, G. A novel, highly conserved structural motif is present in all members of the steroid receptor superfamily. Receptor 1992, 2, 225–240. [PubMed] 
+26. Göttlicher, M.; Demoz, A.; Svensson, D.; Tollet, P.; Berge, R.K.; Gustafsson, J.A. Structural and metabolic requirements for activators of the peroxisome proliferator-activated receptor. Biochem. Pharmacol. 1993, 46, 2177–2184. [CrossRef] 27. Keller, H.; Wahli, W. Peroxisome proliferator-activated receptors A link between endocrinology and nutrition? Trends Endocrinol. Metab. 1993, 4, 291–296. [CrossRef] 
+28. Keller, H.; Mahfoudi, A.; Dreyer, C.; Hihi, A.K.; Medin, J.; Ozato, K.; Wahli, W. Peroxisome proliferator-activated receptors and lipid metabolism. Ann. N. Y. Acad. Sci. 1993, 684, 157–173. [CrossRef] 
+29. Issemann, I.; Prince, R.A.; Tugwood, J.D.; Green, S. The retinoid X receptor enhances the function of the peroxisome proliferator activated receptor. Biochimie 1993, 75, 251–256. [CrossRef] [PubMed] 
+30. Bardot, O.; Aldridge, T.C.; Latruffe, N.; Green, S. PPAR-RXR heterodimer activates a peroxisome proliferator response element upstream of the bifunctional enzyme gene. Biochem. Biophys. Res. Commun. 1993, 192, 37–45. [CrossRef] 31. Boie, Y.; Adam, M.; Rushmore, T.H.; Kennedy, B.P. Enantioselective activation of the peroxisome proliferator-activated receptor. J. Biol. Chem. 1993, 268, 5530–5534. [CrossRef] [PubMed] 
+32. Motojima, K. Proliferator-Activated Receptor (PPAR): Structure, Mechanisms of Activation and Diverse Functions. Cell Struct. Funct. 1993, 18, 267–277. [CrossRef] [PubMed] 
+33. Sher, T.; Yi, H.F.; McBride, O.W.; Gonzalez, F.J. cDNA cloning, chromosomal mapping, and functional characterization of the human peroxisome proliferator activated receptor. Biochemistry 1993, 32, 5598–5604. [CrossRef] [PubMed] 34. Bass, N.M. Cellular binding proteins for fatty acids and retinoids: Similar or specialized functions? Mol. Cell Biochem. 1993, 123, 191–202. [CrossRef] [PubMed] 
+35. Gibson, G.G. Peroxisome proliferators: Paradigms and prospects. In Proceedings of the 1992 Conference on Toxicology: Applica tion of Advances in Toxicology to Risk Assessment; Dodd, D.E., Clewell, H.J., III, Mattie, D.R., Eds.; ManTech Environmental Technology, Inc.: Dayton, OH, USA, 1993; pp. 194–202. 
+36. Chen, F.; Law, S.W.; O’Malley, B.W. Identification of two mPPAR related receptors and evidence for the existence of five subfamily members. Biochem. Biophys. Res. Commun. 1993, 196, 671–677. [CrossRef] [PubMed] 
+37. Kainu, T.; Wikström, A.C.; Gustafsson, J.A.; Pelto-Huikko, M. Localization of the peroxisome proliferator-activated receptor in the brain. Neuroreport 1994, 5, 2481–2485. [CrossRef] [PubMed] 
+38. Aleshin, S.; Grabeklis, S.; Hanck, T.; Sergeeva, M.; Reiser, G. Peroxisome proliferator-activated receptor (PPAR)-gamma positively controls and PPARalpha negatively controls cyclooxygenase-2 expression in rat brain astrocytes through a convergence on PPARbeta/delta via mutual control of PPAR expression levels. Mol Pharmacol. 2009, 76, 414–424. [CrossRef] [PubMed] 
+39. Lemberger, T.; Saladin, R.; Vázquez, M.; Assimacopoulos, F.; Staels, B.; Desvergne, B.; Wahli, W.; Auwerx, J. Expression of the peroxisome proliferator-activated receptor alpha gene is stimulated by stress and follows a diurnal rhythm. J. Biol. Chem. 1996, 271, 1764–1769. [CrossRef] [PubMed] 
+40. Wahli, W.; Braissant, O.; Desvergne, B. Peroxisome proliferator activated receptors: Transcriptional regulators of adipogenesis, lipid metabolism and more. . .. Chem. Biol. 1995, 2, 261–266. [CrossRef] 
+41. Gustafsson, J.A. Receptor-mediated toxicity. Toxicol. Lett. 1995, 82–83, 465–470. [CrossRef]
+Biomolecules 2024, 14, 786 24 of 34 
+42. Bocos, C.; Göttlicher, M.; Gearing, K.; Banner, C.; Enmark, E.; Teboul, M.; Crickmore, A.; Gustafsson, J.A. Fatty acid activation of peroxisome proliferator-activated receptor (PPAR). J. Steroid. Biochem. Mol. Biol. 1995, 53, 467–473. [CrossRef] [PubMed] 43. Lemberger, T.; Desvergne, B.; Wahli, W. Peroxisome proliferator-activated receptors: A nuclear receptor signaling pathway in lipid physiology. Annu. Rev. Cell Dev. Biol. 1996, 12, 335–363. [CrossRef] [PubMed] 
+44. Yu, K.; Bayona, W.; Kallen, C.B.; Harding, H.P.; Ravera, C.P.; McMahon, G.; Brown, M.; Lazar, M.A. Differential activation of peroxisome proliferator-activated receptors by eicosanoids. J. Biol. Chem. 1995, 270, 23975–23983. [CrossRef] 45. Keller, H.; Givel, F.; Perroud, M.; Wahli, W. Signaling cross-talk between peroxisome proliferator-activated receptor/retinoid X receptor and estrogen receptor through estrogen response elements. Mol. Endocrinol. 1995, 9, 794–804. [CrossRef] [PubMed] 46. Juge-Aubry, C.E.; Gorla-Bajszczak, A.; Pernin, A.; Lemberger, T.; Wahli, W.; Burger, A.G.; Meier, C.A. Peroxisome proliferator activated receptor mediates cross-talk with thyroid hormone receptor by competition for retinoid X receptor. Possible role of a leucine zipper-like heptad repeat. J. Biol. Chem. 1995, 270, 18117–18122. [CrossRef] 
+47. Baes, M.; Castelein, H.; Desmet, L.; Declercq, P.E. Antagonism of COUP-TF and PPAR alpha/RXR alpha on the activation of the malic enzyme gene promoter: Modulation by 9-cis RA. Biochem. Biophys. Res. Commun. 1995, 215, 338–345. [CrossRef] 48. Forman, B.M.; Chen, J.; Evans, R.M. The peroxisome proliferator-activated receptors: Ligands and activators. Ann. N. Y. Acad. Sci. 1996, 804, 266–275. [CrossRef] 
+49. Willson, T.M.; Cobb, J.E.; Cowan, D.J.; Wiethe, R.W.; Correa, I.D.; Prakash, S.R.; Beck, K.D.; Moore, L.B.; Kliewer, S.A.; Lehmann, J.M. The structure-activity relationship between peroxisome proliferator- activated receptor gamma agonism and the antihyper glycemic activity of thiazolidinediones. J. Med. Chem. 1996, 39, 665–668. [CrossRef] 
+50. Aubert, J.; Ailhaud, G.; Negrel, R. Evidence for a novel regulatory pathway activated by (carba)prostacyclin in preadipose and adipose cells. FEBS Lett. 1996, 397, 117–121. [CrossRef] 
+51. Patel, C.B.; De Lemos, J.A.; Wyne, K.L.; McGuire, D.K. Thiazolidinediones and risk for atherosclerosis: Pleiotropic effects of PPar gamma agonism. Diab. Vasc. Dis. Res. 2006, 3, 65–71. [CrossRef] 
+52. Brun, R.P.; Tontonoz, P.; Forman, B.M.; Ellis, R.; Chen, J.; Evans, R.M.; Spiegelman, B.M. Differential activation of adipogenesis by multiple PPAR isoforms. Genes Dev. 1996, 10, 974–984. [CrossRef] [PubMed] 
+53. Guan, Y.; Zhang, Y.; Davis, L.; Breyer, M.D. Expression of peroxisome proliferator-activated receptors in urinary tract of rabbits and humans. Am. J. Physiol. 1997, 273, F1013–F1022. [CrossRef] [PubMed] 
+54. Bernlohr, D.A.; Simpson, M.A.; Hertzel, A.V.; Banaszak, L.J. Intracellular lipid-binding proteins and their genes. Annu. Rev. Nutr. 1997, 17, 277–303. [CrossRef] [PubMed] 
+55. Clarke, S.D.; Jump, D. Polyunsaturated fatty acids regulate lipogenic and peroxisomal gene expression by independent mecha nisms. Prostaglandins Leukot Essent Fat. Acids. 1997, 57, 65–69. [CrossRef] [PubMed] 
+56. Rowe, A. Retinoid X receptors. Int. J. Biochem. Cell Biol. 1997, 29, 275–278. [CrossRef] [PubMed] 57. Marx, N.; Schönbeck, U.; Lazar, M.A.; Libby, P.; Plutzky, J. Peroxisome Proliferator-Activated Receptor Gamma Activators Inhibit Gene Expression and Migra-tion in Human Vascular Smooth Muscle Cells. Circ Res. 1998, 83, 1097–1103. [CrossRef] [PubMed] 58. Kruszynska, Y.T.; Mukherjee, R.; Jow, L.; Dana, S.; Paterniti, J.R.; Olefsky, J.M. Skeletal muscle peroxisome proliferator- activated receptor-gamma expression in obesity and non- insulin-dependent diabetes mellitus. J. Clin. Investig. 1998, 101, 543–548. [CrossRef] [PubMed] 
+59. Schulman, I.G.; Shao, G.; Heyman, R.A. Transactivation by Retinoid X Receptor–Peroxisome Proliferator-Activated Receptor gamma (PPARgamma) Heterodimers: Intermolecular Synergy Requires Only the PPAR? Hormone-Dependent Activation Function. Mol. Cell Biol. 1998, 18, 3483–3494. [CrossRef] 
+60. Ricote, M.; Huang, J.; Fajas, L.; Li, A.; Welch, J.; Najib, J.; Witztum, J.L.; Auwerx, J.; Palinski, W.; Glass, C.K. Expression of the peroxisome proliferator-activated receptor gamma (PPARgamma) in human atherosclerosis and regulation in macrophages by colony stimulating factors and oxidized low density lipoprotein. Proc. Natl. Acad. Sci. USA 1998, 95, 7614–7619. [CrossRef] 
+61. Zhou, Y.-T.; Shimabukuro, M.; Wang, M.-Y.; Lee, Y.; Higa, M.; Milburn, J.L.; Newgard, C.B.; Unger, R.H. Role of peroxisome proliferator-activated receptor alpha in disease of pancreatic ß cells. Proc. Natl. Acad. Sci. USA 1998, 95, 8898–8903. [CrossRef] 62. Ribon, V.; Johnson, J.H.; Camp, H.S.; Saltiel, A.R. Thiazolidinediones and insulin resistance: Peroxisome proliferator activated receptor gamma activation stimulates expression of the CAP gene. Proc. Natl. Acad. Sci. USA 1998, 95, 14751–14756. [CrossRef] 63. Shimomura, I.; Hammer, R.E.; Richardson, J.A.; Ikemoto, S.; Bashmakov, Y.; Goldstein, J.L.; Brown, M.S. Insulin resistance and diabetes mellitus in transgenic mice expressing nuclear SREBP-1c in adi-pose tissue: Model for congenital generalized lipodystrophy. Genes Dev. 1998, 12, 3182–3194. [CrossRef] [PubMed] 
+64. Elstner, E.; Müller, C.; Koshizuka, K.; Williamson, E.A.; Park, D.; Asou, H.; Shintaku, P.; Said, J.W.; Heber, D.; Koeffler, H.P. Ligands for peroxisome proliferator-activated receptor gamma and retinoic acid receptor inhibit growth and induce apoptosis of human breast cancer cells in vitro and in BNX mice. Proc. Natl. Acad. Sci. USA 1998, 95, 8806–8811. [CrossRef] [PubMed] 
+65. Sørensen, H.N.; Treuter, E.; Gustafsson, J.A. Regulation of peroxisome proliferator-activated receptors. Vitam. Horm. 1998, 54, 121–166. [CrossRef] [PubMed] 
+66. Goodman, A.B. Three independent lines of evidence suggest retinoids as causal to schizophrenia. Proc. Natl. Acad. Sci. USA 1998, 95, 7240–7244. [CrossRef] 
+67. Guan, Y.-F.; Zhang, Y.-H.; Breyer, R.M.; Davis, L.; Breyer, M.D. Expression of Peroxisome Proliferator-Activated Receptor Gamma (PPARgamma) in Human Transition-al Bladder Cancer and its Role in Inducing Cell Death. Neoplasia 1999, 1, 330–339. [CrossRef]
+Biomolecules 2024, 14, 786 25 of 34 
+68. Demetri, G.D.; Fletcher, C.D.M.; Mueller, E.; Sarraf, P.; Naujoks, R.; Campbell, N.; Spiegelman, B.M.; Singer, S. Induction of solid tumor differentiation by the peroxisome proliferator-activated receptor-gamma ligand troglitazone in patients with liposarcoma. Proc. Natl. Acad. Sci. USA 1999, 96, 3951–3956. [CrossRef] [PubMed] 
+69. Kitamura, S.; Miyazaki, M.; Shinomura, Y.; Kondo, S.; Kanayama, S.; Matsuzawa, Y. Peroxisome Proliferator-activated Receptor Gamma Induces Growth Arrest and Differentiation Markers of Human Colon Cancer Cells. Jpn J. Cancer Res. 1999, 90, 75–80. [CrossRef] 
+70. Sarraf, P.; Mueller, E.; Smith, W.M.; Wright, H.M.; Kum, J.B.; Aaltonen, L.A.; de la Chapelle, A.; Spiegelman, B.M.; Eng, C. Loss-of-function mutations in PPAR gamma associated with human colon cancer. Mol. Cell. 1999, 3, 799–804. [CrossRef] 71. Zhu, Y.; Qi, C.; Jain, S.; Le Beau, M.M.; Espinosa, R., 3rd; Atkins, G.B.; Lazar, M.A.; Yeldandi, A.V.; Rao, M.S.; Reddy, J.K. Amplification and overexpression of peroxisome proliferator activated receptor binding protein (PBP/PPARBP) gene in breast cancer. Proc. Natl. Acad. Sci. USA 1999, 96, 10848–10853. [CrossRef] 
+72. Doucas, V.; Evans, R.M. The human T-cell leukemia virus type 1 tax oncoprotein represses nuclear receptor signaling. Proc. Natl. Acad. Sci. USA 1999, 96, 2633–2638. [CrossRef] [PubMed] 
+73. Shappell, S.B.; Boeglin, W.E.; Olson, S.J.; Kasper, S.; Brash, A.R. 15-Lipoxygenase-2 (15-LOX-2) Is Expressed in Benign Prostatic Epithelium and Reduced in Prostate Adenocarcinoma. Am. J. Pathol. 1999, 155, 235–245. [CrossRef] [PubMed] 74. Lazennec, G.; Canaple, L.; Saugy, D.; Wahli, W. Activation of peroxisome proliferator-activated receptors (PPARs) by their ligands and protein kinase A activators. Mol. Endocrinol. 2000, 14, 1962–1975. [CrossRef] [PubMed] [PubMed Central] 75. Kawahito, Y.; Kondo, M.; Tsubouchi, Y.; Hashiramoto, A.; Bishop-Bailey, D.; Inoue, K.; Kohno, M.; Yamada, R.; Hla, T.; Sano, H. 15-deoxy-delta(12,14)-PGJ(2) induces synoviocyte apoptosis and sup-presses adjuvant-induced arthritis in rats. J. Clin. Investig. 2000, 106, 189–197. [CrossRef] [PubMed] [PubMed Central] 
+76. Tong, B.J.; Tan, J.; Tajeda, T.; Das, S.K.; Chapman, J.A.; DuBoist, R.N.; Dey, S.K. Heightened Expression of Cyclooxygenase-2 and Peroxisome Proliferator-Activated Recep-tor-δ in Human Endometrial Adenocarcinoma. Neoplasia 2000, 2, 483–490. [CrossRef] [PubMed] 
+77. Gupta, R.A.; Tan, J.; Krause, W.F.; Geraci, M.W.; Willson, T.M.; Dey, S.K.; DuBois, R.N. Prostacyclin-mediated activation of peroxisome proliferator-activated receptor δ in colorectal cancer. Proc. Natl. Acad. Sci. USA 2000, 97, 13275–13280. [CrossRef] [PubMed] 
+78. Jehl-Pietri, C.; Bastie, C.; Gillot, I.; Luquet, S.; Grimaldi, P.A. Peroxisome-proliferator-activated recep-tor delta mediates the effects of long-chain fatty acids on post-confluent cell proliferation. Biochem. J. 2000, 350, 93–98. [CrossRef] [PubMed] 79. Sato, H.; Ishihara, S.; Kawashima, K.; Moriyama, N.; Suetsugu, H.; Kazumori, H.; Okuyama, T.; Rumi, M.A.; Fukuda, R.; Nagasue, N.; et al. Expression of peroxisome proliferator-activated receptor (PPAR)gamma in gastric cancer and inhibitory effects of PPARgamma agonists. Br. J. Cancer. 2000, 83, 1394–1400. [CrossRef] [PubMed] 
+80. Mueller, E.; Smith, M.; Sarraf, P.; Kroll, T.; Aiyer, A.; Kaufman, D.S.; Oh, W.; Demetri, G.; Figg, W.D.; Zhou, X.P.; et al. Effects of ligand activation of peroxisome proliferator-activated receptor gamma in human prostate cancer. Proc. Natl. Acad. Sci. USA 2000, 97, 10990–10995. [CrossRef] 
+81. Combs, C.K.; Johnson, D.E.; Karlo, J.C.; Cannady, S.B.; Landreth, G.E. Inflammatory mechanisms in Alz-heimer’s disease: Inhibition of beta-amyloid-stimulated proinflammatory responses and neurotoxi-city by PPARgamma agonists. J. Neurosci. 2000, 20, 558–567. [CrossRef] 
+82. Zhou, X.P.; Smith, W.M.; Gimm, O.; Mueller, E.; Gao, X.; Sarraf, P.; Prior, T.W.; Plass, C.; von Deimling, A.; Black, P.M.; et al. Over-representation of PPARgamma sequence variants in sporadic cases of glioblastoma multiforme: Preliminary evidence for common low penetrance modifiers for brain tumour risk in the general population. J. Med. Genet. 2000, 37, 410–414. [CrossRef] [PubMed] 
+83. Debril, M.B.; Renaud, J.P.; Fajas, L.; Auwerx, J.; Girard, J. Transcription factors and nuclear receptors interact with the SWI/SNF complex through the BAF60c subunit. J. Biol. Chem. 1999, 274, 8945–8951. [CrossRef] 
+84. Chinetti, G.; Fruchart, J.C.; Staels, B. Peroxisome proliferator-activated receptors (PPARs): Nuclear receptors with functions in the vascular wall. Z Kardiol. 2001, 90 (Suppl. S3), 125–132. [CrossRef] 
+85. Delerive, P.; Fruchart, J.C.; Staels, B. Peroxisome Proliferator-Activated Receptors in Inflammation Control. J. Endocrinol. 2001, 169, 453–459. [CrossRef] 
+86. Duez, H.; Fruchart, J.C.; Staels, B. PPARS in Inflammation, Atherosclerosis and Thrombosis. J. Cardiovasc. Risk 2001, 8, 187–194. [CrossRef] 
+87. Elangbam, C.S.; Tyler, R.D.; Lightfoot, R.M. Peroxisome Proliferator-Activated Receptors in Atherosclerosis and Inflammation--an Update. Toxicol. Pathol. 2001, 29, 224–231. [CrossRef] 
+88. Stumvoll, M.; Häring, H. The Peroxisome Proliferator-Activated Receptor-Gamma2 Pro12Ala Polymorphism. Diabetes 2002, 51, 2341–2347. [CrossRef] 
+89. Roberts, R.A.; Chevalier, S.; Hasmall, S.C.; James, N.H.; Cosulich, S.C.; Macdonald, N. PPARα and the Regulation of Cell Division and Apoptosis. Toxicology 2002, 181–182, 167–170. [CrossRef] [PubMed] 
+90. Berger, J.; Moller, D.E. The Mechanisms of Action of PPARs. Annu. Rev. Med. 2002, 53, 409–435. [CrossRef] [PubMed] 91. Fauconnet, S.; Lascombe, I.; Chabannes, E.; Adessi, G.-L.; Desvergne, B.; Wahli, W.; Bittard, H. Differential Regulation of Vascular Endothelial Growth Factor Expression by Peroxisome Proliferator-Activated Receptors in Bladder Cancer Cells. J. Biol. Chem. 2002, 277, 23534–23543. [CrossRef]
+Biomolecules 2024, 14, 786 26 of 34 
+92. Haydon, R.C.; Zhou, L.; Feng, T.; Breyer, B.; Cheng, H.; Jiang, W.; Ishikawa, A.; Peabody, T.; Montag, A.; Simon, M.A.; et al. Nuclear receptor agonists as potential differentiation therapy agents for human osteosarcoma. Clin. Cancer Res. 2002, 8, 1288–1294. [PubMed] 
+93. Koumanis, D.J.; Christou, N.V.; Wang, X.L.; Gilfix, B.M. Pilot study examining the frequency of several gene polymorphisms in a morbidly obese population. Obes. Surg. 2002, 12, 759–764. [CrossRef] [PubMed] 
+94. Berger, J.; Wagner, J.A. Physiological and therapeutic roles of peroxisome proliferator-activated receptors. Diabetes Technol. Ther. 2002, 4, 163–174. [CrossRef] [PubMed] 
+95. Francis, G.A.; Annicotte, J.-S.; Auwerx, J. PPAR Agonists in the Treatment of Atherosclerosis. Curr. Opin. Pharmacol. 2003, 3, 186–191. [CrossRef] [PubMed] 
+96. Margeli, A.; Kouraklis, G.; Theocharis, S. Peroxisome Proliferator Activated Receptor-γ (PPAR-γ) Ligands and Angiogenesis. Angiogenesis 2003, 6, 165–169. [CrossRef] [PubMed] 
+97. Larsen, T.M.; Toubro, S.; Astrup, A. PPARgamma Agonists in the Treatment of Type II Diabetes: Is Increased Fatness Com mensurate with Long-Term Efficacy? Int. J. Obes. Relat. Metab. Disord. J. Int. Assoc. Study Obes. 2003, 27, 147–161. [CrossRef] [PubMed] 
+98. Jiang, M.; Shappell, S.B.; Hayward, S.W. Approaches to Understanding the Importance and Clinical Implications of Peroxisome Proliferator-Activated Receptor Gamma (PPARgamma) Signaling in Prostate Cancer. J. Cell. Biochem. 2004, 91, 513–527. [CrossRef] [PubMed] 
+99. Bedu, E.; Wahli, W.; Desvergne, B. Peroxisome proliferator-activated receptor beta/delta as a therapeutic target for metabolic diseases. Expert Opin. Ther. Targets. 2005, 9, 861–873. [CrossRef] [PubMed] 
+100. Tenenbaum, A.; Motro, M.; Fisman, E.Z. Dual and pan-peroxisome proliferator-activated receptors (PPAR) co-agonism: The bezafibrate lessons. Cardiovasc. Diabetol. 2005, 4, 14. [CrossRef] 
+101. Buzzetti, R.; Petrone, A.; Caiazzo, A.M.; Alemanno, I.; Zavarella, S.; Capizzi, M.; Mein, C.A.; Osborn, J.A.; Vania, A.; di Mario, U. PPAR-Gamma2 Pro12Ala Variant Is Associated with Greater Insulin Sensitivity in Childhood Obesity. Pediatr. Res. 2005, 57, 138–140. [CrossRef] 
+102. Tyagi, S.C.; Rodriguez, W.; Patel, A.M.; Roberts, A.M.; Falcone, J.C.; Passmore, J.C.; Fleming, J.T.; Joshua, I.G. Hyperhomocys teinemic diabetic cardiomyopathy: Oxidative stress, remodeling, and endothelial-myocyte uncoupling. J. Cardiovasc. Pharmacol. Ther. 2005, 10, 1–10. [CrossRef] [PubMed] 
+103. Harris, G.; Ghazallah, R.A.; Nascene, D.; Wuertz, B.; Ondrey, F.G. PPAR activation and decreased proliferation in oral carcinoma cells with 4-HPR. Otolaryngol. Head Neck Surg. 2005, 133, 695–701. [CrossRef] [PubMed] 
+104. Lowe, D.B.; Bifulco, N.; Bullock, W.H.; Claus, T.; Coish, P.; Dai, M.; Dela Cruz, F.E.; Dickson, D.; Fan, D.; Hoover-Litty, H.; et al. Substituted indanylacetic acids as PPAR-alpha-gamma activators. Bioorg. Med. Chem. Lett. 2006, 16, 297–301. [CrossRef] [PubMed] 
+105. LoVerme, J.; La Rana, G.; Russo, R.; Calignano, A.; Piomelli, D. The search for the palmitoylethanolamide receptor. Life Sci. 2005, 77, 1685–1698. [CrossRef] [PubMed] 
+106. Michalik, L.; Auwerx, J.; Berger, J.P.; Chatterjee, V.K.; Glass, C.K.; Gonzalez, F.J.; Grimaldi, P.A.; Kadowaki, T.; Lazar, M.A.; O’Rahilly, S.; et al. International Union of Pharmacology. LXI. Peroxisome proliferator-activated receptors. Pharmacol. Rev. 2006, 58, 726–741. [CrossRef] [PubMed] 
+107. Aung, C.S.; Faddy, H.M.; Lister, E.J.; Monteith, G.R.; Roberts-Thomson, S.J. Isoform Specific Changes in PPAR Alpha and Beta in Colon and Breast Cancer with Differentiation. Biochem. Biophys. Res. Commun. 2006, 340, 656–660. [CrossRef] 108. Trivedi, N.R.; Cong, Z.; Nelson, A.M.; Albert, A.J.; Rosamilia, L.L.; Sivarajah, S.; Gilliland, K.L.; Liu, W.; Mauger, D.T.; Gabbay, R.A.; et al. Peroxisome Proliferator-Activated Receptors Increase Human Sebum Production. J. Investig. Dermatol. 2006, 126, 2002–2009. [CrossRef] 
+109. Burdick, A.D.; Kim, D.J.; Peraza, M.A.; Gonzalez, F.J.; Peters, J.M. The Role of Peroxisome Proliferator-Activated Receptor Beta/Delta in Epithelial Cell Growth and Differentiation. Cell. Signal. 2006, 18, 9–20. [CrossRef] 
+110. Michalik, L.; Wahli, W. Peroxisome proliferator-activated receptors (PPARs) in skin health, repair and disease. Biochim. Biophys. Acta. 2007, 1771, 991–998. [CrossRef] 
+111. Akhmetov, I.I.; Astranenkova, I.V.; Rogozkin, V.A. Association of PPARD gene polymorphism with human physical performance. Mol. Biol. 2007, 41, 852–857. (In Russian) 
+112. Piqueras, L.; Reynolds, A.R.; Hodivala-Dilke, K.M.; Alfranca, A.; Redondo, J.M.; Hatae, T.; Tanabe, T.; Warner, T.D.; Bishop-Bailey, D. Activation of PPARbeta/delta induces endothelial cell proliferation and angiogenesis. Arterioscler. Thromb. Vasc. Biol. 2007, 27, 63–69. [CrossRef] [PubMed] 
+113. Grarup, N.; Albrechtsen, A.; Ek, J.; Borch-Johnsen, K.; Jørgensen, T.; Schmitz, O.; Hansen, T.; Pedersen, O. Variation in the peroxisome proliferator-activated receptor delta gene in relation to common metabolic traits in 7495 middle-aged white people. Diabetologia 2007, 50, 1201–1208. [CrossRef] [PubMed] 
+114. Hollingshead, H.E.; Killins, R.L.; Borland, M.G.; Girroir, E.E.; Billin, A.N.; Willson, T.M.; Sharma, A.K.; Amin, S.; Gonzalez, F.J.; Peters, J.M. Peroxisome Proliferator-Activated Receptor-Beta/Delta (PPARbeta/Delta) Ligands Do Not Potentiate Growth of Human Cancer Cell Lines. Carcinogenesis 2007, 28, 2641–2649. [CrossRef] [PubMed] 
+115. Pedchenko, T.V.; Gonzalez, A.L.; Wang, D.; DuBois, R.N.; Massion, P.P. Peroxisome Proliferator-Activated Receptor Beta/Delta Expression and Activation in Lung Cancer. Am. J. Respir. Cell Mol. Biol. 2008, 39, 689–696. [CrossRef] [PubMed]
+Biomolecules 2024, 14, 786 27 of 34 
+116. Borland, M.G.; Foreman, J.E.; Girroir, E.E.; Zolfaghari, R.; Sharma, A.K.; Amin, S.; Gonzalez, F.J.; Ross, A.C.; Peters, J.M. Ligand Activation of Peroxisome Proliferator-Activated Receptor-Beta/Delta Inhibits Cell Proliferation in Human HaCaT Keratinocytes. Mol. Pharmacol. 2008, 74, 1429–1442. [CrossRef] [PubMed] 
+117. Ahmed, N.; Riley, C.; Quinn, M.A. An Immunohistochemical Perspective of PPAR Beta and One of Its Putative Targets PDK1 in Normal Ovaries, Benign and Malignant Ovarian Tumours. Br. J. Cancer 2008, 98, 1415–1424. [CrossRef] [PubMed] 118. Billin, A.N. PPAR-Beta/Delta Agonists for Type 2 Diabetes and Dyslipidemia: An Adopted Orphan Still Looking for a Home. Expert Opin. Investig. Drugs 2008, 17, 1465–1471. [CrossRef] [PubMed] 
+119. Gallardo-Soler, A.; Gómez-Nieto, C.; Campo, M.L.; Marathe, C.; Tontonoz, P.; Castrillo, A.; Corraliza, I. Arginase I induction by modified lipoproteins in macrophages: A peroxisome proliferator-activated receptor-gamma/delta-mediated effect that links lipid metabolism and immunity. Mol. Endocrinol. 2008, 22, 1394–1402. [CrossRef] [PubMed] 
+120. Fernandez, A.Z. Peroxisome proliferator-activated receptors in the modulation of the im-mune/inflammatory response in atherosclerosis. PPAR Res. 2008, 2008, 285842. [CrossRef] 
+121. Takata, Y.; Liu, J.; Yin, F.; Collins, A.R.; Lyon, C.J.; Lee, C.H.; Atkins, A.R.; Downes, M.; Barish, G.D.; Evans, R.M.; et al. PPARdelta mediated antiinflammatory mechanisms inhibit angiotensin II-accelerated atherosclerosis. Proc. Natl. Acad. Sci. USA 2008, 105, 4277–4282. [CrossRef] 
+122. Cavalieri, D.; Calura, E.; Romualdi, C.; Marchi, E.; Radonjic, M.; Van Ommen, B.; Müller, M. Filling gaps in PPAR-alpha signaling through comparative nutrigenomics analysis. BMC Genom. 2009, 10, 596. [CrossRef] [PubMed] 
+123. Porcuna, J.; Mínguez-Martínez, J.; Ricote, M. The PPARα and PPARγ Epigenetic Landscape in Cancer and Immune and Metabolic Disorders. Int. J. Mol. Sci. 2021, 22, 10573. [CrossRef] [PubMed] 
+124. Małodobra-Mazur, M.; Cierzniak, A.; Ryba, M.; Soza´nski, T.; Piórecki, N.; Kucharska, A.Z. Cornus mas L. Increases Glucose Uptake and the Expression of PPARG in Insulin-Resistant Adipocytes. Nutrients 2022, 14, 2307. [CrossRef] [PubMed] 125. Danesi, F.; Di Nunzio, M.; Boschetti, E.; Bordoni, A. Green Tea Extract Selectively Activates Peroxisome Proliferator-Activated Receptor Beta/Delta in Cultured Cardiomyocytes. Br. J. Nutr. 2009, 101, 1736–1739. [CrossRef] [PubMed] 126. Jiang, B.; Liang, P.; Zhang, B.; Song, J.; Huang, X.; Xiao, X. Role of PPAR-Beta in Hydrogen Peroxide-Induced Apoptosis in Human Umbilical Vein Endothelial Cells. Atherosclerosis 2009, 204, 353–358. [CrossRef] [PubMed] 
+127. Jiang, B.; Liang, P.; Zhang, B.; Huang, X.; Xiao, X. Enhancement of PPAR-β Activity by Repetitive Low-Grade H2O2 Stress Protects Human Umbilical Vein Endothelial Cells from Subsequent Oxidative Stress-Induced Apoptosis. Free Radic. Biol. Med. 2009, 46, 555–563. [CrossRef] 
+128. Bishop-Bailey, D.; Bystrom, J. Emerging Roles of Peroxisome Proliferator-Activated Receptor-Beta/Delta in Inflammation. Pharmacol. Ther. 2009, 124, 141–150. [CrossRef] [PubMed] 
+129. Ramanan, S.; Zhao, W.; Riddle, D.R.; Robbins, M.E. Role of PPARs in Radiation-Induced Brain Injury. PPAR Res. 2010, 2010, 234975. [CrossRef] [PubMed] 
+130. Genovese, S.; Foreman, J.E.; Borland, M.G.; Epifano, F.; Gonzalez, F.J.; Curini, M.; Peters, J.M. A natural propenoic acid derivative activates peroxisome proliferator-activated receptor-beta/delta (PPARbeta/delta). Life Sci. 2010, 86, 493–498. [CrossRef] 131. Grimaldi, P.A. Metabolic and Nonmetabolic Regulatory Functions of Peroxisome Proliferator-Activated Receptor Beta. Curr. Opin. Lipidol. 2010, 21, 186–191. [CrossRef] 
+132. McKinnon, B.; Bersinger, N.A.; Huber, A.W.; Kuhn, A.; Mueller, M.D. PPAR-γ Expression in Peritoneal Endometriotic Lesions Correlates with Pain Experienced by Patients. Fertil. Steril. 2010, 93, 293–296. [CrossRef] [PubMed] 
+133. Mistry, N.F.; Cresci, S. PPAR transcriptional activator complex polymorphisms and the promise of individualized therapy for heart failure. Heart Fail Rev. 2010, 15, 197–207. [CrossRef] [PubMed] 
+134. Bassaganya-Riera, J.; Song, R.; Roberts, P.C.; Hontecillas, R. PPAR-gamma activation as an anti-inflammatory therapy for respiratory virus infections. Viral Immunol. 2010, 23, 343–352. [CrossRef] [PubMed] 
+135. Housley, W.J.; Adams, C.O.; Vang, A.G.; Brocke, S.; Nichols, F.C.; LaCombe, M.; Rajan, T.V.; Clark, R.B. Peroxisome proliferator activated receptor gamma is required for CD4+ T cell-mediated lymphopenia-associated autoimmunity. J. Immunol. 2011, 187, 4161–4169. [CrossRef] 
+136. Shahin, D.; Toraby, E.E.; Abdel-Malek, H.; Boshra, V.; Elsamanoudy, A.Z.; Shaheen, D. Effect of peroxisome proliferator-activated receptor gamma agonist (pioglitazone) and methotrexate on disease activity in rheumatoid arthritis (experimental and clinical study). Clin. Med. Insights Arthritis Musculoskelet Disord. 2011, 4, 1–10. [CrossRef] [PubMed] 
+137. Sertznig, P.; Reichrath, J. Peroxisome proliferator-activated receptors (PPARs) in dermatology: Challenge and promise. Dermatoen docrinol 2011, 3, 130–135. [CrossRef] [PubMed] 
+138. Laschke, M.W.; Menger, M.D. Anti-angiogenic treatment strategies for the therapy of endometriosis. Hum. Reprod. Update. 2012, 18, 682–702. [CrossRef] [PubMed] 
+139. Nickkho-Amiry, M.; McVey, R.; Holland, C. Peroxisome proliferator-activated receptors modulate proliferation and angiogenesis in human endometrial carcinoma. Mol. Cancer Res. 2012, 10, 441–453. [CrossRef] 
+140. Knapp, P.; Chabowski, A.; Błachnio-Zabielska, A.; Jarz ˛abek, K.; Wołczy ´nski, S. Altered peroxisome-proliferator activated receptors expression in human endometrial cancer. PPAR Res. 2011, 2012, 471524. [CrossRef] 
+141. Montero, T.D.; Racordon, D.; Bravo, L.; Owen, G.I.; Bronfman, M.L.; Leisewitz, A.V. PPARα and PPARγ regulate the nucleoside transporter hENT1. Biochem. Biophys. Res. Commun. 2012, 419, 405–411. [CrossRef]
+Biomolecules 2024, 14, 786 28 of 34 
+142. Abbas, A.; Blandon, J.; Rude, J.; Elfar, A.; Mukherjee, D. PPAR- γ agonist in treatment of diabetes: Cardiovascular safety considerations. Cardiovasc. Hematol. Agents Med. Chem. 2012, 10, 124–134. [CrossRef] [PubMed] 
+143. Chen, Y.C.; Wu, J.S.; Tsai, H.D.; Huang, C.Y.; Chen, J.J.; Sun, G.Y.; Lin, T.N. Peroxisome proliferator-activated receptor gamma (PPAR-γ) and neurodegenerative disorders. Mol. Neurobiol. 2012, 46, 114–124. [CrossRef] [PubMed] 
+144. Greene, N.P.; Fluckey, J.D.; Lambert, B.S.; Greene, E.S.; Riechman, S.E.; Crouse, S.F. Regulators of blood lipids and lipoproteins? PPARδ and AMPK, induced by exercise, are correlated with lipids and lipoproteins in overweight/obese men and women. Am. J. Physiol. Endocrinol. Metab. 2012, 303, E1212–E1221. [CrossRef] [PubMed] 
+145. Wadosky, K.M.; Willis, M.S. The story so far: Post-translational regulation of peroxisome proliferator-activated receptors by ubiquitination and SUMOylation. Am. J. Physiol. Heart Circ. Physiol. 2012, 302, H515–H526. [CrossRef] [PubMed] 146. Peyrou, M.; Ramadori, P.; Bourgoin, L.; Foti, M. PPARs in Liver Diseases and Cancer: Epigenetic Regulation by MicroRNAs. PPAR Res. 2012, 2012, 757803. [CrossRef] [PubMed] 
+147. Costa, V.; Ciccodicola, A. Is PPARG the key gene in diabetic retinopathy? Br. J. Pharmacol. 2012, 165, 1–3. [CrossRef] 148. Balakumar, P.; Mahadevan, N. Interplay between statins and PPARs in improving cardiovascular outcomes: A double-edged sword? Br. J. Pharmacol. 2012, 165, 373–379. [CrossRef] [PubMed] 
+149. Wahli, W.; Michalik, L. PPARs at the crossroads of lipid signaling and inflammation. Trends. Endocrinol. Metab. 2012, 23, 351–363. [CrossRef] 
+150. Reichenbach, G.; Starzinski-Powitz, A.; Sloane, B.F.; Doll, M.; Kippenberger, S.; Bernd, A.; Kaufmann, R.; Meissner, M. PPARα agonist Wy14643 suppresses cathepsin B in human endothelial cells via transcriptional, post-transcriptional and post-translational mechanisms. Angiogenesis 2013, 16, 223–233. [CrossRef] 
+151. Tailleux, A.; Wouters, K.; Staels, B. Roles of PPARs in NAFLD: Potential therapeutic targets. Biochim. Biophys. Acta 2012, 1821, 809–818. [CrossRef] 
+152. Videla, L.A.; Pettinelli, P. Misregulation of PPAR Functioning and Its Pathogenic Consequences Associated with Nonalcoholic Fatty Liver Disease in Human Obesity. PPAR Res. 2012, 2012, 107434. [CrossRef] [PubMed] 
+153. Benedusi, V.; Martorana, F.; Brambilla, L.; Maggi, A.; Rossi, D. The Peroxisome Proliferator-activated Receptor γ (PPARγ) Controls Natural Protective Mechanisms against Lipid Peroxidation in Amyotrophic Lateral Sclerosis*. J. Biol. Chem. 2012, 287, 35899–35911. [CrossRef] [PubMed] 
+154. Hu, W.; Wang, X.; Ding, X.; Li, Y.; Zhang, X.; Xie, P.; Yang, J.; Wang, S. MicroRNA-141 represses HBV replication by targeting PPARA. PLoS ONE 2012, 7, e34165. [CrossRef] [PubMed] 
+155. Zuo, C.; Liang, P.; Huang, X. Role of PPARbeta in fibroblast response to heat injury. Indian J. Biochem. Biophys. 2012, 49, 219–227. [PubMed] 
+156. Le Foll, B.; Di Ciano, P.; Panlilio, L.V.; Goldberg, S.R.; Ciccocioppo, R. Peroxisome proliferator-activated receptor (PPAR) agonists as promising new medications for drug addiction: Preclinical evidence. Curr. Drug Targets 2013, 14, 768–776. [CrossRef] [PubMed] 157. Aleshin, S.; Reiser, G. Role of the peroxisome proliferator-activated receptors (PPAR)-α, β/δ and γ triad in regulation of reactive oxygen species signaling in brain. Biol. Chem. 2013, 394, 1553–1570. [CrossRef] [PubMed] 
+158. Contreras, A.V.; Torres, N.; Tovar, A.R. PPAR-α as a key nutritional and environmental sensor for metabolic adaptation. Adv. Nutr. 2013, 4, 439–452. [CrossRef] [PubMed] 
+159. Akyürek, N.; Aycan, Z.; Çetinkaya, S.; Akyürek, Ö.; Yilmaz A˘gladio˘glu, S.; Ertan, Ü. Peroxisome proliferator activated receptor (PPAR)-gamma concentrations in childhood obesity. Scand J. Clin. Lab. Investig. 2013, 73, 355–360. [CrossRef] [PubMed] 160. Yao, P.L.; Morales, J.L.; Zhu, B.; Kang, B.H.; Gonzalez, F.J.; Peters, J.M. Activation of Peroxisome Proliferator-Activated Receptor β/δ (PPAR-β/δ) Inhibits Human Breast Cancer Cell Line Tumorigenicity. Mol. Cancer Ther. 2014, 13, 1008–1017. [CrossRef] 161. Young, K.C.; Bai, C.H.; Su, H.C.; Tsai, P.J.; Pu, C.Y.; Liao, C.S.; Tsao, C.W. Fluoxetine a novel anti-hepatitis C virus agent via ROS-, JNK-, and PPARβ/γ-dependent pathways. Antivir. Res. 2014, 110, 158–167. [CrossRef] 
+162. Montagner, A.; Wahli, W.; Tan, N.S. Nuclear receptor peroxisome proliferator activated receptor (PPAR) β/δ in skin wound healing and cancer. Eur. J. Dermatol. 2015, Suppl. 1, 4–11. [CrossRef] 
+163. de Melo, N.F.; de Macedo, C.G.; Bonfante, R.; Abdalla, H.B.; da Silva, C.M.; Pasquoto, T.; de Lima, R.; Fraceto, L.F.; Clemente Napimoga, J.T.; Napimoga, M.H. 15d-PGJ2-Loaded Solid Lipid Nanopar-ticles: Physicochemical Characterization and Evaluation of Pharmacological Effects on In-flammation. PLoS ONE 2016, 11, e0161796. [CrossRef] [PubMed] 
+164. Xue, Y.; Xu, X.; Zhang, X.Q.; Farokhzad, O.C.; Langer, R. Preventing diet-induced obesity in mice by adipose tissue transformation and angiogenesis using targeted nanoparticles. Proc. Natl. Acad. Sci. USA. 2016, 113, 5552–5557. [CrossRef] 165. Strojny, B.; Grodzik, M.; Sawosz, E.; Winnicka, A.; Kurantowicz, N.; Jaworski, S.; Kutwin, M.; Urba´nska, K.; Hotowy, A.; Wierzbicki, M.; et al. Diamond Nanoparticles Modify Curcumin Activity: In Vitro Studies on Cancer and Normal Cells and In Ovo Studies on Chicken Embryo Model. PLoS ONE 2016, 11, e0164637. [CrossRef] [PubMed] 
+166. Fidoamore, A.; Cristiano, L.; Laezza, C.; Galzio, R.; Benedetti, E.; Cinque, B.; d’Angelo, M.; Castelli, V.; Cifone, M.G.; Ippoliti, R.; et al. Annamaria Cimini Energy metabolism in glioblastoma stem cells: PPARα a metabolic adaptor to intratumoral microenvironment. Oncotarget 2017, 8, 108430–108450. [CrossRef] [PubMed] 
+167. Rolver, M.G.; Holland, L.K.K.; Ponniah, M.; Prasad, N.S.; Yao, J.; Schnipper, J.; Kramer, S.; Elingaard-Larsen, L.; Pedraz-Cuesta, E.; Liu, B.; et al. Chronic acidosis rewires cancer cell metabolism through PPARα signaling. Int. J. Cancer. 2023, 152, 1668–1684. [CrossRef] [PubMed]
+Biomolecules 2024, 14, 786 29 of 34 
+168. Kado, T.; Kusakari, N.; Tamaki, T.; Murota, K.; Tsujiuchi, T.; Fukushima, N. Oleic acid stimulates cell proliferation and BRD4- L-MYC-dependent glucose transporter transcription through PPARα activation in ovarian cancer cells. Biochem. Biophys. Res. Commun. 2023, 657, 24–34. [CrossRef] [PubMed] 
+169. Wright, S.K.; Wuertz, B.R.; Harris, G.; Abu Ghazallah, R.; Miller, W.A.; Gaffney, P.M.; Ondrey, F.G. Functional Activation of PPARγ in Human Upper Aerodigestive Cancer Cell Lines. Mol. Carcinog. 2017, 56, 149–162. [CrossRef] [PubMed] 170. Ivanova, E.A.; Myasoedova, V.A.; Melnichenko, A.A.; Orekhov, A.N. Peroxisome Proliferator-Activated Receptor (PPAR) Gamma Agonists as Therapeutic Agents for Cardiovascular Disorders: Focus on Atherosclerosis. Curr. Pharm. Des. 2017, 23, 1119–1124. [CrossRef] [PubMed] 
+171. Gross, B.; Pawlak, M.; Lefebvre, P.; Staels, B. PPARs in Obesity-Induced T2DM, Dyslipidaemia and NAFLD. Nat. Rev. Endocrinol. 2017, 13, 36–49. [CrossRef] 
+172. Borland, M.G.; Kehres, E.M.; Lee, C.; Wagner, A.L.; Shannon, B.E.; Albrecht, P.P.; Zhu, B.; Gonzalez, F.J.; Peters, J.M. Inhibition of tumorigenesis by peroxisome proliferator-activated receptor (PPAR)-dependent cell cycle blocks in human skin carcinoma cells. Toxicology 2018, 404–405, 25–32. [CrossRef] [PubMed] 
+173. Leiguez, E.; Giannotti, K.C.; Viana, M.D.N.; Matsubara, M.H.; Fernandes, C.M.; Gutiérrez, J.M.; Lomonte, B.; Teixeira, C. A Snake Venom-Secreted Phospholipase A2 Induces Foam Cell Formation Depending on the Activation of Factors Involved in Lipid Homeostasis. Mediat. Inflamm. 2018, 2018, 2547918. [CrossRef] [PubMed] 
+174. Sun, H.; Shao, W.; Liu, H.; Jiang, Z. Exposure to 2,4-dichlorophenoxyacetic acid induced PPARβ-dependent disruption of glucose metabolism in HepG2 cells. Environ. Sci. Pollut. Res. 2018, 25, 17050–17057. [CrossRef] [PubMed] 
+175. Quintão, N.L.M.; Santin, J.R.; Stoeberl, L.C.; Corrêa, T.P.; Melato, J.; Costa, R. Pharmacological Treatment of Chemotherapy Induced Neuropathic Pain: PPAR Agonists as a Promising Tool. Front. Neurosci. 2019, 13, 907. [CrossRef] [PubMed] 176. Vallée, A.; Lecarpentier, Y.; Vallée, J.N. Targeting the Canonical WNT/β-Catenin Pathway in Cancer Treatment Using Non Steroidal Anti-Inflammatory Drugs. Cells 2019, 8, 726. [CrossRef] [PubMed] 
+177. Toraih, E.A.; Fawzy, M.S.; Abushouk, A.I.; Shaheen, S.; Hobani, Y.H.; Alruwetei, A.M.; Badran, D.I. Prognostic Value of the miRNA-27a and PPAR/RXRα Signaling Axis in Patients with Thyroid Carcinoma. Epigenomics 2020, 12, 1825–1843. [CrossRef] [PubMed] 
+178. Hirao-Suzuki, M.; Takeda, S.; Koga, T.; Takiguchi, M.; Toda, A. Cannabidiolic acid dampens the expression of cyclooxygenase-2 in MDA-MB-231 breast cancer cells: Possible implication of the peroxisome proliferator-activated receptor β/δ abrogation. J. Toxicol. Sci. 2020, 45, 227–236. [CrossRef] [PubMed] 
+179. Elie-Caille, C.; Lascombe, I.; Péchery, A.; Bittard, H.; Fauconnet, S. Molecular and nanoscale evaluation of N-cadherin expression in invasive bladder cancer cells under control conditions or GW501516 exposure. Mol. Cell Biochem. 2020, 471, 113–127. [CrossRef] 180. Moosavi, S.M.; Akhavan Sepahi, A.; Mousavi, S.F.; Vaziri, F.; Siadat, S.D. The effect of Faecalibacterium prausnitzii and its extracellular vesicles on the permeability of intestinal epithelial cells and expression of PPARs and ANGPTL4 in the Caco-2 cell culture model. J. Diabetes Metab. Disord. 2020, 19, 1061–1069. [CrossRef] 
+181. Liu, X.; Qian, D.; Liu, H.; Abbruzzese, J.L.; Luo, S.; Walsh, K.M.; Wei, Q. Genetic variants of the peroxisome proliferator-activated receptor (PPAR) signaling pathway genes and risk of pancreatic cancer. Mol Carcinog. 2020, 59, 930–939. [CrossRef] 182. Wouters, E.; Grajchen, E.; Jorissen, W.; Dierckx, T.; Wetzels, S.; Loix, M.; Tulleners, M.P.; Staels, B.; Stinissen, P.; Haidar, M.; et al. Altered PPARγ Expression Promotes Myelin-Induced Foam Cell Formation in Macrophages in Multiple Sclerosis. Int. J. Mol. Sci. 2020, 21, 9329. [CrossRef] [PubMed] 
+183. Xia, Y.; Li, J.; Chen, K.; Feng, J.; Guo, C. Bergenin Attenuates Hepatic Fibrosis by Regulating Autophagy Mediated by the PPAR-γ/TGF-β Pathway. PPAR Res. 2020, 2020, e6694214. [CrossRef] [PubMed] 
+184. Shen, J.; Sun, B.; Yu, C.; Cao, Y.; Cai, C.; Yao, J. Choline and methionine regulate lipid metabolism via the AMPK signaling pathway in hepatocytes exposed to high concentrations of nonesterified fatty acids. J. Cell Biochem. 2020, 121, 3667–3678. [CrossRef] [PubMed] 
+185. Yu, J.; Berga, S.L.; Zou, W.; Rajakumar, A.; Man, M.; Sidell, N.; Taylor, R.N. Human Endometrial Stromal Cell Differentiation is Stimulated by PPARβ/δ Activation: New Targets for Infertility? J. Clin. Endocrinol. Metab. 2020, 105, 2983–2995. [CrossRef] [PubMed] 
+186. Zhang, C.; Liu, Y.W.; Chi, Z.; Chen, B. Ligand-Activated Peroxisome Proliferator-Activated Receptor β/δ Facilitates Cell Proliferation in Human Cholesteatoma Keratinocytes. PPAR Res. 2020, 2020, e8864813. [CrossRef] [PubMed] 187. Wójtowicz, S.; Strosznajder, A.K.; Jezyna, M.; Strosznajder, J.B. The Novel Role of PPAR Alpha in the Brain: Promising Target ˙ in Therapy of Alzheimer’s Disease and Other Neurodegenerative Disorders. Neurochem. Res. 2020, 45, 972–988. [CrossRef] [PubMed] 
+188. Manickam, R.; Duszka, K.; Wahli, W. PPARs and Microbiota in Skeletal Muscle Health and Wasting. Int. J. Mol. Sci. 2020, 21, 8056. [CrossRef] 
+189. da Cruz, B.O.; Cardozo, L.F.M.F.; Magliano, D.C.; Stockler-Pinto, M.B. Nutritional strategies to modulate inflammation pathways via regulation of peroxisome proliferator-activated receptor β/δ. Nutr. Rev. 2020, 78, 207–214. [CrossRef] [PubMed] 190. Wagner, K.D.; Wagner, N. PPARs and Myocardial Infarction. Int. J. Mol. Sci. 2020, 21, 9436. [CrossRef] 191. Phua, W.W.T.; Tan, W.R.; Yip, Y.S.; Hew, I.D.; Wee, J.W.K.; Cheng, H.S.; Leow, M.K.S.; Wahli, W.; Tan, N.S. PPARβ/δ Agonism Upregulates Forkhead Box A2 to Reduce Inflammation in C2C12 Myoblasts and in Skeletal Muscle. Int. J. Mol. Sci. 2020, 21, 1747. [CrossRef]
+Biomolecules 2024, 14, 786 30 of 34 
+192. Zhang, Z.; Su, H.; Ahmed, R.Z.; Zheng, Y.; Jin, X. Critical biomarkers for myocardial damage by fine particulate matter: Focused on PPARα-regulated energy metabolism. Environ. Pollut. 2020, 264, 114659. [CrossRef] [PubMed] 
+193. Andrade-Souza, V.A.; Ghiarone, T.; Sansonio, A.; Santos Silva, K.A.; Tomazini, F.; Arcoverde, L.; Fyfe, J.; Perri, E.; Saner, N.; Kuang, J.; et al. Exercise twice-a-day potentiates markers of mitochondrial biogenesis in men. FASEB J. 2020, 34, 1602–1619. [CrossRef] 
+194. Faulkner, A.; Lynam, E.; Purcell, R.; Jones, C.; Lopez, C.; Board, M.; Wagner, K.-D.; Wagner, N.; Carr, C.; Wheeler-Jones, C. Context-dependent regulation of endothelial cell metabolism: Differential effects of the PPARβ/δ agonist GW0742 and VEGF-A. Sci. Rep. 2020, 10, 7849. [CrossRef] 
+195. Chai, C.Y.; Tai, I.C.; Zhou, R.; Song, J.; Zhang, C.; Sun, S. MicroRNA-9-5p inhibits proliferation and induces apoptosis of human hypertrophic scar fibroblasts through targeting peroxisome proliferator-activated receptor β. Biol. Open. 2020, 9, bio051904. [CrossRef] [PubMed] 
+196. Capozzi, M.E.; Savage, S.R.; McCollum, G.W.; Hammer, S.S.; Ramos, C.J.; Yang, R.; Bretz, C.A.; Penn, J.S. The peroxisome proliferator-activated receptor-β/δ antagonist GSK0660 mitigates retinal cell inflammation and leukostasis. Exp. Eye Res. 2020, 190, 107885. [CrossRef] [PubMed] 
+197. Contreras-Lopez, R.A.; Elizondo-Vega, R.; Torres, M.J.; Vega-Letter, A.M.; Luque-Campos, N.; Paredes-Martinez, M.J.; Pradenas, C.; Tejedor, G.; Oyarce, K.; Salgado, M.; et al. PPARβ/δ-dependent MSC metabolism determines their immunoregulatory properties. Sci. Rep. 2020, 10, 11423. [CrossRef] 
+198. Petr, M.; Maciejewska-Skrendo, A.; Zajac, A.; Chycki, J.; Stastny, P. Association of Elite Sports Status with Gene Variants of Peroxisome Proliferator Activated Receptors and Their Transcriptional Coactivator. Int. J. Mol. Sci. 2019, 21, 162. [CrossRef] 199. Tutunchi, H.; Ostadrahimi, A.; Saghafi-Asl, M.; Hosseinzadeh-Attar, M.J.; Shakeri, A.; Asghari-Jafarabadi, M.; Roshanravan, N.; Farrin, N.; Naemi, M.; Hasankhani, M. Oleoylethanolamide supplementation in obese patients newly diagnosed with non-alcoholic fatty liver disease: Effects on metabolic parameters, anthropometric indices, and expression of PPAR-α, UCP1, and UCP2 genes. Pharmacol. Res. 2020, 156, 104770. [CrossRef] 
+200. Grabacka, M.; Pierzchalska, M.; Płonka, P.M.; Pierzchalski, P. The Role of PPAR Alpha in the Modulation of Innate Immunity. Int. J. Mol. Sci. 2021, 22, 10545. [CrossRef] 
+201. Willems, S.; Morstein, J.; Hinnah, K.; Trauner, D.; Merk, D. A Photohormone for Light-Dependent Control of PPARα in Live Cells. J. Med. Chem. 2021, 64, 10393–10402. [CrossRef] 
+202. Kharbanda, C.; Alam, M.S.; Hamid, H.; Ali, Y.; Nazreen, S.; Dhulap, A.; Alam, P.; Pasha, M.A.Q. In Silico Designing, in Vitro and in Vivo Evaluation of Potential PPAR-γ Agonists Derived from Aryl Propionic Acid Scaffold. Bioorganic Chem. 2021, 106, 104458. [CrossRef] [PubMed] 
+203. Christofides, A.; Konstantinidou, E.; Jani, C.; Boussiotis, V.A. The role of peroxisome proliferator-activated receptors (PPAR) in immune responses. Metabolism 2021, 114, 154338. [CrossRef] [PubMed] 
+204. Rayner, M.L.D.; Healy, J.; Phillips, J.B. Repurposing Small Molecules to Target PPAR-γ as New Therapies for Peripheral Nerve Injuries. Biomolecules 2021, 11, 1301. [CrossRef] [PubMed] 
+205. Stark, J.M.; Coquet, J.M.; Tibbitt, C.A. The Role of PPAR-γ in Allergic Disease. Curr. Allergy Asthma Rep. 2021, 21, 45. [CrossRef] [PubMed] 
+206. Hasegawa, S.; Yoneda, M.; Kurita, Y.; Nogami, A.; Honda, Y.; Hosono, K.; Nakajima, A. Cholestatic Liver Disease: Current Treatment Strategies and New Therapeutic Agents. Drugs 2021, 81, 1181–1192. [CrossRef] [PubMed] 207. Mukherjee, A.G.; Wanjari, U.R.; Gopalakrishnan, A.V.; Katturajan, R.; Kannampuzha, S.; Murali, R.; Namachivayamm, A.; Ganesan, R.; Renu, K.; Dey, A.; et al. Exploring the Regulatory Role of ncRNA in NAFLD: A Particular Focus on PPARs. Cells 2022, 24, 3959. [CrossRef] [PubMed] 
+208. Dandare, A.; Khan, M.J.; Naeem, A.; Liaquat, A. Clinical relevance of circulating non-coding RNAs in metabolic diseases: Emphasis on obesity, diabetes, cardiovascular diseases and metabolic syndrome. Genes Dis. 2022, 10, 2393–2413. [CrossRef] [PubMed] 
+209. Chatzopoulou, F.; Kyritsis, K.A.; Papagiannopoulos, C.I.; Galatou, E.; Mittas, N.; Theodoroula, N.F.; Papazoglou, A.S.; Kara giannidis, E.; Chatzidimitriou, M.; Papa, A.; et al. Dissecting miRNA-Gene Networks to Map Clinical Utility Roads of Pharmacogenomics-Guided Therapeutic Decisions in Cardiovascular Precision Medicine. Cells 2022, 11, 607. [CrossRef] 
+210. Kaltdorf, M.; Breitenbach, T.; Karl, S.; Fuchs, M.; Kessie, D.K.; Psota, E.; Prelog, M.; Sarukhanyan, E.; Ebert, R.; Jakob, F.; et al. Software JimenaE allows efficient dynamic simulations of Boolean networks, centrality and system state analysis. Sci. Rep. 2023, 13, 1855. [CrossRef] 
+211. Tanaka, Y.; Minami, Y.; Endo, M. Ror1 promotes PPARα-mediated fatty acid metabolism in astrocytes. Genes Cells. 2023, 28, 307–318. [CrossRef] 
+212. Ibrahim, M.A.A.; Abdeljawaad, K.A.A.; Roshdy, E.; Mohamed, D.E.M.; Ali, T.F.S.; Gabr, G.A.; Jaragh-Alhadad, L.A.; Mekhemer, G.A.H.; Shawky, A.M.; Sidhom, P.A.; et al. In Silico Drug Discovery of SIRT2 Inhibitors from Natural Source as Anticancer Agents. Sci. Rep. 2023, 13, 2146. [CrossRef] 
+213. Yang, W.; Ling, X.; He, S.; Cui, H.; Yang, Z.; An, H.; Wang, L.; Zou, P.; Chen, Q.; Liu, J.; et al. PPARα/ACOX1 as a novel target for hepatic lipid metabolism disorders induced by per- and polyfluoroalkyl substances: An integrated approach. Environ. Int. 2023, 178, 108138. [CrossRef] [PubMed]
+Biomolecules 2024, 14, 786 31 of 34 
+214. Zhou, B.; Zhao, G.; Li, H.; Zhao, Q.; Liu, D. FNDC5/PPARa Pathway Alleviates THP-1-derived Macrophage Pyroptosis and Its Mechanism. Altern. Ther. Health Med. 2023, 29, 32–42. [PubMed] 
+215. Páscoa, I.; Biltes, R.; Sousa, J.; Preto, M.A.C.; Vasconcelos, V.; Castro, L.F.; Ruivo, R.; Cunha, I. A Multiplex Molecular Cell-Based Sensor to Detect Ligands of PPARs: An Optimized Tool for Drug Discovery in Cyanobacteria. Sensors 2023, 23, 1338. [CrossRef] [PubMed] 
+216. Kim, G.; Chen, Z.; Li, J.; Luo, J.; Castro-Martinez, F.; Wisniewski, J.; Cui, K.; Wang, Y.; Sun, J.; Ren, X.; et al. Gut-liver axis calibrates intestinal stem cell fitness. Cell. 2024, 187, 914–930.e20. [CrossRef] [PubMed] 
+217. Liu, P.; Li, Q.; Zhu, G.; Zhang, T.; Tu, D.; Zhang, F.; Finel, M.; He, Y.; Ge, G. Characterization of the Glucuronidating Pathway of Pectolinarigenin, the Major Active Constituent of the Chinese Medicine Daji, in Humans and Its Influence on Biological Activities. J. Ethnopharmacol. 2024, 319, 117280. [CrossRef] [PubMed] 
+218. Cheng, P.; Wei, H.-Z.; Chen, H.-W.; Wang, Z.-Q.; Mao, P.; Zhang, H.-H. DNMT3a-Mediated Methylation of PPARγ Promote Intervertebral Disc Degeneration by Regulating the NF-κB Pathway. J. Cell. Mol. Med. 2024, 28, e18048. [CrossRef] [PubMed] 219. Shyni, G.L.; Kavitha, S.; Indu, S.; Arya, A.D.; Anusree, S.S.; Vineetha, V.P.; Vandana, S.; Sundaresan, A.; Raghu, K.G. Chebulagic acid from Terminalia chebula enhances insulin mediated glucose uptake in 3T3-L1 adipocytes via PPARγ signaling pathway. Biofactors 2014, 40, 646–657. [CrossRef] 
+220. Zhang, D.; Wei, G. Green tea and the prevention of breast cancer: A case-control study in Southeast China. Carcinogenesis 2009, 30, 1351–1356. [CrossRef] 
+221. Tang, J.; Zheng, J.S.; Fang, L.; Jin, Y. Catechins and their therapeutic benefits to inflammatory bowel disease. Molecules 2009, 14, 5004–5015. 
+222. Chen, Z.P.; Schell, J.B.; Ho, C.T.; Chen, K.Y.; Li, S. Green tea epigallocatechin gallate shows a pronounced growth inhibitory effect on cancerous cells but not on their normal counterparts. Cancer Lett. 2020, 278, 101–112. [CrossRef] 
+223. Shao, M.; Guo, D.; Lu, W.; Chen, X.; Ma, L.; Wu, Y.; Zhang, X.; Wang, Q.; Wang, X.; Li, W.; et al. Identification of the active compounds and drug targets of Chinese medicine in heart failure based on the PPARs-RXRα pathway. J. Ethnopharmacol. 2020, 257, 112859. [CrossRef] [PubMed] 
+224. Tang, G.; Li, S.; Zhang, C.; Chen, H.; Wang, N.; Feng, Y. Clinical efficacies, underlying mechanisms and molecular targets of Chinese medicines for diabetic nephropathy treatment and management. Acta Pharm. Sin B. 2021, 11, 2749–2767. [CrossRef] 225. Xu, R.; Zhang, J.; Hu, X.; Xu, P.; Huang, S.; Cui, S.; Guo, Y.; Yang, H.; Chen, X.; Jiang, C. Yi-shen-hua-shi granules modulate immune and inflammatory damage via the ALG3/PPARγ/NF-κB pathway in the treatment of immunoglobulin a nephropathy. J. Ethnopharmacol. 2024, 319, 117204. [CrossRef] [PubMed] 
+226. Yuan, Z.; Qiao, H.; Wang, Z.; Wang, H.; Han, M.; Zhang, W.; Zhou, Y.; Hassan, H.M.; Zhao, W.; Qin, T. Taohe Chengqi decoction alleviated metabolic-associated fatty liver disease by boosting branched chain amino acids catabolism in the skeletal muscles of type 2 diabetes mellitus. Phytomedicine 2024, 126, 155315. [CrossRef] 
+227. Kuttan, R.; Bhanumathy, P.; Nirmala, K.; George, M.C.; Maliakel, B. Potential anticancer activity of turmeric (Curcuma longa). Cancer Lett. 2009, 136, 11–16. [CrossRef] [PubMed] 
+228. Aggarwal, B.B.; Sung, B. Pharmacological basis for the role of curcumin in chronic diseases: An age-old spice with modern targets. Trends Pharmacol. Sci. 2009, 30, 85–94. [CrossRef] [PubMed] 
+229. Anandharajan, R.; Jaiganesh, S.; Shankernarayanan, N.P.; Viswakarma, R.A.; Balakrishnan, A. In vitro glucose uptake activity of Aegles marmelos and Syzygium cumini by activation of Glut-4, PI3 kinase and PPARgamma in L6 myotubes. Phytomedicine 2006, 13, 434–441. [CrossRef] [PubMed] 
+230. Khosropoor, S.; Alavi, M.S.; Etemad, L.; Roohbakhsh, A. Cannabidiol goes nuclear: The role of PPARγ. Phytomedicine 2023, 114, 154771. [CrossRef] 
+231. Burstein, S. PPAR-gamma: A nuclear receptor with affinity for cannabinoids. Life Sci. 2005, 77, 1674–1684. [CrossRef] 232. Mechoulam, R.; Parker, L.A.; Gallily, R. Cannabidiol: An overview of some pharmacological aspects. J. Clin. Pharmacol. 2002, 42 (Suppl. S11), 11S–19S. [CrossRef] [PubMed] 
+233. Robson, P. Human studies of cannabinoids and medicinal cannabis. Handb. Exp. Pharmacol. 2005, 168, 719–756. [CrossRef] 234. Sun, Y.; Alexander, S.P.; Kendall, D.A.; Bennett, A.J. Cannabinoids and PPARalpha signalling. Biochem. Soc. Trans. 2006, 34, 1095–1097. [CrossRef] [PubMed] 
+235. Brown, I.; Cascio, M.G.; Rotondo, D.; Pertwee, R.G.; Heys, S.D.; Wahle, K.W. Cannabinoids and omega-3/6 endocannabinoids as cell death and anticancer modulators. Prog. Lipid Res. 2013, 52, 80–109. [CrossRef] [PubMed] 
+236. Blüher, M.; Lübben, G.; Paschke, R. Analysis of the relationship between the Pro12Ala variant in the PPAR-gamma2 gene and the response rate to therapy with pioglitazone in patients with type 2 diabetes. Diabetes Care 2003, 26, 825–831. [CrossRef] [PubMed] 237. Blüher, M.; Klemm, T.; Gerike, T.; Krankenberg, H.; Schuler, G.; Paschke, R. Lack of association between peroxisome proliferator activated receptor-gamma-2 gene variants and the occurrence of coronary heart disease in patients with diabetes mellitus. Eur. J. Endocrinol. 2002, 146, 545–551. [CrossRef] 
+238. Usuda, D.; Kanda, T. Peroxisome proliferator-activated receptors for hypertension. World J. Cardiol. 2014, 6, 744–754. [CrossRef] [PubMed] 
+239. Berger, J.; Leibowitz, M.D.; Doebber, T.W.; Elbrecht, A.; Zhang, B.; Zhou, G.; Biswas, C.; Cullinan, C.A.; Hayes, N.S.; Li, Y.; et al. Novel peroxisome proliferator-activated receptor (PPAR) gamma and PPARdelta ligands produce distinct biological effects. J. Biol. Chem. 1999, 274, 6718–6725. [CrossRef] [PubMed]
+Biomolecules 2024, 14, 786 32 of 34 
+240. Bidzi´nska, B.; Demissie, M.; Tworowska, U.; Milewicz, A. Receptory aktywowane przez proliferatory peroksysomów a gospo darka lipidowa i w˛eglowodanowa—rola fizjologiczna i znaczenie kliniczne. Diabetol. Pol. 2000, 7, 258–264. (In Polish) 241. Houseknecht, K.L.; Cole, B.M.; Steele, P.J. Peroxisome proliferator-activated receptor gamma (PPARgamma) and its ligands: A review. Domest. Anim. Endocrinol. 2002, 22, 1–23. [CrossRef] 
+242. Lindi, V.I.; Uusitupa, M.I.; Lindström, J.; Louheranta, A.; Eriksson, J.G.; Valle, T.T.; Hämäläinen, H.; Ilanne-Parikka, P.; Keinänen Kiukaanniemi, S.; Laakso, M.; et al. Finnish Diabetes Prevention Study. Association of the Pro12Ala polymorphism in the PPAR-gamma2 gene with 3-year incidence of type 2 diabetes and body weight change in the Finnish Diabetes Prevention Study. Diabetes 2002, 51, 2581–2586. [CrossRef] [PubMed] 
+243. Sanchez, J.L.G.; Rios, M.S.; Perez, C.F.; Laakso, M.; Larrad, M.T.M. Effect of the Pro12Ala polymorphism of the peroxisome proliferator-activated receptor g -2 gene on adiposity, insulin sensitivity and lipid profile in the Spanish population. Eur. J. Endocrinol. 2000, 147, 495–501. 
+244. Demissie, M. Zwi ˛azek Polimorfizmu Genu Receptora Aktywowanego Proliferatorami Peroksysomów g 2 z Zaburzeniami Gospodarki W˛eglowodanowej i Lipidowej Oraz Profilem Hormonalnym u Osób z Nalezn ˛a Mas ˛a Ciała i Otyłych [Association of ˙ Peroxisome Proliferator-Activated Receptor Gene g 2 Polymorphism with Carbohydrate and Lipid Metabolism Disorders and Hormonal Profile in Normal-Weight and Obese Subjects]. Ph.D. Disertation, Wroclaw Medical Univerity, Wrocław, Poland, 2003. 
+245. Douglas, J.A.; Erdos, M.R.; Watanabe, R.M.; Braun, A.; Johnston, C.L.; Oeth, P.; Mohlke, K.L.; Valle, T.T.; Ehnholm, C.; Buchanan, T.A.; et al. The peroxisome proliferator-activated receptor-gamma2 Pro12A1a variant: Association with type 2 diabetes and trait differences. Diabetes 2001, 50, 886–890. [CrossRef] [PubMed] 
+246. Ju, J.; Huang, Q.; Sun, J.; Zhao, X.; Guo, X.; Jin, Y.; Ma, W.; Wang, W. Correlation between PPAR-α methylation level in peripheral blood and atherosclerosis of NAFLD patients with DM. Exp. Ther. Med. 2018, 15, 2727–2730. [CrossRef] [PubMed] 247. Wang, J.; Zhang, Y.; Zhuo, Q.; Tseng, Y.; Wang, J.; Ma, Y.; Zhang, J.; Liu, J. TET1 promotes fatty acid oxidation and inhibits NAFLD progression by hydroxymethylation of PPARα promoter. Nutr. Metab. 2020, 17, 46. [CrossRef] [PubMed] 248. Theys, C.; Lauwers, D.; Perez-Novo, C.; Vanden Berghe, W. PPARα in the Epigenetic Driver Seat of NAFLD: New Therapeutic Opportunities for Epigenetic Drugs? Biomedicines 2022, 10, 3041. [CrossRef] [PubMed] 
+249. Yideng, J.; Zhihong, L.; Jiantuan, X.; Jun, C.; Guizhong, L.; Shuren, W. Homocysteine-Mediated PPARα,γ DNA Methylation and Its Potential Pathogenic Mechanism in Monocytes. DNA Cell Biol. 2008, 27, 143–150. [CrossRef] [PubMed] 250. Castellano-Castillo, D.; Moreno-Indias, I.; Sanchez-Alcoholado, L.; Ramos-Molina, B.; Alcaide-Torres, J.; Morcillo, S.; Ocaña Wilhelmi, L.; Tinahones, F.; Queipo-Ortuño, M.I.; Cardona, F. Altered Adipose Tissue DNA Methylation Status in Metabolic Syndrome: Relationships Between Global DNA Methylation and Specific Methylation at Adipogenic, Lipid Metabolism and Inflammatory Candidate Genes and Metabolic Variables. J. Clin. Med. 2019, 8, 87. [CrossRef] [PubMed] 251. Hong, F.; Xu, P.; Zhai, Y. The Opportunities and Challenges of Peroxisome Proliferator-Activated Receptors Ligands in Clinical Drug Discovery and Development. Int. J. Mol. Sci. 2018, 19, 2189. [CrossRef] 
+252. Kahn, B.B.; McGraw, T.E. Rosiglitazone, PPARγ, and Type 2 Diabetes. N. Engl. J. Med. 2010, 363, 2667–2669. [CrossRef] 253. Mitka, M. Panel Recommends Easing Restrictions on Rosiglitazone Despite Concerns About Cardiovascular Safety. JAMA 2013, 310, 246–247. [CrossRef] [PubMed] 
+254. Levin, D.; Bell, S.; Sund, R.; Hartikainen, S.A.; Tuomilehto, J.; Pukkala, E.; Keskimäki, I.; Badrick, E.; Renehan, A.G.; Buchan, I.E.; et al. Pioglitazone and Bladder Cancer Risk: A Multipopulation Pooled, Cumulative Exposure Analysis. Diabetologia 2015, 58, 493–504. [CrossRef] [PubMed] 
+255. Kim, S.H.; Kim, S.G.; Kim, D.M.; Woo, J.-T.; Jang, H.C.; Chung, C.H.; Ko, K.S.; Park, J.H.; Park, Y.S.; Kim, S.J.; et al. Safety and Efficacy of Lobeglitazone Monotherapy in Patients with Type 2 Diabetes Mellitus over 52 Weeks: An Open-Label Extension Study. Diabetes Res. Clin. Pract. 2015, 110, e27–e30. [CrossRef] [PubMed] 
+256. Shin, D.; Kim, T.-E.; Yoon, S.H.; Cho, J.-Y.; Shin, S.-G.; Jang, I.-J.; Yu, K.-S. Assessment of the Pharmacokinetics of Co-Administered Metformin and Lobeglitazone, a Thiazolidinedione Antihyperglycemic Agent, in Healthy Subjects. Curr. Med. Res. Opin. 2012, 28, 1213–1220. [CrossRef] 
+257. Priya, S.S.; Sankaran, R.; Ramalingam, S.; Sairam, T.; Somasundaram, L.S. Genotype Phenotype Correlation of Genetic Polymor phism of PPAR Gamma Gene and Therapeutic Response to Pioglitazone in Type 2 Diabetes Mellitus- A Pilot Study. J. Clin. Diagn. Res. JCDR 2016, 10, FC11–FC14. [CrossRef] [PubMed] 
+258. Stumvoll, M.; Häring, H. Reduced Lipolysis as Possible Cause for Greater Weight Gain in Subjects with the Pro12Ala Polymor phism in PPARgamma2? Diabetologia 2002, 45, 152–153. [CrossRef] [PubMed] 
+259. Stumvoll, M.; Wahl, H.G.; Löblein, K.; Becker, R.; Machicao, F.; Jacob, S.; Häring, H. Pro12Ala Polymorphism in the Peroxisome Proliferator-Activated Receptor-Gamma2 Gene Is Associated with Increased Antilipolytic Insulin Sensitivity. Diabetes 2001, 50, 876–881. [CrossRef] [PubMed] 
+260. Jang, E.J.; Lee, D.H.; Im, S.-S.; Yee, J.; Gwak, H.S. Correlation between PPARG Pro12Ala Polymorphism and Therapeutic Responses to Thiazolidinediones in Patients with Type 2 Diabetes: A Meta-Analysis. Pharmaceutics 2023, 15, 1778. [CrossRef] [PubMed] 
+261. Ji, J.D.; Cheon, H.; Jun, J.B.; Choi, S.J.; Kim, Y.R.; Lee, Y.H.; Kim, T.H.; Chae, I.J.; Song, G.G.; Yoo, G.H.; et al. Effects of Peroxisome Proliferator-activated Receptor-γ (PPAR-γ) on the Expression of Inflammatory Cytokines and Apoptosis Induction in Rheumatoid Synovial Fibroblasts and Monocytes. J. Autoimmun. 2001, 17, 215–221. [CrossRef]
+Biomolecules 2024, 14, 786 33 of 34 
+262. Ganeb, S.S.; El-Brashy, A.E.-W.S.; Baraka, E.A.; Aboelazm, A.A.; Shaza, A.; Abdul Basset, S.A.A. Peroxisome proliferator-activated receptor gamma expression in peripheral monocytes from rheumatoid arthritis patients. Egypt. Rheumatol. 2016, 38, 141–146. [CrossRef] 
+263. Li, X.F.; Sun, Y.Y.; Bao, J.; Chen, X.; Li, Y.H.; Yang, Y.; Zhang, L.; Huang, C.; Wu, B.-M.; Meng, X.-M.; et al. Functional role of PPAR-γ on the proliferation and migration of fibroblast-like synoviocytes in rheumatoid arthritis. Sci. Rep. 2017, 7, 1–13. [CrossRef] [PubMed] 
+264. Rousseaux, C.; Lefebvre, B.; Dubuquoy, L.; Lefebvre, P.; Romano, O.; Auwerx, J.; Metzger, D.; Wahli, W.; Desvergne, B.; Naccari, G.C.; et al. Intestinal anti-inflammatory effect of 5-aminosalicylic acid is dependent on peroxisome proliferator-activated receptor-γ. J. Exp. Med. 2005, 201, 1205–1215. [CrossRef] 
+265. Dubuquoy, L.; Rousseaux, C.; Thuru, X.; Peyrin-Biroulet, L.; Romano, O.; Chavatte, P.; Chamaillard, M.; Desreumaux, P. PPARgamma as a new therapeutic target in inflammatory bowel diseases. Gut 2006, 55, 1341–1349. [CrossRef] 266. Annese, V.; Rogai, F.; Settesoldi, A.; Bagnoli, S. PPARγ in Inflammatory Bowel Disease. PPAR Res. 2011, 2012, 620839. [CrossRef] 267. da Rocha, G.H.O.; de Paula-Silva, M.; Broering, M.F.; Scharf, P.R.D.S.; Matsuyama, L.S.A.S.; Maria-Engler, S.S.; Farsky, S.H.P. Pioglitazone-Mediated Attenuation of Experimental Colitis Relies on Cleaving of Annexin A1 Released by Macrophages. Front. Pharmacol. 2020, 11, 591561. [CrossRef] 
+268. Li, D.; Feng, Y.; Tian, M.; Ji, J.; Hu, X.; Chen, F. Gut microbiota-derived inosine from dietary barley leaf supplementation attenuates colitis through PPARγ signaling activation. Microbiome 2021, 9, 83. [CrossRef] [PubMed] 
+269. Liu, Y.; Wang, J.; Luo, S.; Zhan, Y.; Lu, Q. The roles of PPARγ and its agonists in autoimmune diseases: A comprehensive review. J. Autoimmun. 2020, 113, 102510. [CrossRef] 
+270. Li, X.F.; Yin, S.Q.; Li, H.; Yang, Y.L.; Chen, X.; Song, B.; Wu, S.; Wu, Y.Y.; Wang, H.; Li, J. PPAR-γ alleviates the inflammatory response in TNF-α-induced fibroblast-like synoviocytes by binding to p53 in rheumatoid arthritis. Acta Pharmacol Sin. 2023, 44, 454–464. [CrossRef] 
+271. Lewis, J.D.; Lichtenstein, G.R.; Stein, R.B.; Deren, J.J.; Judge, T.A.; Fogt, F.; Furth, E.E.; Demissie, E.J.; Hurd, L.B.; Su, C.G.; et al. An open-label trial of the PPAR-gamma ligand rosiglitazone for active ulcerative colitis. Am. J. Gastroenterol. 2001, 96, 3323–3328. [CrossRef] [PubMed] 
+272. Liang, H.L.; Ouyang, Q. A clinical trial of rosiglitazone and 5-aminosalicylate combination for ulcerative colitis. Zhonghua Nei ke Za Zhi 2006, 45, 548–551. 
+273. Bassaganya-Riera, J.; Rynolds, K.; Martino-Catt, S.; Cui, Y.; Hennighausen, L.; Gonzalez, F.; Rohrer, J.; Benninghoff, A.U.; Hontecillas, R. Activation of PPAR γ and δ by conjugated linoleic acid mediates protection from experimental inflammatory bowel disease. Gastroenterology 2004, 127, 777–791. [CrossRef] [PubMed] 
+274. Qian, Y.; Li, P.; Zhang, J.; Shi, Y.; Chen, K.; Yang, J.; Wu, Y.; Ye, X. Association between peroxisome proliferator-activated receptor-alpha, delta, and gamma polymorphisms and risk of coronary heart disease: A case-control study and meta-analysis. Medicine 2016, 95, e4299. [CrossRef] [PubMed] 
+275. Yilmaz-Aydogan, H.; Kurnaz, O.; Kucukhuseyin, O.; Akadam-Teker, B.; Kurt, O.; Eronat, A.P.; Tekeli, A.; Bugra, Z.; Ozturk, O. Different effects of PPARA, PPARG and ApoE SNPs on serum lipids in patients with coronary heart disease based on the presence of diabetes. Gene 2013, 523, 20–26. [CrossRef] [PubMed] 
+276. Skoczynska, A.; Dobosz, T.; Poreba, R.; Turczyn, B.; Derkacz, A.; Zoledziewska, M.; Jonkisz, A.; Lebioda, A. The dependence of serum interleukin-6 level on PPAR-alpha polymorphism in men with coronary atherosclerosis. Eur. J. Intern. Med. 2005, 16, 501–506. [CrossRef] [PubMed] 
+277. Gouni-Berthold, I.; Giannakidou, E.; Müller-Wieland, D.; Faust, M.; Kotzka, J.; Berthold, H.K.; Krone, W. Association between the PPARalpha L162V polymorphism, plasma lipoprotein levels, and atherosclerotic disease in patients with diabetes mellitus type 2 and in nondiabetic controls. Am. Heart J. 2004, 147, 1117–1124. [CrossRef] [PubMed] 
+278. Dong, C.; Zhou, H.; Shen, C.; Yu, L.G.; Ding, Y.; Zhang, Y.H.; Guo, Z.R. Role of peroxisome proliferator-activated receptors gene polymorphisms in type 2 diabetes and metabolic syndrome. World J. Diabetes 2015, 6, 654–661. [CrossRef] [PubMed] 279. Visseren, F.L.J.; Mach, F.; Smulders, Y.M.; Carballo, D.; Koskinas, K.C.; Bäck, M.; Benetos, A.; Biffi, A.; Boavida, J.-M.; Capodanno, D.; et al. ESC National Cardiac Societies, ESC Scientific Document Group. 2021 ESC Guidelines on cardiovascular disease prevention in clinical practice. Eur. Heart J. 2021, 42, 3227–3237. [CrossRef] [PubMed] 
+280. Dobrowolski, P.; Prejbisz, A.; Kuryłowicz, A.; Baska, A.; Burchardt, P.; Chlebus, K.; Dzida, G.; Jankowski, P.; Jaroszewicz, J.; Jaworski, P.; et al. Metabolic syndrome—A new definition and management guidelines: A joint position paper by the Polish Society of Hypertension, Polish Society for the Treatment of Obesity, Polish Lipid Association, Polish Association for Study of Liver, Polish Society of Family Medicine, Polish Society of Lifestyle Medicine, Division of Prevention and Epidemiology Polish Cardiac Society, “Club 30” Polish Cardiac Society, and Division of Metabolic and Bariatric Surgery Society of Polish Surgeons. Arch. Med. Sci. 2022, 18, 1133–1156. [CrossRef] 
+281. Cheng, H.S.; Tan, W.R.; Low, Z.S.; Marvalim, C.; Lee, J.Y.H.; Tan, N.S. Exploration and Development of PPAR Modulators in Health and Disease: An Update of Clinical Evidence. Int. J. Mol. Sci. 2019, 20, 5055. [CrossRef] 
+282. Colapietro, F.; Gershwin, M.E.; Lleo, A. PPAR agonists for the treatment of primary biliary cholangitis: Old and new tales. J. Transl. Autoimmun. 2023, 6, 100188. [CrossRef] 
+283. Xi, Y.; Zhang, Y.; Zhu, S.; Luo, Y.; Xu, P.; Huang, Z. PPAR-Mediated Toxicology and Applied Pharmacology. Cells 2020, 9, 352. [CrossRef] [PubMed]
+Biomolecules 2024, 14, 786 34 of 34 
+284. Okopie´n, B.; Bułdak, Ł.; Bołdys, A. Benefits and risks of the treatment with fibrates—-A comprehensive summary. Expert Rev. Clin. Pharmacol. 2018, 11, 1099–1112. [CrossRef] [PubMed] 
+285. Kersten, S.; Wahli, W. Peroxisome proliferator-activated receptor agonists. Exp.-Suppl. Only 2000, 89, 141–152. 
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
